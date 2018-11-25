@@ -12,9 +12,13 @@
   "author": "sam@worldofzero.com",
   "license": "MIT",
   "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "jss": "^9.8.7",
     "next": "^7.0.2",
+    "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-jss": "^8.6.1",
     "react-markdown": "^4.0.3",
     "react-syntax-highlighter": "^10.1.1"
   }
