@@ -1,7 +1,7 @@
 {
   "name": "woz-frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "World of Zero .COM frontend",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,8 +9,7 @@
     "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "sam@worldofzero.com",
   "license": "MIT",
   "dependencies": {
     "next": "^7.0.2",
