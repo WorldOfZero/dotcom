@@ -11,10 +11,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "next": "^7.0.2",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "react-markdown": "^4.0.3",
+    "react-syntax-highlighter": "^10.1.1"
   }
 }
