@@ -3,7 +3,7 @@
 
 import { SheetsRegistry } from 'jss';
 import { createMuiTheme, createGenerateClassName } from '@material-ui/core/styles';
-import { blue, pink } from '@material-ui/core/colors';
+import { blue, lightBlue } from '@material-ui/core/colors';
 
 // A theme with custom primary and secondary color.
 // It's optional.
@@ -13,11 +13,13 @@ const theme = createMuiTheme({
       light: blue[300],
       main: blue[500],
       dark: blue[700],
+      contrastText: '#ffffff'
     },
     secondary: {
-      light: pink[300],
-      main: pink[500],
-      dark: pink[700],
+      light: lightBlue[300],
+      main: lightBlue[500],
+      dark: lightBlue[700],
+      contrastText: '#ffffff'
     },
   },
   typography: {
