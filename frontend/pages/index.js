@@ -9,6 +9,7 @@ import DialogActions from '@material-ui/core/DialogActions';
 import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import Link from 'next/link';
+import ContentGrid from '../components/ContentGrid'
 
 const styles = theme => ({
   root: {
@@ -65,6 +66,7 @@ class Index extends React.Component {
         <Button variant="contained" color="secondary" onClick={this.handleClick}>
           Super Secret Password
         </Button>
+        <ContentGrid/>
       </div>
     );
   }
