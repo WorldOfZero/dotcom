@@ -1,5 +1,7 @@
 # World of Zero Frontend
 
+[![Build status](https://worldofzero.visualstudio.com/WorldOfZeroDotCom/_apis/build/status/WorldOfZeroDotCom-CI)](https://worldofzero.visualstudio.com/WorldOfZeroDotCom/_build/latest?definitionId=5)
+
 This is the frontend server and client for WorldOfZero.com
 
 Still very much a work in progress.
