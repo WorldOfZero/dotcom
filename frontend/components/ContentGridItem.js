@@ -18,23 +18,28 @@ const styles = theme => ({
 });
 
 class ContentGridItem extends React.Component {
+  static defaultProps = {
+    title: "",
+    img: "https://i.ytimg.com/vi/-vGNd8pnbYs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDrxBXxX_aCjt3NHamrr890qAdgqQ"
+  }
+
   constructor(props) {
     super(props);
   }
 
   render() {
-    const { classes } = this.props;
+    const { classes, img, title } = this.props;
 
     return (
       <Button 
         className={classes.button}
         style={{
-          backgroundImage: `url(https://i.ytimg.com/vi/-vGNd8pnbYs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDrxBXxX_aCjt3NHamrr890qAdgqQ)`,
+          backgroundImage: `url(${img})`,
           backgroundSize: 'cover'
         }}
         color="default"
         variant="outlined">
-        <div className={classes.title}>Learning How To Use Step and Smoothstep in Shaders</div>
+        <div className={classes.title}>{title}</div>
       </Button>
     )
   }

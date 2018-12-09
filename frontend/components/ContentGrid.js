@@ -1,5 +1,6 @@
-import { Button, GridList, GridListTile } from '@material-ui/core';
+import { GridList, GridListTile } from '@material-ui/core';
 import ContentGridItem from './ContentGridItem';
+import Measure from 'react-measure'
 
 export default class ContentGrid extends React.Component {
   static defaultProps = {
@@ -15,23 +16,32 @@ export default class ContentGrid extends React.Component {
     let rowHeight = this.props.rowHeight;
 
     return (
-      <GridList cellHeight={rowHeight} cols={6}>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-        <GridListTile><ContentGridItem /></GridListTile>
-      </GridList>
+      <Measure
+        bounds
+        onResize={contentRect => {
+          console.log(contentRect);
+        }}
+        >
+        {({ measureRef }) => (
+        <GridList cellHeight={rowHeight} cols={6}>
+          <GridListTile><ContentGridItem title="Testing"/></GridListTile>
+          <GridListTile><ContentGridItem title="Learning Step and Smoothstep"/></GridListTile>
+          <GridListTile><ContentGridItem title="Yet another Title thing"/></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+          <GridListTile><ContentGridItem /></GridListTile>
+        </GridList>
+        )}
+      </Measure>
     )
   }
 }
