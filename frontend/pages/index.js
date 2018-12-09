@@ -10,6 +10,7 @@ import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import Link from 'next/link';
 import ContentGrid from '../components/ContentGrid'
+import VideoInformationPanel from '../components/VideoInformationPanel'
 
 const styles = theme => ({
   root: {
@@ -66,6 +67,7 @@ class Index extends React.Component {
         <Button variant="contained" color="secondary" onClick={this.handleClick}>
           Super Secret Password
         </Button>
+        <VideoInformationPanel/>
         <ContentGrid/>
       </div>
     );
