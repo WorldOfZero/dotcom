@@ -7,7 +7,7 @@ const styles = theme => ({
     height: '100%',
     fontWeight: 600,
     color: 'rgba(1,1,1,0)',
-    textShadow: '0px 0px 5px rgba(0,0,0,1)',
+    textShadow: '0px 0px 5px rgba(0,0,0,0)',
     '&:hover': {
       color: '#fff',
       textShadow: '0px 0px 4px rgba(0,0,0,1), 0px 0px 8px rgba(0,0,0,1), 0px 0px 16px rgba(0,0,0,1)'
