@@ -14,6 +14,7 @@ import ContentGrid from '../components/ContentGrid'
 import VideoInformationPanel from '../components/VideoInformationPanel'
 import { Toolbar } from '@material-ui/core';
 import CopyrightToolbar from '../components/CopyrightToolbar';
+import SocialToolbar from '../components/SocialToolbar';
 
 const styles = theme => ({
   root: {
@@ -30,14 +31,12 @@ class Index extends React.Component {
       <div className={classes.root}>
         <AppBar position="static">
           <Toolbar>
-            Header
+            World of Zero
           </Toolbar>
         </AppBar>
         <VideoInformationPanel/>
-        <AppBar position="static">
-          <Toolbar>
-            Social Bar
-          </Toolbar>
+        <AppBar position="static" color="secondary">
+          <SocialToolbar/>
         </AppBar> 
         <ContentGrid/>
         <AppBar position="static">
