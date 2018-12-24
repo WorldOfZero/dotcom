@@ -13,6 +13,7 @@ import Link from 'next/link';
 import ContentGrid from '../components/ContentGrid'
 import VideoInformationPanel from '../components/VideoInformationPanel'
 import { Toolbar } from '@material-ui/core';
+import CopyrightToolbar from '../components/CopyrightToolbar';
 
 const styles = theme => ({
   root: {
@@ -40,9 +41,7 @@ class Index extends React.Component {
         </AppBar> 
         <ContentGrid/>
         <AppBar position="static">
-          <Toolbar>
-            © Copyright - Sam Wronski
-          </Toolbar>
+          <CopyrightToolbar/>
         </AppBar>
       </div>
     );
