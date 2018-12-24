@@ -68,23 +68,8 @@ export default class ContentGrid extends React.Component {
         {({ measureRef }) => (
           <div ref={measureRef}>
             <GridList cellHeight={rowHeight} cols={columns}>
-              {/* <GridListTile><ContentGridItem title="Testing"/></GridListTile>
-              <GridListTile><ContentGridItem title="Learning Step and Smoothstep"/></GridListTile>
-              <GridListTile><ContentGridItem title="Yet another Title thing"/></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile>
-              <GridListTile><ContentGridItem /></GridListTile> */}
               {
-                samples.map((item) => <GridListTile><ContentGridItem key={item.id} title={item.title} img={item.img}/></GridListTile>)
+                samples.map((item) => <GridListTile key={item.id}><ContentGridItem title={item.title} img={item.img}/></GridListTile>)
               }
             </GridList>
           </div>
