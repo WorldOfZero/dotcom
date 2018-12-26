@@ -22,10 +22,15 @@ Come Join the World of Zero Discord: https://discord.gg/hU5Kq2u
 
 const styles = theme => ({
   markdownDescription: {
-    marginLeft: '8px',
+    marginLeft: '16px',
+    marginRight: '16px',
+    paddingRight: '0px',
     overflowY: 'auto',
     [theme.breakpoints.up('md')]: {
       overflowY: 'scroll',
+      marginLeft: '8px',
+      marginRight: '0px',
+      paddingRight: '4px'
     },
   },
   videoGrid: {
