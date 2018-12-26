@@ -12,7 +12,7 @@ export default class LanguageBar extends React.Component {
             <strong>{ name }</strong>
           </Grid>
           <Grid style={{ textAlign: 'right' }} item sm={6} xs={12}>
-            <a href={link} style={{ color: '#FFFFFF' }}>Learn More About This Language</a>
+            <a href={link} style={{ color: '#FFFFFF' }}>Explore This Language</a>
           </Grid>
         </Grid>
       </div>
