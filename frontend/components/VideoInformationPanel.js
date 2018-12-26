@@ -1,5 +1,7 @@
 import { withStyles } from '@material-ui/core/styles';
+import withWidth, { isWidthUp } from '@material-ui/core/withWidth';
 import { Grid } from '@material-ui/core';
+import Measure from 'react-measure'
 import Markdown from 'react-markdown'
 import CodeBlock from '../renderers/CodeBlock'
 import YouTube from 'react-youtube'
@@ -20,35 +22,63 @@ Come Join the World of Zero Discord: https://discord.gg/hU5Kq2u
 
 const styles = theme => ({
   markdownDescription: {
+    margin: '4px',
     overflowY: 'auto',
-    height: '100%',
-    // Match [md, md + 1[
-    //       [md, lg[
-    //       [960px, 1280px[
     [theme.breakpoints.up('md')]: {
       overflowY: 'scroll',
-      height: 360
     },
   },
+  videoGrid: {
+    marginBottom: '-4px'
+  }
 });
 
 class VideoInformationPanel extends React.Component {
 
+  aspectRatio = 16.0/9.0;
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      height: 360
+    };
+  }
+
   render() {
-    const { classes } = this.props;
+    const { classes, width } = this.props;
+    const { height } = this.state;
+
+    const opts = {
+      width: '100%',
+      height: height
+    };
 
     return (
-      <Grid container>
+      <Grid container className={classes.videoGrid}>
+      
         <Grid item md={7} xs={12}>
-          <YouTube videoId="_08No6ET-qk"/>
+        <Measure
+          bounds
+          onResize={contentRect => {
+            this.setState({height: contentRect.bounds.width / this.aspectRatio});
+          }}
+          >
+          {({ measureRef }) => (
+            <div ref={measureRef} style={{ width: '100%' }}>
+              <YouTube videoId="_08No6ET-qk" opts={opts}/>
+            </div>
+          )}
+          </Measure>
         </Grid>
         {/* Justify the markdown description. */}
         <Grid style={{ textAlign: 'justify' }} item md={5} xs={12}>
-          <Markdown className={classes.markdownDescription} renderers={{code: CodeBlock}} source={mdx}/>
+          <div style={{height: isWidthUp('md', width) ? height : '100%'}} className={classes.markdownDescription}>
+            <Markdown renderers={{code: CodeBlock}} source={mdx}/>
+          </div>
         </Grid>
       </Grid>
     )
   }
 }
 
-export default withStyles(styles)(VideoInformationPanel);
+export default withWidth()(withStyles(styles)(VideoInformationPanel));
