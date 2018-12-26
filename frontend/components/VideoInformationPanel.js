@@ -30,7 +30,7 @@ const styles = theme => ({
       overflowY: 'scroll',
       marginLeft: '8px',
       marginRight: '0px',
-      paddingRight: '4px'
+      paddingRight: '8px'
     },
   },
   videoGrid: {
