@@ -15,6 +15,7 @@ import VideoInformationPanel from '../components/VideoInformationPanel'
 import { Toolbar } from '@material-ui/core';
 import CopyrightToolbar from '../components/CopyrightToolbar';
 import SocialToolbar from '../components/SocialToolbar';
+import WorldOfZeroLogo from '../components/WorldOfZeroLogo';
 
 const styles = theme => ({
   root: {
@@ -30,8 +31,8 @@ class Index extends React.Component {
     return (
       <div className={classes.root}>
         <AppBar position="static">
-          <Toolbar>
-            World of Zero
+          <Toolbar style={{ margin: '16px', alignSelf: 'center' }}>
+            <WorldOfZeroLogo/>
           </Toolbar>
         </AppBar>
         <VideoInformationPanel/>
