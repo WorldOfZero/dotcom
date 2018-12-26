@@ -1,0 +1,22 @@
+body {
+  color: #FFFFFF;
+  font-family: "Segoe UI", "Roboto", "Helvetica", "Arial", "sans-serif";
+}
+
+p h1 h2 h3 h4 h5 h6 {
+  color: #FFFFFF;
+  font-family: "Segoe UI", "Roboto", "Helvetica", "Arial", "sans-serif";
+}
+
+a {
+  color: #2196F3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
+
+a:visited {
+  text-decoration: underline;
+}

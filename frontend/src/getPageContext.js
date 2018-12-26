@@ -9,6 +9,7 @@ import { blue, lightBlue } from '@material-ui/core/colors';
 // It's optional.
 const theme = createMuiTheme({
   palette: {
+    type: 'dark',
     primary: {
       light: blue[300],
       main: blue[500],
@@ -24,6 +25,7 @@ const theme = createMuiTheme({
   },
   typography: {
     useNextVariants: true,
+    fontFamily: 'Roboto", "Helvetica", "Arial", sans-serif'
   },
 });
 
