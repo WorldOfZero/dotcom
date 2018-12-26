@@ -1,5 +1,3 @@
-import { Grid, Toolbar, SvgIcon } from '@material-ui/core';
-
 export default class WorldOfZeroLogo extends React.Component {
 
   render() {
