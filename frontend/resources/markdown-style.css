@@ -20,3 +20,18 @@ a:hover {
 a:visited {
   text-decoration: underline;
 }
+
+/* code {
+  background: #111111;
+  border-color: #787878;
+  border-radius: 2px;
+  border-width: 2px;
+  color: #FFD54F;
+  font-family: "Fira Code", "Consolas", monospace;
+  padding-left: 3px;
+  padding-right: 3px;
+} */
+
+pre {
+  margin: 0;
+}
