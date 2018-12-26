@@ -11,11 +11,11 @@ export default class VideoInformationPanel extends React.Component {
   render() {
     return (
       <Grid container>
-        <Grid item md={8} xs={12}>
+        <Grid item md={7} xs={12}>
           <YouTube videoId="_08No6ET-qk"/>
         </Grid>
         {/* Justify the markdown description. */}
-        <Grid style={{ textAlign: 'justify' }} item md={4} xs={12}>
+        <Grid style={{ textAlign: 'justify' }} item md={5} xs={12}>
           <Markdown renderers={{code: CodeBlock}} source={mdx}/>
         </Grid>
       </Grid>

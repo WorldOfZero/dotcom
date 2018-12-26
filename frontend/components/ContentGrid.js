@@ -66,7 +66,7 @@ export default class ContentGrid extends React.Component {
         }}
         >
         {({ measureRef }) => (
-          <div ref={measureRef}>
+          <div style={{ margin: '4px' }} ref={measureRef}>
             <GridList cellHeight={rowHeight} cols={columns}>
               {
                 samples.map((item) => <GridListTile key={item.id}><ContentGridItem title={item.title} img={item.img}/></GridListTile>)
