@@ -16,17 +16,14 @@ class SocialToolbar extends React.Component {
     return (
       <Toolbar>
         <Grid container>
-          <Grid item md={2} sm={3} xs={4}>
+          <Grid item xs={4}>
             <Button className={classes.button} style={{ backgroundColor: '#ff0000' }}>YouTube</Button>
           </Grid>
-          <Grid item md={2} sm={3} xs={4}>
+          <Grid item xs={4}>
             <Button className={classes.button} style={{ backgroundColor: '#38A1F3' }}>Twitter</Button>
           </Grid>
-          <Grid item md={2} sm={3} xs={4}>
+          <Grid item xs={4}>
             <Button className={classes.button} style={{ backgroundColor: '#7289da' }}>Discord</Button>
-          </Grid>
-          <Grid item md={2} sm={3} xs={4}>
-            <Button className={classes.button}>TODO</Button>
           </Grid>
         </Grid>
       </Toolbar>

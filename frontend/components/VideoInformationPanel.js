@@ -22,7 +22,7 @@ Come Join the World of Zero Discord: https://discord.gg/hU5Kq2u
 
 const styles = theme => ({
   markdownDescription: {
-    margin: '4px',
+    marginLeft: '8px',
     overflowY: 'auto',
     [theme.breakpoints.up('md')]: {
       overflowY: 'scroll',
@@ -45,13 +45,15 @@ class VideoInformationPanel extends React.Component {
   }
 
   render() {
-    const { classes, width } = this.props;
+    const { classes, width, videoId } = this.props;
     const { height } = this.state;
 
     const opts = {
       width: '100%',
       height: height
     };
+
+    var video = videoId === undefined ? '_08No6ET-qk' : videoId;
 
     return (
       <Grid container className={classes.videoGrid}>
@@ -60,12 +62,13 @@ class VideoInformationPanel extends React.Component {
         <Measure
           bounds
           onResize={contentRect => {
-            this.setState({height: contentRect.bounds.width / this.aspectRatio});
+            // Because of the -4 px margin we need to subtract 4 from the calculated height.
+            this.setState({height: (contentRect.bounds.width / this.aspectRatio) - 4});
           }}
           >
           {({ measureRef }) => (
             <div ref={measureRef} style={{ width: '100%' }}>
-              <YouTube videoId="_08No6ET-qk" opts={opts}/>
+              <YouTube videoId={video} opts={opts}/>
             </div>
           )}
           </Measure>

@@ -24,9 +24,12 @@ const styles = theme => ({
 });
 
 class Index extends React.Component {
+  static getInitialProps ({ query: { v } }) {
+    return { v }
+  }
 
   render() {
-    const { classes } = this.props;
+    const { classes, v } = this.props;
 
     return (
       <div className={classes.root}>
@@ -35,7 +38,7 @@ class Index extends React.Component {
             <WorldOfZeroLogo/>
           </Toolbar>
         </AppBar>
-        <VideoInformationPanel/>
+        <VideoInformationPanel videoId={v}/>
         <AppBar position="static" color="secondary">
           <SocialToolbar/>
         </AppBar> 
