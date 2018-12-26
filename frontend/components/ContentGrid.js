@@ -58,6 +58,13 @@ export default class ContentGrid extends React.Component {
       }
     ]
 
+    var videos = [];
+    for(var i = 0; i < 100; ++i) {
+      for(var n = 0; n < samples.length; ++n) {
+        videos.push(samples[n]);
+      }
+    }
+
     return (
       <Measure
         bounds
@@ -69,7 +76,7 @@ export default class ContentGrid extends React.Component {
           <div style={{ margin: '4px' }} ref={measureRef}>
             <GridList cellHeight={rowHeight} cols={columns}>
               {
-                samples.map((item) => <GridListTile key={item.id}><ContentGridItem title={item.title} img={item.img}/></GridListTile>)
+                videos.map((item) => <GridListTile key={item.id}><ContentGridItem title={item.title} img={item.img}/></GridListTile>)
               }
             </GridList>
           </div>
