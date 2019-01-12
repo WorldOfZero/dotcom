@@ -18,7 +18,7 @@ action "Build Frontend" {
 action "Dockerize World of Zero Frontend" {
   uses = "actions/docker/cli@c08a5fc9e0286844156fefff2c141072048141f6"
   runs = "docker"
-  args = "build frontend/Dockerfile -t woz-frontend"
+  args = "build frontend -t woz-frontend"
   needs = ["Build Frontend"]
 }
 
