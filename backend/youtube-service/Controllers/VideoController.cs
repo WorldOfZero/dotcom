@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using WorldOfZero.Services.YouTube.Models;
 
 namespace WorldOfZero.Services.YouTube.Controllers
 {
@@ -11,35 +12,30 @@ namespace WorldOfZero.Services.YouTube.Controllers
     public class VideoController : ControllerBase
     {
         // GET api/values
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<YouTubeVideoDescription> Get(string id)
         {
-            return "value";
+            return new YouTubeVideoDescription() {
+                Id = "1234",
+                PublishedAt = DateTime.Now,
+                Title = "Test",
+                Description = "Description"
+            };
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
+        // GET api/values
+        [HttpGet()]
+        public ActionResult<YouTubeVideoSet> Get()
         {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            var videos = new List<YouTubeVideo>();
+            videos.Add(new YouTubeVideo() {
+                Id = "1324",
+                Title = "Test",
+                Thumbnail = "Test"
+            });
+            return new YouTubeVideoSet() {
+                Videos = videos
+            };
         }
     }
 }
