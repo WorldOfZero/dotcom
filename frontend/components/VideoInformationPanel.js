@@ -5,6 +5,8 @@ import Measure from 'react-measure'
 import Markdown from 'react-markdown'
 import CodeBlock from '../renderers/CodeBlock'
 import YouTube from 'react-youtube'
+import { connect } from 'react-redux';
+import { loadVideos } from '../store';
 
 const mdx = `
 # Lets Make Voxel Terrain
@@ -80,7 +82,7 @@ class VideoInformationPanel extends React.Component {
   }
 
   render() {
-    const { classes, width, videoId } = this.props;
+    const { classes, width, videoId, videos } = this.props;
     const { height } = this.state;
 
     const opts = {
@@ -88,7 +90,18 @@ class VideoInformationPanel extends React.Component {
       height: height
     };
 
-    var video = videoId === undefined ? '_08No6ET-qk' : videoId;
+    let targetVideo = '';
+    if (videoId !== undefined) {
+      targetVideo = videoId;
+    } else if (videos.length > 0) {
+      targetVideo = videos[0].id;
+    }
+
+    const selectedVideo = videos.find((video) => video.id == targetVideo);
+    let mdx = '';
+    if (selectedVideo !== undefined) {
+      mdx = `# ${selectedVideo.title}\n\n${selectedVideo.description}`;
+    }
 
     return (
       <Grid container className={classes.videoGrid}>
@@ -103,7 +116,7 @@ class VideoInformationPanel extends React.Component {
           >
           {({ measureRef }) => (
             <div ref={measureRef} style={{ width: '100%' }}>
-              <YouTube videoId={video} opts={opts}/>
+              <YouTube videoId={targetVideo} opts={opts}/>
             </div>
           )}
           </Measure>
@@ -119,4 +132,9 @@ class VideoInformationPanel extends React.Component {
   }
 }
 
-export default withWidth()(withStyles(styles)(VideoInformationPanel));
+function mapStateToProps (state) {
+  const { videos } = state;
+  return { videos };
+}
+
+export default connect(mapStateToProps)(withWidth()(withStyles(styles)(VideoInformationPanel)));

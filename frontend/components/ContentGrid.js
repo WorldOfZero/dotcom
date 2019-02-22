@@ -1,10 +1,13 @@
 import { GridList, GridListTile } from '@material-ui/core';
 import ContentGridItem from './ContentGridItem';
-import Measure from 'react-measure'
-import Link from 'next/link'
+import Measure from 'react-measure';
+import Link from 'next/link';
+import { connect } from 'react-redux';
+import { loadVideos } from '../store';
 
-export default class ContentGrid extends React.Component {
+class ContentGrid extends React.Component {
   static defaultProps = {
+    videos: [],
     columnWidthGoal: 320,
     aspectRatio: 16.0/9.0
   }
@@ -14,21 +17,23 @@ export default class ContentGrid extends React.Component {
     this.state = {
       columns: 6,
       rowHeight: 160,
-      videos: []
+      //videos: []
     };
   }
 
   componentDidMount() {
-    fetch("https://localhost:5001/api/video").then(results => {
-      return results.json();
-    }).then(results => {
-      console.log(results);
-      const videoViews = [];
-      results.videos.forEach(video => {
-        videoViews.push({id: video.id, title: video.title, img: video.thumbnail});
-      });
-      this.setState({videos: videoViews});
-    })
+    const { dispatch } = this.props;
+    dispatch(loadVideos());
+    // fetch("https://localhost:5001/api/video").then(results => {
+    //   return results.json();
+    // }).then(results => {
+    //   console.log(results);
+    //   const videoViews = [];
+    //   results.videos.forEach(video => {
+    //     videoViews.push({id: video.id, title: video.title, img: video.thumbnail});
+    //   });
+    //   this.setState({videos: videoViews});
+    // })
   }
 
   matchHeightToRatio(width, aspectRatio) {
@@ -38,7 +43,8 @@ export default class ContentGrid extends React.Component {
   }
 
   render() {
-    const { videos, rowHeight, columns } = this.state;
+    const { rowHeight, columns } = this.state;
+    const { videos } = this.props;
 
     return (
       <Measure
@@ -60,3 +66,10 @@ export default class ContentGrid extends React.Component {
     )
   }
 }
+
+function mapStateToProps (state) {
+  const { videos } = state;
+  return { videos };
+}
+
+export default connect(mapStateToProps)(ContentGrid);
