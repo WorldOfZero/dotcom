@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.38.0.1488" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 

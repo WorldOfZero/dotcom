@@ -1,3 +1,4 @@
+using System;
 using Newtonsoft.Json;
 
 namespace WorldOfZero.Services.YouTube.Models
@@ -10,5 +11,10 @@ namespace WorldOfZero.Services.YouTube.Models
     public string Title { get; set; }
     [JsonProperty("thumbnail")]
     public string Thumbnail { get; set; }
+    
+    [JsonProperty("publishedAt")]
+    public DateTime PublishedAt { get; set; }
+    [JsonProperty("description")]
+    public string Description { get; set; }
   }
 }
