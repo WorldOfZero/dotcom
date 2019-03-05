@@ -21,7 +21,7 @@ export default class CodeBlock extends React.PureComponent {
     const { language, value } = this.props;
 
     var languageData = undefined;
-    if (languageMap.hasOwnProperty(language.toString())) {
+    if (language !== null && languageMap.hasOwnProperty(language.toString())) {
       languageData = languageMap[language.toString()];
     }
 
