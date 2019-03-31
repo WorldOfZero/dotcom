@@ -41,7 +41,7 @@ export const languageMap = {
   },
   shader: {
     name: "Graphics Shader",
-    color: "#a31545",
+    color: "#A31545",
     link: "https://shadertoy.com"
   },
   regex: {
