@@ -20,13 +20,13 @@ class SocialToolbar extends React.Component {
       <Toolbar>
         <Grid container>
           <Grid item xs={4}>
-            <Button className={classes.button} style={{ backgroundColor: '#ff0000' }}><YouTubeIcon height={48} width={48}/></Button>
+            <Button className={classes.button} style={{ backgroundColor: '#FF0000' }}><YouTubeIcon height={48} width={48}/></Button>
           </Grid>
           <Grid item xs={4}>
             <Button className={classes.button} style={{ backgroundColor: '#38A1F3' }}><TwitterIcon height={48} width={48}/></Button>
           </Grid>
           <Grid item xs={4}>
-            <Button className={classes.button} style={{ backgroundColor: '#7289da' }}><DiscordIcon height={48} width={48}/></Button>
+            <Button className={classes.button} style={{ backgroundColor: '#7289DA' }}><DiscordIcon height={48} width={48}/></Button>
           </Grid>
         </Grid>
       </Toolbar>
