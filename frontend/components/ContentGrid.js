@@ -4,6 +4,7 @@ import Measure from 'react-measure';
 import Link from 'next/link';
 import { connect } from 'react-redux';
 import { loadVideos } from '../store';
+import LinearProgress from '@material-ui/core/LinearProgress';
 
 class ContentGrid extends React.Component {
   static defaultProps = {
@@ -24,16 +25,6 @@ class ContentGrid extends React.Component {
   componentDidMount() {
     const { dispatch } = this.props;
     dispatch(loadVideos());
-    // fetch("https://localhost:5001/api/video").then(results => {
-    //   return results.json();
-    // }).then(results => {
-    //   console.log(results);
-    //   const videoViews = [];
-    //   results.videos.forEach(video => {
-    //     videoViews.push({id: video.id, title: video.title, img: video.thumbnail});
-    //   });
-    //   this.setState({videos: videoViews});
-    // })
   }
 
   matchHeightToRatio(width, aspectRatio) {
@@ -55,9 +46,10 @@ class ContentGrid extends React.Component {
         >
         {({ measureRef }) => (
           <div style={{ margin: '4px' }} ref={measureRef}>
+            {videos.length === 0 ? <LinearProgress variant="query" style={{margin: '12px'}}/> : '' }
             <GridList cellHeight={rowHeight} cols={columns}>
               {
-                videos.map((item) => <GridListTile key={item.id}><a href={'/?v='+item.id}><ContentGridItem title={item.title} img={item.img}/></a></GridListTile>)
+                videos.map((item) => <GridListTile key={item.id}><Link href={'/?v='+item.id}><a><ContentGridItem title={item.title} img={item.img}/></a></Link></GridListTile>)
               }
             </GridList>
           </div>

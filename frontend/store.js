@@ -24,7 +24,6 @@ export const loadVideos = () => dispatch => {
   fetch("https://localhost:5001/api/video").then(results => {
     return results.json();
   }).then(results => {
-    console.log(results);
     const videoViews = [];
     results.videos.forEach(video => {
       videoViews.push({id: video.id, title: video.title, img: video.thumbnail, description: video.description});

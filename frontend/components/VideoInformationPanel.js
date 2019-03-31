@@ -6,6 +6,7 @@ import Markdown from 'react-markdown'
 import CodeBlock from '../renderers/CodeBlock'
 import YouTube from 'react-youtube'
 import { connect } from 'react-redux';
+import LinearProgress from '@material-ui/core/LinearProgress';
 
 const styles = theme => ({
   markdownDescription: {
@@ -78,6 +79,7 @@ class VideoInformationPanel extends React.Component {
         {/* Justify the markdown description. */}
         <Grid style={{ textAlign: 'justify' }} item md={5} xs={12}>
           <div style={{height: isWidthUp('md', width) ? height : '100%'}} className={classes.markdownDescription}>
+            {videos.length === 0 ? <LinearProgress variant="query" style={{margin: '12px'}}/> : '' }
             <Markdown renderers={{code: CodeBlock}} source={mdx}/>
           </div>
         </Grid>
