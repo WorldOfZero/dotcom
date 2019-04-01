@@ -3,6 +3,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import SyntaxHighlighter from 'react-syntax-highlighter';
+import LanguageBar from '../components/LanguageBar'
+import { languageMap } from '../src/languageMap';
+import dark from 'react-syntax-highlighter/styles/hljs/dark';
 
 export default class CodeBlock extends React.PureComponent {
   static propTypes = {
@@ -17,10 +20,20 @@ export default class CodeBlock extends React.PureComponent {
   render() {
     const { language, value } = this.props;
 
+    var languageData = undefined;
+    if (language !== null && languageMap.hasOwnProperty(language.toString())) {
+      languageData = languageMap[language.toString()];
+    }
+
     return (
-      <SyntaxHighlighter language={language}>
-        {value}
-      </SyntaxHighlighter>
+      <div>
+        { languageData != undefined &&
+          <LanguageBar name={languageData.name} color={languageData.color} link={languageData.link}/>
+        }
+        <SyntaxHighlighter language={language} style={dark}>
+          {value}
+        </SyntaxHighlighter>
+      </div>
     );
   }
 }

@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import AppBar from '@material-ui/core/AppBar'
 import Button from '@material-ui/core/Button';
 import Dialog from '@material-ui/core/Dialog';
 import DialogTitle from '@material-ui/core/DialogTitle';
@@ -10,63 +11,41 @@ import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import Link from 'next/link';
 import ContentGrid from '../components/ContentGrid'
+import VideoInformationPanel from '../components/VideoInformationPanel'
+import { Toolbar } from '@material-ui/core';
+import CopyrightToolbar from '../components/CopyrightToolbar';
+import SocialToolbar from '../components/SocialToolbar';
+import WorldOfZeroLogo from '../components/WorldOfZeroLogo';
 
 const styles = theme => ({
   root: {
-    textAlign: 'center',
-    paddingTop: theme.spacing.unit * 20,
+    textAlign: 'center'
   },
 });
 
 class Index extends React.Component {
-  state = {
-    open: false,
-  };
-
-  handleClose = () => {
-    this.setState({
-      open: false,
-    });
-  };
-
-  handleClick = () => {
-    this.setState({
-      open: true,
-    });
-  };
+  static getInitialProps ({ query: { v } }) {
+    return { v }
+  }
 
   render() {
-    const { classes } = this.props;
-    const { open } = this.state;
+    const { classes, v } = this.props;
 
     return (
       <div className={classes.root}>
-        <Dialog open={open} onClose={this.handleClose}>
-          <DialogTitle>Super Secret Password</DialogTitle>
-          <DialogContent>
-            <DialogContentText>1-2-3-4-5</DialogContentText>
-          </DialogContent>
-          <DialogActions>
-            <Button color="primary" onClick={this.handleClose}>
-              OK
-            </Button>
-          </DialogActions>
-        </Dialog>
-        <Typography variant="h4" gutterBottom>
-          Material-UI
-        </Typography>
-        <Typography variant="subtitle1" gutterBottom>
-          example project
-        </Typography>
-        <Typography gutterBottom>
-          <Link href="/about">
-            <a>Go to the about page</a>
-          </Link>
-        </Typography>
-        <Button variant="contained" color="secondary" onClick={this.handleClick}>
-          Super Secret Password
-        </Button>
+        <AppBar position="static">
+          <Toolbar style={{ margin: '16px', alignSelf: 'center' }}>
+            <WorldOfZeroLogo/>
+          </Toolbar>
+        </AppBar>
+        <VideoInformationPanel videoId={v}/>
+        <AppBar position="static" color="secondary">
+          <SocialToolbar/>
+        </AppBar> 
         <ContentGrid/>
+        <AppBar position="static">
+          <CopyrightToolbar/>
+        </AppBar>
       </div>
     );
   }

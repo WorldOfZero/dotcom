@@ -7,10 +7,12 @@ const styles = theme => ({
     height: '100%',
     fontWeight: 600,
     color: 'rgba(1,1,1,0)',
+    textShadow: '0px 0px 5px rgba(0,0,0,0)',
     '&:hover': {
       color: '#fff',
+      textShadow: '0px 0px 4px rgba(0,0,0,1), 0px 0px 8px rgba(0,0,0,1), 0px 0px 16px rgba(0,0,0,1)'
     },
-    transition: theme.transitions.create('color'),
+    transition: theme.transitions.create('color', 'text-shadow')
   },
   title: {
     borderBottom: '3px solid'
@@ -18,23 +20,29 @@ const styles = theme => ({
 });
 
 class ContentGridItem extends React.Component {
+  static defaultProps = {
+    title: "",
+    img: "https://i.ytimg.com/vi/-vGNd8pnbYs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDrxBXxX_aCjt3NHamrr890qAdgqQ"
+  }
+
   constructor(props) {
     super(props);
   }
 
   render() {
-    const { classes } = this.props;
+    const { classes, img, title } = this.props;
 
     return (
       <Button 
         className={classes.button}
         style={{
-          backgroundImage: `url(https://i.ytimg.com/vi/-vGNd8pnbYs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDrxBXxX_aCjt3NHamrr890qAdgqQ)`,
-          backgroundSize: 'cover'
+          backgroundImage: `url(${img})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center'
         }}
         color="default"
         variant="outlined">
-        <div className={classes.title}>Learning How To Use Step and Smoothstep in Shaders</div>
+        <div className={classes.title}>{title}</div>
       </Button>
     )
   }
