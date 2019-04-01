@@ -50,7 +50,8 @@ namespace WorldOfZero.Services.YouTube
             }
 
             //app.UseResponseCaching(); 
-            app.UseHttpsRedirection();
+            //TODO:sam RE-enable this
+            //app.UseHttpsRedirection();
             app.UseMvc();
         }
     }

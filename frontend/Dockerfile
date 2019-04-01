@@ -1,15 +1,15 @@
-FROM node:8-alpine
-WORKDIR /src
+FROM node:10-alpine
+WORKDIR /usr/src/app
 
 # Install dependencies
-COPY package.json /src/package.json
+COPY package*.json ./
 RUN npm install
 
 # Now copy over source files
-COPY . /src
+COPY . .
 
 # Build webserv
 RUN npm run build
 
-# Run the built webserv
-ENTRYPOINT npm run start
+# Running the app
+CMD [ "npm", "start" ]

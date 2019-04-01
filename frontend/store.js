@@ -21,7 +21,7 @@ export const reducer = (state = defaultState, action) => {
 }
 
 export const loadVideos = () => dispatch => {
-  fetch("https://localhost:5001/api/video").then(results => {
+  fetch("/api/video").then(results => {
     return results.json();
   }).then(results => {
     const videoViews = [];

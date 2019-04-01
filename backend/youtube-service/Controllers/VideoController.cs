@@ -53,7 +53,8 @@ namespace WorldOfZero.Services.YouTube.Controllers
                 _cache.Set("youtube_videos", videos, cacheOptions);
             }
 
-            Response.Headers.Add("Access-Control-Allow-Origin", "*");
+            // CORS for local testing without DOCKER
+            // Response.Headers.Add("Access-Control-Allow-Origin", "*");
 
             return videos;
         }
