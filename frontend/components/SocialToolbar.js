@@ -21,16 +21,16 @@ class SocialToolbar extends React.Component {
       <Toolbar>
         <Grid container>
           <Grid item sm={3} xs={6}>
-            <Button className={classes.button} style={{ backgroundColor: '#FF0000' }}><YouTubeIcon height={48} width={48}/></Button>
+            <Button href='https://www.youtube.com/worldofzerodevelopment' className={classes.button} style={{ backgroundColor: '#FF0000' }}><YouTubeIcon height={48} width={48}/></Button>
           </Grid>
           <Grid item sm={3} xs={6}>
-            <Button className={classes.button} style={{ backgroundColor: '#222222' }}><GitHubIcon height={48} width={48}/></Button>
+            <Button href='https://www.github.com/worldofzero' className={classes.button} style={{ backgroundColor: '#222222' }}><GitHubIcon height={48} width={48}/></Button>
           </Grid>
           <Grid item sm={3} xs={6}>
-            <Button className={classes.button} style={{ backgroundColor: '#38A1F3' }}><TwitterIcon height={48} width={48}/></Button>
+            <Button href='https://www.twitter.com/runewake2' className={classes.button} style={{ backgroundColor: '#38A1F3' }}><TwitterIcon height={48} width={48}/></Button>
           </Grid>
           <Grid item sm={3} xs={6}>
-            <Button className={classes.button} style={{ backgroundColor: '#7289DA' }}><DiscordIcon height={48} width={48}/></Button>
+            <Button href='https://discord.gg/hU5Kq2u' className={classes.button} style={{ backgroundColor: '#7289DA' }}><DiscordIcon height={48} width={48}/></Button>
           </Grid>
         </Grid>
       </Toolbar>
