@@ -8,10 +8,10 @@ export default class LanguageBar extends React.Component {
     return (
       <div style={{ background: color, paddingLeft: '0.5em', paddingRight: '0.5em' }}>
         <Grid container>
-          <Grid style={{ textAlign: 'left' }} item sm={6} xs={12}>
+          <Grid style={{ textAlign: 'left' }} item xs={6}>
             <strong>{ name }</strong>
           </Grid>
-          <Grid style={{ textAlign: 'right' }} item sm={6} xs={12}>
+          <Grid style={{ textAlign: 'right' }} item xs={6}>
             <a href={link} target="_blank" style={{ color: '#FFFFFF' }}>Explore This Language</a>
           </Grid>
         </Grid>
