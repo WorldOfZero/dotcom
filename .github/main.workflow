@@ -57,6 +57,9 @@ action "Azure Login" {
 action "GitHub Action for Azure" {
   uses = "Azure/github-actions/cli@843845a95833e81c790d80c6e2fa714ccbd5e145"
   needs = ["Azure Login"]
+  env = {
+    AZURE_SCRIPT = "az acr login --name WorldOfZero"
+  }
 }
 
 action "Push woz-frontend" {
