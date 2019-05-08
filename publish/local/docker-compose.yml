@@ -1,0 +1,17 @@
+version: '3'
+services:
+  woz-server:
+    image: 192.168.1.58:5000/woz-server:latest
+    restart: 'unless-stopped'
+    environment:
+      - YOUTUBE_API_KEY=${YOUTUBE_API_KEY}
+
+  woz-frontend:
+    image: 192.168.1.58:5000/woz-frontend:latest
+    restart: 'unless-stopped'
+
+  woz-proxy:
+    image: 192.168.1.58:5000/woz-proxy:latest
+    restart: 'unless-stopped'
+    ports:
+      - "80:80"
