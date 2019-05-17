@@ -48,32 +48,26 @@ action "Tag YouTube Service" {
   args = "woz-youtube-service worldofzero.azurecr.io/woz-youtube-service"
 }
 
-action "Azure Login" {
-  uses = "Azure/github-actions/login@master"
+action "Docker Login" {
+  uses = "actions/docker/login@8cdf801b322af5f369e00d85e9cf3a7122f49108"
   needs = ["Tag Frontend", "Tag Proxy", "Tag YouTube Service"]
-  secrets = ["AZURE_SERVICE_APP_ID", "AZURE_SERVICE_PASSWORD", "AZURE_SERVICE_TENANT"]
+  secrets = ["DOCKER_REGISTRY_URL", "DOCKER_USERNAME", "DOCKER_PASSWORD"]
 }
 
 action "Azure Youtube Service" {
-  uses = "Azure/github-actions/cli@1364758fbd1891d018072a354a57f9651bacb5b2"
-  needs = ["Azure Login"]
-  env = {
-    AZURE_SCRIPT = "az acr build -t worldofzero.azurecr.io/woz-youtube-service -r WorldOfZero backend/youtube-service"
-  }
+  uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
+  needs = ["Docker Login"]
+  args = "push worldofzero.azurecr.io/woz-youtube-service:latest"
 }
 
 action "Azure Frontend" {
-  uses = "Azure/github-actions/cli@1364758fbd1891d018072a354a57f9651bacb5b2"
-  needs = ["Azure Login"]
-  env = {
-    AZURE_SCRIPT = "az acr build -t worldofzero.azurecr.io/woz-frontend -r WorldOfZero frontend"
-  }
+  uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
+  needs = ["Docker Login"]
+  args = "push worldofzero.azurecr.io/woz-frontend:latest"
 }
 
 action "Azure Proxy" {
-  uses = "Azure/github-actions/cli@1364758fbd1891d018072a354a57f9651bacb5b2"
-  needs = ["Azure Login"]
-  env = {
-    AZURE_SCRIPT = "az acr build -t worldofzero.azurecr.io/woz-proxy -r WorldOfZero backend/proxy"
-  }
+  uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
+  needs = ["Docker Login"]
+  args = "push worldofzero.azurecr.io/woz-proxy:latest"
 }
