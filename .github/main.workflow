@@ -39,35 +39,41 @@ action "Dockerize World of Zero Proxy" {
 action "Tag Proxy" {
   uses = "actions/docker/tag@8cdf801b322af5f369e00d85e9cf3a7122f49108"
   needs = ["Dockerize World of Zero Proxy"]
-  args = ["woz-proxy", "worldofzero.azurecr.io/woz-proxy"]
+  args = "woz-proxy worldofzero.azurecr.io/woz-proxy"
 }
 
 action "Tag YouTube Service" {
   uses = "actions/docker/tag@8cdf801b322af5f369e00d85e9cf3a7122f49108"
   needs = ["Dockerize World of Zero Server"]
-  args = ["woz-youtube-service", "worldofzero.azurecr.io/woz-youtube-service"]
+  args = "woz-youtube-service worldofzero.azurecr.io/woz-youtube-service"
 }
 
-action "Docker Login" {
-  uses = "actions/docker/login@8cdf801b322af5f369e00d85e9cf3a7122f49108"
+action "Azure Login" {
+  uses = "Azure/github-actions/login@master"
   needs = ["Tag Frontend", "Tag Proxy", "Tag YouTube Service"]
-  secrets = ["DOCKER_REGISTRY_URL", "DOCKER_USERNAME", "DOCKER_PASSWORD"]
+  secrets = ["AZURE_SERVICE_APP_ID", "AZURE_SERVICE_PASSWORD", "AZURE_SERVICE_TENANT"]
 }
 
 action "Azure Youtube Service" {
-  uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
-  needs = ["Docker Login"]
-  args = ["push", "worldofzero.azurecr.io/woz-youtube-service"]
+  uses = "Azure/github-actions/cli@1364758fbd1891d018072a354a57f9651bacb5b2"
+  needs = ["Azure Login"]
+  env = {
+    AZURE_SCRIPT = "az acr build -t worldofzero.azurecr.io/woz-youtube-service -r WorldOfZero backend/youtube-service"
+  }
 }
 
 action "Azure Frontend" {
-  uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
-  needs = ["Docker Login"]
-  args = ["push", "worldofzero.azurecr.io/woz-frontend"]
+  uses = "Azure/github-actions/cli@1364758fbd1891d018072a354a57f9651bacb5b2"
+  needs = ["Azure Login"]
+  env = {
+    AZURE_SCRIPT = "az acr build -t worldofzero.azurecr.io/woz-frontend -r WorldOfZero frontend"
+  }
 }
 
 action "Azure Proxy" {
-  uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
-  needs = ["Docker Login"]
-  args = ["push", "worldofzero.azurecr.io/woz-proxy"]
+  uses = "Azure/github-actions/cli@1364758fbd1891d018072a354a57f9651bacb5b2"
+  needs = ["Azure Login"]
+  env = {
+    AZURE_SCRIPT = "az acr build -t worldofzero.azurecr.io/woz-proxy -r WorldOfZero backend/proxy"
+  }
 }
