@@ -3,10 +3,16 @@ workflow "Dockerize" {
     "Tag Proxy",
     "Tag YouTube Service",
     "Azure Frontend",
-    "Azure Youtube Service",
     "Azure Proxy",
+    "Azure Youtube Service",
+    "Restrict Push to Master",
   ]
   on = "push"
+}
+
+action "Restrict Push to Master" {
+  uses = "actions/bin/filter@0dbb077f64d0ec1068a644d25c71b1db66148a24"
+  args = "\"branch master"
 }
 
 action "Install Frontend Dependencies" {
@@ -17,6 +23,7 @@ action "Install Frontend Dependencies" {
 
 action "Dockerize World of Zero Frontend" {
   uses = "actions/docker/cli@c08a5fc9e0286844156fefff2c141072048141f6"
+  needs = ["Restrict Push to Master"]
   args = "build -t woz-frontend frontend"
 }
 
@@ -28,11 +35,13 @@ action "Tag Frontend" {
 
 action "Dockerize World of Zero Server" {
   uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
+  needs = ["Restrict Push to Master"]
   args = "build -t woz-youtube-service backend/youtube-service"
 }
 
 action "Dockerize World of Zero Proxy" {
   uses = "actions/docker/cli@8cdf801b322af5f369e00d85e9cf3a7122f49108"
+  needs = ["Restrict Push to Master"]
   args = "build -t woz-proxy backend/proxy"
 }
 
