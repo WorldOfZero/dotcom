@@ -12,7 +12,7 @@ workflow "Dockerize" {
 
 action "Restrict Push to Master" {
   uses = "actions/bin/filter@0dbb077f64d0ec1068a644d25c71b1db66148a24"
-  args = "\"branch master"
+  args = "branch master"
 }
 
 action "Install Frontend Dependencies" {
