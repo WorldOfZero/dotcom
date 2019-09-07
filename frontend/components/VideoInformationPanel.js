@@ -89,8 +89,9 @@ class VideoInformationPanel extends React.Component {
 }
 
 function mapStateToProps (state) {
-  const { videos } = state;
-  return { videos };
+  // const { videos } = state;
+  // return { videos };
+  return { };
 }
 
 export default connect(mapStateToProps)(withWidth()(withStyles(styles)(VideoInformationPanel)));
