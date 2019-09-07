@@ -16,6 +16,7 @@ import { Toolbar } from '@material-ui/core';
 import CopyrightToolbar from '../components/CopyrightToolbar';
 import SocialToolbar from '../components/SocialToolbar';
 import WorldOfZeroLogo from '../components/WorldOfZeroLogo';
+const fetch = require("node-fetch");
 
 const styles = theme => ({
   root: {
@@ -24,12 +25,26 @@ const styles = theme => ({
 });
 
 class Index extends React.Component {
-  static getInitialProps ({ query: { v } }) {
-    return { v }
+  // Fetch the list of videos and return the results.
+  static async loadVideos() {
+    var results = await fetch("http://woz-server/api/video");
+    var json = await results.json();
+
+    console.log("Found videos: " + json.videos.length);
+    const videoViews = [];
+    json.videos.forEach(video => {
+      videoViews.push({id: video.id, title: video.title, img: video.thumbnail, description: video.description});
+    });
+    return videoViews;
+  }
+
+  static async getInitialProps ({ query: { v } }) {
+    var videos = await this.loadVideos();
+    return { v, videos }
   }
 
   render() {
-    const { classes, v } = this.props;
+    const { classes, v, videos } = this.props;
 
     return (
       <div className={classes.root}>
@@ -38,11 +53,11 @@ class Index extends React.Component {
             <WorldOfZeroLogo/>
           </Toolbar>
         </AppBar>
-        <VideoInformationPanel videoId={v}/>
+        <VideoInformationPanel videoId={v} videos={videos}/>
         <AppBar position="static" color="secondary">
           <SocialToolbar/>
         </AppBar> 
-        <ContentGrid/>
+        <ContentGrid videos={videos}/>
         <AppBar position="static">
           <CopyrightToolbar/>
         </AppBar>
