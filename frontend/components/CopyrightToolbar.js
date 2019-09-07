@@ -8,7 +8,7 @@ export default class CopyrightToolbar extends React.Component {
       <Toolbar>
         <Grid container>
           <Grid style={{ textAlign: 'left' }} item sm={5} xs={12}>
-            © Copyright - Sam Wronski
+            <div><strong>© Copyright - Sam Wronski</strong></div>
           </Grid>
           <Grid style={{ textAlign: 'right' }} item sm={6} xs={12}>
             <div><strong>Lets Make Something Awesome, Together!</strong></div>
