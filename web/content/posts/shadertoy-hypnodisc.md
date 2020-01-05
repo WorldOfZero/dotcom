@@ -1,11 +1,12 @@
 ---
 title: 'Shadertoy: Hypnodisc'
+description: 'A Shadertoy shader creating a classic hypnotic disc effect.'
 date: 2017-06-28
 tags:
 - shader
 series:
 - shadertoy
-
+featured_image: "posts/shadertoy/hypnodisc.jpg"
 ---
 
 A [Shadertoy](shadertoy.com) shader creating a classic hypnotic disc effect.

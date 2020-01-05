@@ -5,7 +5,7 @@ tags:
 - shader
 series:
 - shadertoy
-
+featured_image: "posts/shadertoy/reduced-color-range.jpg"
 ---
 
 A [Shadertoy](shadertoy.com) shader that reduces the available colors to draw with. This demo reduces the normal range of colors per channel from 256 down to just 8 by using effectively separating each colors floating point value into different categories.
