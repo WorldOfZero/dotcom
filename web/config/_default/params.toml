@@ -33,7 +33,7 @@ whoami = "Software Engineer"
 useGravatar = false
 location = "San Fransisco"
 organization = "World of Zero"
-link = "//youtube.com/WorldOfZeroDevelopment"
+link = "https://youtube.com/WorldOfZeroDevelopment"
 
 # sidebar
 enableBio = true # home page sidebar
