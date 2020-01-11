@@ -7,7 +7,7 @@ themeOptions = ["dark", "light", "hacker", "solarized"] # select options for sit
 notAllowedTypesInHome = ["contact", "talks", "about"] # not allowed page types in home page. type can be set in front matter or default to folder name.
 
 # header
-homeHeaderType = "slide" # text, img, slide
+homeHeaderType = "img" # text, img, slide
 
 # navbar
 enableThemeChange = true # site color theme
@@ -29,7 +29,7 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Sam Wronski"
 email = "" # "contact@worldofzero.com"
-whoami = "Software Engineer"
+whoami = "Writing Code, Taking Namespaces"
 useGravatar = false
 location = "San Fransisco"
 organization = "" # "World of Zero"
