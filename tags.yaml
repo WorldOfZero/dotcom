@@ -1,0 +1,86 @@
+# Tags
+# Collection of tags and synonyms (used to reduce number of overall tags and prevent redundancy)
+tags:
+  - name: "unity3d"
+    synonyms:
+    - "Unity (Game Engine)"
+    - "Unity 3D"
+  - name: "c#"
+    synonyms:
+    - "csharp"
+    - "dotnet"
+    - ".net"
+  - name: "javascript"
+    synonyms:
+    - "js"
+  - name: "java"
+    synonyms:
+    - "jdk"
+    - "jre"
+  - name: "go"
+    synonyms:
+    - "golang"
+  - name: "powershell"
+    synonyms:
+    - "ps1"
+  - name: "docker"
+    synonyms:
+    - "docker-compose"
+  - name: "shader"
+    synonyms:
+    - "surface shader"
+    - "glsl"
+    - "hlsl"
+    - "OpenGL"
+    - "DirectX"
+  - name: "vr"
+    synonyms:
+    - "virtual reality"
+  - name: "hugo"
+  - name: "opensource"
+    synonyms:
+    - "oss"
+    - "open source"
+  - name: "test"
+    synonyms:
+    - "testing"
+  - name: "monogame"
+    synonyms:
+    - "xna"
+  - name: "linux"
+  - name: "windows"
+  - name: "android"
+  - name: "iOS"
+  - name: "windowsphone"
+    synonyms:
+    - "windows phone"
+  - name: "raspberrypi"
+  - name: "arduino"
+  - name: "cloud"
+    synonyms:
+    - "☁"
+    - "aws"
+    - "azure"
+    - "gcp"
+    - "digital ocean"
+  - name: "kubernetes"
+    synonyms:
+    - "k8s"
+  - name: "game"
+  - name: "app"
+  - name: "tip"
+    synonyms:
+    - "quicktip"
+    - "quick tips"
+  - name: "hackathon"
+    synonyms:
+    - "game jam"
+  - name: "spring"
+    synonyms:
+    - "spring boot"
+  - name: "asp.net"
+    synonyms:
+    - "ASP .NET"
+    - "asp.net core"
+    - "asp .net core"
+  - name: "demo"
