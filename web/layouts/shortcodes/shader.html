@@ -1,3 +1,5 @@
+<!-- A Hugo Shortcode that can embed a Shadertoy shader -->
+<!-- Use: {{< shader id="abcd1234" >}} -->
 {{ with .Get "id" }}
     <iframe
         src="//www.shadertoy.com/embed/{{ . }}"
