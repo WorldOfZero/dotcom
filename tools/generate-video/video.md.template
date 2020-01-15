@@ -1,0 +1,15 @@
+{# https://jinja.palletsprojects.com/en/2.10.x/templates/ #}
+---
+title: {{ video.title }}
+date: {{ video.publishedOn }}
+tags:
+  {% for tag in video.tags: -%}
+    - {{ tag }}
+  {% endfor -%}
+
+---
+
+{# Embed Video #}
+{{ '{{<' }} youtube id='{{video.id}}' {{ '>}}' }}
+
+{{ video.description }}

@@ -1,0 +1,5 @@
+google-api-python-client # Used for youtube api
+google-auth-oauthlib
+google-auth-httplib2
+
+jinja2 # Used for video templates
