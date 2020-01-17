@@ -5,7 +5,7 @@ tags:
 - shader
 series:
 - shadertoy
-featured_image: "posts/shadertoy/infinite-grid.jpg"
+featured_image: "images/posts/shadertoy/infinite-grid.jpg"
 ---
 
 A [Shadertoy](shadertoy.com) shader creating a grid. This makes it possible to create an infintely scalable grid pattern that is fairly light-weight.

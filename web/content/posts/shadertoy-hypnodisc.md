@@ -6,7 +6,7 @@ tags:
 - shader
 series:
 - shadertoy
-featured_image: "posts/shadertoy/hypnodisc.jpg"
+featured_image: "images/posts/shadertoy/hypnodisc.jpg"
 ---
 
 A [Shadertoy](shadertoy.com) shader creating a classic hypnotic disc effect.

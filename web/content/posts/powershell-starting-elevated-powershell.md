@@ -6,7 +6,7 @@ tags:
 - powershell
 series:
 - quicktips
-featured_image: "posts/powershell/default.jpg"
+featured_image: "images/posts/powershell/default.jpg"
 ---
 
 You may start an Administrative Powershell from a separate shell by using the `-Verb RunAs` parameter like this:
