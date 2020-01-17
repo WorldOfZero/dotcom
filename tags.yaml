@@ -5,13 +5,15 @@ tags:
     synonyms:
     - "Unity (Game Engine)"
     - "Unity 3D"
+    - "unity engine"
   - name: "c#"
     synonyms:
     - "csharp"
     - "dotnet"
     - ".net"
-  - name: "javascript"
+  - name: "typescript"
     synonyms:
+    - "javascript"
     - "js"
   - name: "java"
     synonyms:
@@ -20,11 +22,18 @@ tags:
   - name: "go"
     synonyms:
     - "golang"
+  - name: "shell"
+    synonyms:
+    - "terminal"
+    - "sh"
+  - name: "bash"
   - name: "powershell"
     synonyms:
     - "ps1"
-  - name: "docker"
+  - name: "containers"
     synonyms:
+    - "container"
+    - "docker"
     - "docker-compose"
   - name: "shader"
     synonyms:
@@ -51,10 +60,13 @@ tags:
   - name: "windows"
   - name: "android"
   - name: "iOS"
-  - name: "windowsphone"
+  - name: "uwp"
     synonyms:
+    - "windowsphone"
     - "windows phone"
   - name: "raspberrypi"
+    synonyms:
+    - "raspbian"
   - name: "arduino"
   - name: "cloud"
     synonyms:
@@ -75,6 +87,7 @@ tags:
   - name: "hackathon"
     synonyms:
     - "game jam"
+    - "gamejam"
   - name: "spring"
     synonyms:
     - "spring boot"
@@ -84,3 +97,23 @@ tags:
     - "asp.net core"
     - "asp .net core"
   - name: "demo"
+  - name: "livecode"
+    synonyms:
+    - "live code"
+    - "live coding"
+  - name: "debugging"
+    synonyms:
+    - "debug"
+  - name: "ci/cd"
+    synonyms:
+    - "ci"
+    - "cd"
+    - "ci cd"
+    - "continuous integration"
+    - "continuous deployment"
+  - name: "tutorial"
+    synonyms:
+    - "how-to"
+    - "howto"
+    - "how to"
+  - name: "livestream"

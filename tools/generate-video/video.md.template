@@ -6,9 +6,10 @@ tags:
   {% for tag in video.tags: -%}
     - {{ tag }}
   {% endfor %}
+featured_image: {{ video.thumbnail }}
 ---
 
 {# Embed Video -#}
-{{ '{{<' }} youtube id='{{video.id}}' {{ '>}}' }}
+{{ '{{<' }} youtube id="{{ video.id }}" {{ '>}}' }}
 
 {{ video.description }}
