@@ -7,12 +7,13 @@ jobs:
     steps:
     - name: Generate Files
       id: generator
-      uses: ./actions/generator
+      uses: ./actions/
       with:
         youtube-api-key: ${{ secrets.YOUTUBE_API_KEY }}
-        template-file: ./tools/generate-files-dotnet/video.md.template
+        template-file: ./actions/generator/generate-files-dotnet/video.md.template
         channel-id: "UCJKLCjeujQj-d3JjsbVtkJw"
         output: "./test"
-    # Use the output from the `hello` step
-    - name: Get the output time
-      run: echo "The time was ${{ steps.hello.outputs.generated-videos-count }}"
+    # output generation results as separate task.
+    # TODO: Remove later
+    - name: Generated Videos Results
+      run: echo "Total Videos generated: ${{ steps.hello.outputs.generated-videos-count }}"
