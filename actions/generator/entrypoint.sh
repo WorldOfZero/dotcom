@@ -1,4 +1,4 @@
-#!/bin/sh -1
+#!/bin/sh
 
 # time=$(date)
 # echo "::set-output name=time::$time"
