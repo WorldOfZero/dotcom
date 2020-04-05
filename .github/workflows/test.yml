@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Generate Files
       id: hello
-      uses: ./actions/generator@v2
+      uses: ./actions/generator@vTest
       with:
         youtube-api-key: ${{ secrets.YOUTUBE_API_KEY }}
         template-file: ./tools/generate-files-dotnet/video.md.template
