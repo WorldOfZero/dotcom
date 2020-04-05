@@ -2,41 +2,10 @@
 title: Making Our Pixels Round -  Circle Pixel Shader - Part 3
 date: 2019-06-26T06:43:43.000Z
 tags:
-  - world of zero
-  - lets make
-  - circle pixel
+  - unity3d
   - shader
-  - circle pixel shader
-  - part 3
-  - shaders
-  - unity shader
-  - unity 3d
-  - unity
-  - unity (game engine)
-  - unity engine
-  - surface shader
-  - game shaders
-  - game development
-  - development
-  - live coding
-  - software
-  - gamedev
-  - 3d
-  - game dev
-  - indiedev
-  - indie dev
-  - stippling
-  - screentone
-  - lets make unity
-  - unity live coding
-  - live code
-  - open source software
-  - oss
-  - UnityVisualizations
-  - CirclePixelShader.shader
-  - shader tutorial
-  - surface shader examples
-  - Surface shaders in Unity
+  - opensource
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/RD9qvXO_Ha4/mqdefault.jpg
 ---

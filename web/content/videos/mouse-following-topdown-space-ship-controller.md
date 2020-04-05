@@ -2,36 +2,8 @@
 title: Mouse Following Top-Down Space Ship Controller
 date: 2019-03-26T07:19:45.000Z
 tags:
-  - world of zero
-  - lets make
-  - mouse
-  - raycast
-  - unity screen point to ray
-  - screenpointtoray
-  - spaceship
-  - unity (game engine)
-  - game development
-  - example
-  - ray
-  - algebra
-  - following the mouse
-  - follow mouse unity
-  - game object follow mouse
-  - Make object follow mouse
-  - top down
-  - Follow Mouse Cursor
+  - unity3d
   - c#
-  - c# follow mouse cursor
-  - Input.mousePosition
-  - Make an Object Follow the Mouse Pointer
-  - mouse pointer
-  - unity engine
-  - unity development
-  - space
-  - spaceship controller
-  - unity example
-  - how to
-  - script
   - tutorial
   
 featured_image: https://i.ytimg.com/vi/yOnth9uTLlA/mqdefault.jpg

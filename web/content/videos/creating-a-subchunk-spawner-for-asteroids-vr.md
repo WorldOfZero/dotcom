@@ -2,41 +2,8 @@
 title: Creating a Subchunk Spawner for Asteroids VR
 date: 2019-06-06T07:37:47.000Z
 tags:
-  - world of zero
-  - lets make
-  - asteroids vr
-  - asteroidsvr
-  - unity
-  - unity 3d
-  - unity (game engine)
-  - unity game development
-  - game development
-  - development
-  - software
-  - gamedev
-  - instantiate
-  - unity 2019
-  - live coding
-  - making a game
-  - destruction system
-  - subdivision
-  - refactoring
-  - subdividing asteroids
-  - subdividing cube
-  - refactor
-  - coding
-  - code
-  - unity code
-  - game dev
-  - developing asteroids vr
-  - live code
   - c#
-  - csharp development
-  - writing csharp
-  - AsteroidSpawnController
-  - asteroidSpawner
-  - SpawnChunk
-  - destruction
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/VaGI6j_4e7Y/mqdefault.jpg
 ---

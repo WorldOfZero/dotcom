@@ -2,42 +2,10 @@
 title: Experimenting With Rotated Pixels - Circle Pixel Shader - Part 5
 date: 2019-06-28T17:12:03.000Z
 tags:
-  - world of zero
-  - lets make
-  - circle pixels
-  - pixel
-  - pixel art
-  - pixel shader
   - shader
-  - unity shader
-  - circle pixel shader
-  - stippling
-  - screentone
-  - circular pixels
-  - surface shader
-  - live coding
-  - shader live coding
+  - opensource
+  - livecode
   - debugging
-  - shader debugging
-  - live code
-  - live coding shaders
-  - experiment
-  - experimenting
-  - exploring
-  - game development
-  - development
-  - shaders
-  - graphics
-  - matrices
-  - matrix
-  - rotation matrix
-  - float2x2
-  - linear algebra
-  - 2d matrix
-  - 2d rotation matrix
-  - oss
-  - visual effects
-  - unity visualizations
   
 featured_image: https://i.ytimg.com/vi/-UIeB7OCw10/mqdefault.jpg
 ---

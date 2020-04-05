@@ -29,7 +29,7 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Sam Wronski"
 email = "" # "contact@worldofzero.com"
-whoami = "Writing Code, Taking Namespaces"
+whoami = "Maker of things, currently helping build Kubernetes @ Google. World of Zero is a personal project disconnected from my professional work. Lets make something awesome together!"
 useGravatar = false
 location = "San Fransisco"
 organization = "" # "World of Zero"
@@ -111,7 +111,7 @@ commento = false
   facebook = ""
   twitter = "https://twitter.com/runewake2"
   github = "https://github.com/worldofzero"
-  stack-overflow = ""
+  stack-overflow = "https://stackoverflow.com/users/1208206/runewake2"
   instagram = ""
   google-plus = ""
   youtube = "https://youtube.com/WorldOfZeroDevelopment"

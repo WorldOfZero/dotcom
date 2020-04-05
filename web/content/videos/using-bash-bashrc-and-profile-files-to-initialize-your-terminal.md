@@ -1,36 +1,10 @@
 ---
-title: Using Bash .bashrc and .profile Files to Initialize Your Terminal
+title: Using Bash bashrc and profile Files to Initialize Your Terminal
 date: 2019-10-04T15:00:02.000Z
 tags:
-  - world of zero
-  - lets make
-  - bash
-  - .bashrc
-  - bashrc
-  - bash rc
-  - bash profile
-  - bash profiles
-  - .bash_profiles
-  - using bash profiles
-  - terminal
   - shell
-  - console
-  - .bash_aliases
-  - man bash
-  - /bin/bash
-  - $HOME/.bashrc
-  - ~/.bash_profile
-  - ~/.bashrc
-  - bash .profile
-  - bash .bashrc
-  - bash .bash_profile
-  - persistant settings
-  - permanently export variable
-  - bash scripting
-  - persist environment variable
-  - learning bash
-  - live code
-  - scripting
+  - bash
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/HjxokBDacOM/mqdefault.jpg
 ---

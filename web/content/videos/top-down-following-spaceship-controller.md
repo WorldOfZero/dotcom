@@ -2,35 +2,9 @@
 title: Top Down Following Spaceship Controller
 date: 2019-02-06T07:55:21.000Z
 tags:
-  - world of zero
-  - lets make
-  - top down controller
-  - unity 3d
-  - dot products
-  - character controller
-  - ship input controller
-  - live coding
-  - game development
-  - game making
-  - unity (game engine)
-  - spaceship controller
-  - spaceship game movement
-  - walkthrough
   - c#
-  - csharp
-  - how to
-  - example
+  - livecode
   - tutorial
-  - follow script
-  - sin wave movement
-  - controlling a spaceship
-  - unity game development
-  - development
-  - unity c#
-  - spaceship
-  - following game objects
-  - top down
-  - top down spaceship controller
   
 featured_image: https://i.ytimg.com/vi/xYl5qRgOw_M/mqdefault.jpg
 ---

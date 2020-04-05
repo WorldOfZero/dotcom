@@ -1,49 +1,11 @@
 ---
-title: Learning Unity's XR Input System
+title: Learning Unitys XR Input System
 date: 2019-07-18T06:34:08.000Z
 tags:
-  - world of zero
-  - lets make
-  - virtual reality
+  - c#
   - vr
-  - unity vr
-  - unity 2019
-  - unity xr
-  - xr input
-  - XR Input System
-  - xrinput
-  - unity virtual reality
   - xr
-  - vr input
-  - vr input system
-  - steamvr
-  - steam vr
-  - htc vive
-  - learning
-  - experiment
-  - live coding
-  - exploring
-  - unity (game engine)
-  - unity 3d
-  - unity 2019 vr
-  - vr in unity
-  - input
-  - input system
-  - XRNode
-  - InputDevices
-  - InputDevice
-  - Input Device
-  - XR Node
-  - UnityEngine.XR
-  - C#
-  - csharp
-  - coding
-  - asteroids vr
-  - asteroid vr
-  - asteroidvr
-  - gamedev
-  - development
-  - unity
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/_H0sYjDx4U0/mqdefault.jpg
 ---

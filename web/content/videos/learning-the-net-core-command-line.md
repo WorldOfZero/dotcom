@@ -1,48 +1,12 @@
 ---
-title: Learning The .NET Core Command Line
+title: Learning The NET Core Command Line
 date: 2019-06-24T15:43:24.000Z
 tags:
-  - world of zero
-  - lets make
-  - dotnet
-  - .net
-  - dotnet core
-  - .net core
-  - core
-  - net
-  - dotnet new
-  - .net new
-  - new dotnet project
-  - create new dotnet project
-  - help
-  - live coding
-  - terminal
-  - console
-  - windows terminal
-  - windows console
-  - windows terminal (preview)
-  - powershell
-  - -?
-  - preview
-  - create new project
-  - new project
-  - new console app
-  - dotnet app
-  - new dotnet
-  - cli
-  - command line
-  - .net cli
-  - dotnet cli
-  - .net command line
-  - dotnet command line
   - c#
-  - csharp
-  - learning
-  - live learning
-  - example
-  - how to
-  - term
-  - ps1
+  - shell
+  - powershell
+  - livecode
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/YkguKCDY6h8/mqdefault.jpg
 ---

@@ -1,38 +1,9 @@
 ---
-title: Using C#'s Yield Keyword
+title: Using C#s Yield Keyword
 date: 2019-08-28T15:57:02.000Z
 tags:
-  - world of zero
-  - lets make
-  - yield
-  - contextual keyword
-  - keyword
-  - yield contextual keyword
   - c#
-  - dotnet
-  - .net
-  - csharp
-  - yield return
-  - yield break
-  - .net yield
-  - c# yield
-  - using c# yield
-  - yield example
-  - c# yield example
-  - IEnumerable
-  - Iterator
-  - c# reference
-  - example
   - tutorial
-  - how to
-  - C# yield Keyword
-  - c# yield return ienumerable
-  - yield in c#
-  - c# yield ienumerable
-  - programming
-  - development
-  - software development
-  - dotnet core
   
 featured_image: https://i.ytimg.com/vi/bsZjfuTrPSA/mqdefault.jpg
 ---

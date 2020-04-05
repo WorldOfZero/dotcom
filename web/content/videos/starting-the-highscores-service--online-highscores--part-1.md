@@ -2,42 +2,9 @@
 title: Starting the Highscores Service - Online Highscores - Part 1
 date: 2020-01-03T16:00:09.000Z
 tags:
-  - world of zero
-  - lets make
-  - online highscore
-  - online highscores
-  - highscores
-  - highscore
-  - unity highscores
-  - asp.net highscores
-  - asp.net core highscore
-  - asp.net core
-  - dotnet core
-  - dotnet
-  - asp.net
   - c#
-  - csharp
-  - unity
-  - http
-  - rest
-  - example
-  - live coding
-  - software
-  - software development
-  - high scores
-  - leaderboard
-  - hiscore
-  - highscore in unity
-  - unity high score
-  - highscore for game
-  - building online highscores
-  - web service
-  - high score for game
-  - high score list
-  - worldofzero
-  - game dev
-  - game development
-  - WoZ
+  - asp.net
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/U_2u_SeK10k/mqdefault.jpg
 ---

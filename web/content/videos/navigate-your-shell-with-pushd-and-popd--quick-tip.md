@@ -2,39 +2,12 @@
 title: Navigate Your Shell With pushd and popd - Quick Tip
 date: 2019-11-22T06:57:46.000Z
 tags:
-  - world of zero
-  - lets make
-  - quick tip
-  - quicktip
-  - tip
-  - example
-  - pushd
-  - popd
-  - cd
   - shell
-  - terminal
-  - linux
-  - unix
-  - cmd
-  - ps1
-  - powershell
-  - command
-  - working directory
-  - path
-  - stack
-  - lifo
-  - filo
-  - directory stack
-  - unix shell
-  - DOS
-  - pushd and popd
-  - Command Prompt
-  - change directory
-  - dir
-  - folder
-  - prompt
   - bash
-  - pushd command windows
+  - powershell
+  - linux
+  - tip
+  - ci/cd
   
 featured_image: https://i.ytimg.com/vi/UDD7EyGr8fU/mqdefault.jpg
 ---

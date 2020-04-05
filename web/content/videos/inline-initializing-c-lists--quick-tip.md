@@ -2,37 +2,9 @@
 title: Inline Initializing C# Lists - Quick Tip
 date: 2019-02-12T07:45:01.000Z
 tags:
-  - world of zero
-  - lets make
-  - quick tip
-  - quick tips
-  - dotnet
   - c#
-  - constructor
-  - csharp
-  - vscode
-  - dotnet core
-  - .net core
-  - list
-  - list constructor
-  - collection
-  - array
-  - array constructor
-  - collection constructor
-  - set constructor
+  - tip
   - tutorial
-  - how to
-  - example
-  - list constructor tutorial
-  - list constructor example
-  - initialize list
-  - member initializer lists
-  - list initializer
-  - array initializer
-  - c# list initializer
-  - System.Collections.Generic
-  - using list constructor
-  - collection initialization
   
 featured_image: https://i.ytimg.com/vi/F11BhVjmyd0/mqdefault.jpg
 ---

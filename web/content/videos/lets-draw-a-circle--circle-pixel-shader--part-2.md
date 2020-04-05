@@ -2,39 +2,9 @@
 title: Lets Draw A Circle - Circle Pixel Shader - Part 2
 date: 2019-06-22T06:51:51.000Z
 tags:
-  - world of zero
-  - lets make
-  - circle pixel shader
-  - circle shader
-  - shader
-  - unity
-  - unity 3d
-  - unity (game engine)
-  - game development
-  - unity game development
-  - unity walkthrough
-  - walkthrough
-  - example
-  - lets make unity
-  - unity shaders
-  - unity shader
-  - surface shader
-  - gamedev
-  - indiedev
-  - software development
-  - software
   - unity3d
-  - draw a circle
-  - circular shader
-  - unity visualizations
-  - unity effects
-  - open source
-  - oss
-  - open source software
-  - github
-  - circular pixels
-  - stippling
-  - screentone
+  - shader
+  - opensource
   
 featured_image: https://i.ytimg.com/vi/BVPfcI-O83s/mqdefault.jpg
 ---

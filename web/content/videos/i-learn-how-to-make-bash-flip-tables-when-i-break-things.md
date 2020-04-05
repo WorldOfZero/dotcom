@@ -2,41 +2,10 @@
 title: I Learn How To Make Bash Flip Tables When I Break Things
 date: 2019-08-23T01:27:21.000Z
 tags:
-  - world of zero
-  - lets make
   - shell
-  - console
-  - terminal
   - bash
-  - sh
-  - bash shell
-  - bash terminal
-  - ps1
-  - bash ps1
-  - bash prompt
-  - prompt
-  - custom bash prompt
-  - customize bash prompt
-  - custom shell prompt
-  - Unix Shell
-  - linux shell
-  - ubuntu
-  - wsl
-  - windows subsystem for linux
-  - example
-  - export ps1
-  - bash_profile
-  - vim
-  - Bash PS1
-  - /bin/bash
-  - how to
-  - walkthrough
+  - powershell
   - tutorial
-  - terminal prompt
-  - command line
-  - command prompt
-  - linux command line
-  - cli
   
 featured_image: https://i.ytimg.com/vi/XUOti_9WgaM/mqdefault.jpg
 ---

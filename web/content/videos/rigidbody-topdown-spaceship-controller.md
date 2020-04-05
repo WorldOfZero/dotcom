@@ -2,34 +2,8 @@
 title: Rigidbody Top-Down Spaceship Controller
 date: 2019-03-07T08:14:06.000Z
 tags:
-  - world of zero
-  - lets make
-  - rigidbody spaceship
-  - unity rigidbody
-  - top-down spaceship
-  - top-down
-  - spaceship
-  - spaceship controller
   - c#
-  - unity (game engine)
-  - unity development
-  - unity example
-  - spaceship controller example
-  - how to
   - tutorial
-  - example
-  - game development
-  - rigidbody spaceship controller
-  - Simple Unity Player Controller
-  - ShipControls
-  - ship controls
-  - 2D top-down movement
-  - top down controller
-  - controller
-  - spaceship top-down controller
-  - unity script
-  - script
-  - code
   
 featured_image: https://i.ytimg.com/vi/8-UBALp1xQc/mqdefault.jpg
 ---

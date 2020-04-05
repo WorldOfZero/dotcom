@@ -2,35 +2,7 @@
 title: Exploring How To Write Custom Gradle Tasks
 date: 2019-08-14T01:16:01.000Z
 tags:
-  - world of zero
-  - lets make
-  - gradle
-  - gradle task
-  - custom gradle task
-  - writing your own gradle task
-  - tasks
-  - task
-  - groovy
-  - gradle init
-  - new gradle project
-  - gradle groovy
-  - Authoring Tasks
-  - writing custom gradle tasks
-  - using tasks
-  - using gradle tasks
-  - writing gradle
-  - gradle intro
-  - gradle build script
-  - gradle guide
-  - writing gradle tasks
-  - software engineering
-  - computer science
-  - programming
-  - dev
-  - development
-  - coding
-  - tasks.register
-  - jdk
+  - java
   
 featured_image: https://i.ytimg.com/vi/QJr-knJV2Qo/mqdefault.jpg
 ---

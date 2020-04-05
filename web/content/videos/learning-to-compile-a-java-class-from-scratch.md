@@ -2,37 +2,7 @@
 title: Learning to Compile a Java Class From Scratch
 date: 2019-08-13T04:09:15.000Z
 tags:
-  - world of zero
-  - lets make
   - java
-  - javac
-  - java compilation
-  - static main
-  - main
-  - getting started with java
-  - starting with java
-  - intro to java
-  - java from scratch
-  - java jdk
-  - jdk
-  - Java Development Kit
-  - java class
-  - java compiler
-  - compile java
-  - Programming Language
-  - run java
-  - java development
-  - development
-  - software engineering
-  - computer science
-  - programming
-  - coding
-  - coding java
-  - writing java
-  - java programming from scratch
-  - java for beginners
-  - java file
-  - jre
   
 featured_image: https://i.ytimg.com/vi/6O9QEh924h8/mqdefault.jpg
 ---

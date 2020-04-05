@@ -1,40 +1,9 @@
 ---
-title: Using Your Terminal's Directory Stack to Work With Multiple Directories
+title: Using Your Terminals Directory Stack to Work With Multiple Directories
 date: 2019-12-25T06:55:40.000Z
 tags:
-  - world of zero
-  - lets make
-  - terminal
   - shell
-  - cmd
-  - terminal emulator
-  - directory stack
-  - dirs
-  - cd
-  - pushd
-  - popd
-  - pushd and popd
-  - command line
-  - command prompt
-  - stack
-  - dirs -v
-  - cd ~#
-  - change directory
-  - working with multiple directories in a terminal
-  - terminal multiple directories
-  - sh
-  - modify directory stack
-  - update directory stack
-  - using directory stack
-  - pushd popd
-  - cmdlet
-  - command
-  - unix
-  - filesystem navigation
-  - directory navigation
-  - using pushd
-  - using popd
-  - cd-command
+  - ci/cd
   
 featured_image: https://i.ytimg.com/vi/NM_ynkPNURU/mqdefault.jpg
 ---

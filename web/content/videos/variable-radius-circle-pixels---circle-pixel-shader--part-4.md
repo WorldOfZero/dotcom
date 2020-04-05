@@ -2,38 +2,8 @@
 title: Variable Radius Circle Pixels -  Circle Pixel Shader - Part 4
 date: 2019-06-26T15:00:14.000Z
 tags:
-  - world of zero
-  - lets make
-  - circle pixels
-  - circular pixels
-  - stippling
-  - screentone
   - shader
-  - shaders
-  - unity shader
-  - unity 3d
-  - unity (game engine)
-  - game development
-  - development
-  - gamedev
-  - indiedev
-  - variable radius
-  - unity shaders
-  - live coding
-  - unity live coding
-  - coding shaders
-  - software
-  - software engineering
-  - game shaders
-  - surface shader
-  - unity surface shader
-  - shader tutorial
-  - Surface Shader examples
-  - shader example
-  - surface shaders in unity
-  - CirclePixels
-  - game dev
-  - lets make unity
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/u-RXmILAmxs/mqdefault.jpg
 ---

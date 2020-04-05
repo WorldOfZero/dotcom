@@ -2,38 +2,10 @@
 title: Placing our Health Tracker Component Under Test with Unity Test Runner
 date: 2019-04-09T07:08:56.000Z
 tags:
-  - world of zero
-  - lets make
-  - asteroids vr
-  - health
-  - health tracker component
-  - unity test runner
-  - test runner
-  - nunit
-  - IMonoBehaviorTest
-  - MonoBehavior Test
-  - test MonoBehavior
-  - unity (game engine)
-  - unity 3d
   - unity3d
-  - live coding
-  - asteroidsvr
-  - testing a monobehavior
-  - UnityTest
-  - testing
-  - unit test
-  - testing in unity
-  - test unity 3d
-  - nunit testing
-  - unity nunit
-  - unity unit test
   - test
-  - validating unity games
-  - qa
-  - unity qa
-  - setting up unity testing
-  - configuring unity testing
-  - system under test
+  - livecode
+  - codehealth
   
 featured_image: https://i.ytimg.com/vi/XdlBSXIcMvA/mqdefault.jpg
 ---

@@ -2,31 +2,8 @@
 title: Running a Minecraft Server in Docker
 date: 2019-03-14T17:50:01.000Z
 tags:
-  - world of zero
-  - lets make
-  - docker
-  - minecraft
-  - minecraft in docker
-  - docker image
-  - minecraft docker
-  - minecraft docker image
-  - using docker
-  - docker example
-  - how to docker
-  - docker minecraft
-  - itzg
-  - minecraft-server
-  - itzg/minecraft-server
-  - set up a minecraft server
-  - setting up a minecraft server using docker
-  - minecraft server using docker
-  - deploy a minecraft server
-  - create a minecraft server
-  - intro to docker
-  - example
+  - containers
   - tutorial
-  - how to
-  - minecraft server example
   
 featured_image: https://i.ytimg.com/vi/JtKIpGjtLzw/mqdefault.jpg
 ---

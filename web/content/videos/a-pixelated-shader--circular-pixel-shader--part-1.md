@@ -2,42 +2,9 @@
 title: A Pixelated Shader - Circular Pixel Shader - Part 1
 date: 2019-06-21T05:17:36.000Z
 tags:
-  - world of zero
-  - lets make
-  - pixelated
   - shader
-  - pixelated shader
-  - unity
-  - unity 3d
-  - unity (game engine)
-  - unity shader
-  - surface shader
-  - visual effect
-  - open source
-  - software
-  - game development
-  - graphics shader
-  - uv coordinates
-  - uv
-  - ceil
-  - round
-  - floor
-  - unity game development
-  - example
-  - development
-  - live coding
-  - coding
-  - programming
-  - pixel grid
-  - circular pixel
-  - circle pixel
-  - pixel shader
-  - pixelated circles shader
-  - part 1
-  - futuristic effect
-  - grid of pixels
-  - walkthrough
-  - shader in unity
+  - opensource
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/mNyZKyVfPeU/mqdefault.jpg
 ---

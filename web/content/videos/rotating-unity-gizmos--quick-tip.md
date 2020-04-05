@@ -2,39 +2,9 @@
 title: Rotating Unity Gizmos - Quick Tip
 date: 2019-02-01T14:00:00.000Z
 tags:
-  - world of zero
-  - lets make
-  - quick tips
-  - unity 3d
-  - unity (game engine)
-  - game development
-  - rotating unity gizmos
-  - quick tip
-  - how to
-  - tutorial
-  - example
-  - rotating gizmos
-  - rotate gizmo
-  - gizmos
-  - unity gizmos
-  - unity gizmo
-  - gizmo
-  - matrix
-  - gizmo matrix
-  - how to rotate gizmo
-  - how to rotate gizmos
-  - gizmo orientation
-  - gizmo TRS
-  - matrix gizmo
-  - drawing gizmo with rotation
-  - gizmos in unity
-  - OnDrawGizmos
-  - drawing gizmos
-  - using gizmos
-  - unity editor
-  - unity editor gizmo
-  - editor gizmo rotation
   - c#
+  - tip
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/4-eTwIyntcQ/mqdefault.jpg
 ---

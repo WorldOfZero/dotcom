@@ -2,40 +2,8 @@
 title: Writing Our Own Diffuse Lighting Shader
 date: 2019-07-26T06:51:22.000Z
 tags:
-  - world of zero
-  - lets make
-  - diffuse
-  - diffuse lighting
-  - lighting
-  - dot product
-  - dot
   - shader
-  - fragment shader
-  - vertex shader
-  - unlit shader
-  - unity shader
-  - custom lighting shader
-  - vert
-  - frag
-  - pragma
-  - pragma vertex vert
-  - pragma fragment frag
-  - writing a shader
-  - custom lighting
-  - diffuse lighting shader
-  - shader lighting
-  - writing our own shader
-  - game dev
-  - indie dev
-  - development
-  - game development
-  - coding
-  - coding shaders
-  - live coding
-  - live code
-  - intro to shaders
-  - indiedev
-  - gamedev
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/4XfXOEDzBx4/mqdefault.jpg
 ---

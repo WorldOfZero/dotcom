@@ -2,34 +2,8 @@
 title: Exploring Unity Debugging
 date: 2019-08-11T19:18:29.000Z
 tags:
-  - world of zero
-  - lets make
-  - debug
+  - livecode
   - debugging
-  - debugger
-  - debug unity
-  - unity debugger
-  - debugging unity
-  - debugging in unity
-  - unity
-  - unity 3d
-  - unity (game engine)
-  - vscode
-  - vs code
-  - visual studio code
-  - vs code debugger
-  - Debugger for Unity
-  - debugging tool
-  - devtool
-  - dev tool
-  - tool
-  - vscode extension
-  - watch
-  - debugger immediates
-  - breakpoints
-  - conditional breakpoints
-  - breakpoint
-  - live code
   
 featured_image: https://i.ytimg.com/vi/sDAXf6I76ww/mqdefault.jpg
 ---

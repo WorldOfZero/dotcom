@@ -2,28 +2,8 @@
 title: Validate Unity Inspector Input with OnValidate - Quick Tip
 date: 2019-04-16T05:12:28.000Z
 tags:
-  - world of zero
-  - lets make
-  - OnValidate
-  - Unity OnValidate
-  - on validate
-  - unity validate
-  - unity inspector
-  - unity (game engine)
-  - unity editor
-  - inspector
-  - quick tips
-  - quicktip
-  - unity tip
-  - quick tip
   - tip
-  - how to
-  - example
-  - unity editor onvalidate
-  - validate property changes
-  - check changed inspector values
-  - check for inspector updates
-  - variable changes in inspector
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/Jrqu7clRpec/mqdefault.jpg
 ---

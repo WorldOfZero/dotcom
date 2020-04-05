@@ -2,42 +2,8 @@
 title: Building and Drawing a Graph in Unity using Gizmos
 date: 2019-05-07T07:16:19.000Z
 tags:
-  - world of zero
-  - lets make
-  - OnDrawGizmos
-  - Gizmos
-  - Unity3d
-  - Unity
-  - Unity (game engine)
   - c#
-  - unity gizmos
-  - drawing a graph
-  - node
-  - edge
-  - graph
-  - generic types
-  - unity 2019
-  - unity editor
-  - editor tool
-  - editor gizmos
-  - data structures
-  - data structure
-  - executeineditmode
-  - monobehavior
-  - how to
-  - example
   - tutorial
-  - walkthrough
-  - unity example
-  - unity gizmos example
-  - draw a graph
-  - create a graph
-  - building a graph
-  - directed graph
-  - digraph
-  - unity how to
-  - unity gizmos tutorial
-  - MonoBehaviour.OnDrawGizmos
   
 featured_image: https://i.ytimg.com/vi/zdHvM6XU4rY/mqdefault.jpg
 ---

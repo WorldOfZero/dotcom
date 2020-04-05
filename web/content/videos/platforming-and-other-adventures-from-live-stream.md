@@ -2,39 +2,9 @@
 title: Platforming and Other Adventures from Live Stream
 date: 2019-10-15T01:45:19.000Z
 tags:
-  - world of zero
-  - runewake2
-  - live stream
-  - game development live stream
-  - unity (game engine)
-  - unity
-  - unity 3d
   - c#
-  - unity development
-  - making a game
-  - game development
-  - creating a game
-  - gamedev
-  - indiedev
-  - live coding
-  - lets make
-  - live code
-  - code
-  - development
-  - software
-  - platformer
-  - platforming
-  - unity platforming
-  - platforming physics
-  - mc clone
-  - mc-clone
-  - live
-  - Minecraft Clone
-  - minecraft
-  - live coding a platformer
-  - platforming and other adventures
-  - unity physics
-  - raycast
+  - livecode
+  - livestream
   
 featured_image: https://i.ytimg.com/vi/Z5WREogznj8/mqdefault.jpg
 ---

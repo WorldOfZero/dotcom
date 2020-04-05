@@ -2,40 +2,9 @@
 title: Using Var - Implicitly Typed Fields - Quick Tip
 date: 2019-02-20T07:54:47.000Z
 tags:
-  - world of zero
-  - lets make
-  - dotnet core
-  - .net
-  - dotnet
-  - core
   - c#
-  - csharp
-  - var
-  - var field
-  - quick tip
-  - quick tips
-  - field
-  - .net core
-  - c# var
-  - static typing
-  - var type
-  - variable type
+  - tip
   - tutorial
-  - example
-  - how to
-  - demonstration
-  - dotnet var field example
-  - var example
-  - var tutorial
-  - c# var tutorial
-  - var field example
-  - using var c#
-  - use var dotnet
-  - dotnet quick tip
-  - dotnet var
-  - Implicitly typed local variables
-  - implicit type
-  - using var
   
 featured_image: https://i.ytimg.com/vi/01YSGK7OeVQ/mqdefault.jpg
 ---

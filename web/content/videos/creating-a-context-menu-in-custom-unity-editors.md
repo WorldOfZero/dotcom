@@ -2,36 +2,6 @@
 title: Creating a Context Menu in Custom Unity Editors
 date: 2019-05-16T21:25:01.000Z
 tags:
-  - world of zero
-  - lets make
-  - GenericMenu
-  - Generic Menu
-  - Unity GenericMenu
-  - Unity Generic Menu
-  - menu
-  - context menu
-  - unity editor menu
-  - unity editor context menu
-  - unity editor
-  - unity
-  - unity (game engine)
-  - unity 3d
-  - editor
-  - unity example
-  - GenericMenu example
-  - Generic Menu example
-  - unity game development
-  - game development
-  - MenuFunction
-  - MenuFunction2
-  - unity development
-  - Unity Scripting
-  - scripting
-  - UnityEditor
-  - ScriptReference
-  - Script Reference
-  - using UnityEditor
-  - OnInspectorGUI
   
 featured_image: https://i.ytimg.com/vi/K0XHwqOmdvc/mqdefault.jpg
 ---

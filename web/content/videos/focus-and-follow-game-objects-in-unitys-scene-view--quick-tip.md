@@ -1,42 +1,9 @@
 ---
-title: Focus and Follow Game Objects in Unity's Scene View - Quick Tip
+title: Focus and Follow Game Objects in Unitys Scene View - Quick Tip
 date: 2019-06-06T07:16:18.000Z
 tags:
-  - world of zero
-  - lets make
-  - unity
-  - unity 3d
-  - unity (game engine)
-  - unity scene view
-  - scene view
-  - unity editor
-  - editor
-  - game engine
-  - game object
-  - follow game object
-  - focus game object
-  - hotkey
-  - unity hotkey
-  - hotkeys
-  - unity scene
-  - game objects
-  - gameobject
-  - unity game object
-  - gamedev
-  - game development
-  - game dev
-  - indie dev
-  - quick tip
-  - quicktip
-  - quick tips
-  - tips
-  - how to
-  - tips and tricks
-  - unity trick
-  - unity tip
-  - worldofzero
-  - WOZ
-  - example
+  - tip
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/4sUXxaXlYY8/mqdefault.jpg
 ---

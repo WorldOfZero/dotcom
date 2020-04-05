@@ -2,38 +2,7 @@
 title: Live Coding Handles and Custom Editors in Unity
 date: 2019-05-14T07:08:12.000Z
 tags:
-  - world of zero
-  - lets make
-  - handles
-  - custom editor
-  - unity editor
-  - unity (game engine)
-  - unity 3d
-  - unity
-  - unity game engine
-  - unity handles
-  - GenericMenu
-  - unity generic menu
-  - unity handle
-  - handle
-  - UnityEditor
-  - CustomEditor
-  - OnSceneGUI
-  - custom unity editor
-  - custom handles
-  - unity example
-  - unity live coding
-  - live code
-  - live coding
-  - live coding in unity
-  - gizmos
-  - custom unity inspector
-  - unity inspector
-  - unity world of zero
-  - unity game editor
-  - generic menu
-  - experiment
-  - live coding unity
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/3efiobxsurY/mqdefault.jpg
 ---

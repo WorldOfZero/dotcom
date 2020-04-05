@@ -2,35 +2,9 @@
 title: Inline Initializing C# Dictionaries - Quick Tip
 date: 2019-02-12T07:45:00.000Z
 tags:
-  - world of zero
-  - lets make
-  - quick tip
-  - quick tips
-  - dotnet c#
-  - constructor
-  - dotnet
   - c#
-  - csharp
-  - dotnet core
-  - .net core
-  - dotnet map
-  - dotnet dictionary
-  - dictionary
-  - map
-  - dictionary constructor
-  - map constructor
-  - key value pairs
+  - tip
   - tutorial
-  - dictionary constructor example
-  - inline dictionary constructor
-  - initialize dictionary
-  - initialize map
-  - dictionary initializer
-  - c# dictionary initializer
-  - map initializer
-  - System.Collections.Generic
-  - using dictionary constructor
-  - dictionary initialization
   
 featured_image: https://i.ytimg.com/vi/lFsgmxzw7IU/mqdefault.jpg
 ---

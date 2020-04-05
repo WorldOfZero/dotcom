@@ -2,34 +2,9 @@
 title: Writing a Snow Covered Shader
 date: 2019-10-04T06:18:59.000Z
 tags:
-  - world of zero
-  - lets make
-  - snow covered
-  - shader
-  - surface shader
-  - unity shader
-  - unity 3d
-  - writing a shader
   - unity3d
-  - unity (game engine)
-  - unity game development
-  - custom shader
-  - snow shader
-  - snow
-  - game development
-  - shader development
-  - coding
-  - software
-  - development
-  - live coding
-  - walkthrough
-  - example shader
-  - snow covered shader
-  - snow topped
-  - snow topped shader
-  - dot product
-  - normal
-  - world normal
+  - shader
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/bY7r6blL1K8/mqdefault.jpg
 ---

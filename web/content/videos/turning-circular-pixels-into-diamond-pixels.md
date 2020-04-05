@@ -2,43 +2,9 @@
 title: Turning Circular Pixels Into Diamond Pixels
 date: 2019-07-02T17:04:19.000Z
 tags:
-  - world of zero
-  - lets make
-  - diamond pixels
-  - pixel shader
-  - pixelated shader
-  - diamond pixel
-  - rotation matrix
-  - matrix
   - shader
-  - surface shader
-  - unity 3d
-  - unity (game engine)
-  - unity development
-  - unity shader
-  - unity surface shader
-  - pixel art
-  - unity pixel shader
-  - pixelated
-  - pixel
-  - graphics
-  - open source
-  - github
-  - oss
-  - development
-  - example
-  - walkthrough
-  - how to
-  - writing a shader
-  - recap
-  - review
-  - circle pixel shader
-  - circle pixel
-  - custom shader
-  - float2x2
-  - 2d rotation matrix
-  - game development
-  - shaders
+  - opensource
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/u5PGfxHjYo0/mqdefault.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Starting an Administrative Powershell'
-description: 'Start a new Admin Powershell from Powershell'
+description: 'Start a new Admin Powershell from an existing Powershell client.'
 date: 2020-01-04
 tags:
 - powershell
@@ -15,8 +15,6 @@ You may start an Administrative Powershell from a separate shell by using the `-
 Start-Process Powershell -Verb RunAs
 ```
 
-This will create an elevated Powershell instance.
-
 ## Using the UI
 
 If you have access to a UI you may access the Power User Menu on Windows using `Windows + X`. From here click `Windows PowerShell (Admin)`. Make sure "Replace Command Prompt with Windows Powershell in the menu when I right-click the start button or press Windows key+X" is enabled in your Windows settings.
@@ -25,4 +23,12 @@ If you have access to a UI you may access the Power User Menu on Windows using `
 
 ## References
 
-* [`Start-Process` documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process) 
+* [`Start-Process` documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)
+
+## Other Programs
+
+This works with other programs as well. If you want an admin Command Prompt for example you might run this:
+
+```powershell
+Start-Process cmd -verb runas
+```

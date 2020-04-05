@@ -2,35 +2,9 @@
 title: Interpolated Strings in C# - Quick Tip
 date: 2019-02-08T07:57:47.000Z
 tags:
-  - world of zero
-  - lets make
-  - string interpolation
-  - string
-  - interpolating strings
-  - c# strings
-  - .net core
-  - .net
   - c#
-  - csharp
-  - csharp string interpolation
-  - Interpolated Strings
-  - String interpolation in C#
-  - quick tips
-  - quick tip
-  - tips
-  - csharp tips
-  - how to
+  - tip
   - tutorial
-  - software development
-  - example
-  - string interpolation example
-  - string interpolation tutorial
-  - dotnet tip
-  - c# 7 string interpolation
-  - C# Reference
-  - String interpolation in C# 6.0
-  - string interpolation syntax
-  - strings
   
 featured_image: https://i.ytimg.com/vi/xQYmSVbacG4/mqdefault.jpg
 ---

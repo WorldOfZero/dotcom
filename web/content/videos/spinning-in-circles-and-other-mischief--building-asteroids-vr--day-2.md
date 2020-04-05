@@ -2,38 +2,11 @@
 title: Spinning In Circles and Other Mischief - Building Asteroids VR - Day 2
 date: 2019-07-17T06:42:47.000Z
 tags:
-  - world of zero
-  - runewake2
-  - live stream
-  - game development live stream
-  - unity (game engine)
-  - unity
-  - unity 3d
   - c#
-  - visual effects
-  - asteroids vr
   - vr
-  - virtual reality
-  - asteroids in vr
-  - vr asteroids
-  - htc vive
-  - steam vr
-  - steamvr
-  - htcvive
-  - vive
-  - unity development
-  - making a game
-  - game development
-  - creating a game
-  - gamedev
-  - indiedev
-  - live coding
-  - lets make
-  - live code
-  - code
-  - development
-  - software
-  - asteroids
+  - xr
+  - livecode
+  - livestream
   
 featured_image: https://i.ytimg.com/vi/LeJTbgGmiNc/mqdefault.jpg
 ---

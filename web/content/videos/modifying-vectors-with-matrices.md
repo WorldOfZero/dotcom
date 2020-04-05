@@ -2,40 +2,7 @@
 title: Modifying Vectors with Matrices
 date: 2019-04-17T06:59:17.000Z
 tags:
-  - world of zero
-  - lets make
-  - matrix
-  - vector
-  - unity
-  - unity 3d
-  - matrix multiplication
-  - matrix4x4
-  - unity matrix
-  - matrix math
-  - rotate vector
-  - rotating vectors
-  - unity (game engine)
-  - vector math
-  - math
-  - Rotating a Vector in 3D
-  - Rotate Vector3
-  - Vector3
-  - Rotation matrix
-  - rotating a vector
-  - quaternion
-  - matrix translation rotation scale
-  - matrix.trs
-  - linear algebra
-  - asteroids vr
-  - asteroid belt
-  - OnValidate
-  - Linq
-  - Unity Gizmos
-  - matrix rotation
-  - matrices
-  - vertices
-  - how to
-  - example
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/zpjlL-w3748/mqdefault.jpg
 ---

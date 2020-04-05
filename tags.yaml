@@ -1,20 +1,36 @@
 # Tags
 # Collection of tags and synonyms (used to reduce number of overall tags and prevent redundancy)
+# synonyms are optional
 tags:
   - name: "unity3d"
     synonyms:
     - "Unity (Game Engine)"
     - "Unity 3D"
     - "unity engine"
+  - name: "godot"
+    synonyms:
+    - "godot (game engine)"
+    - "godot engine"
   - name: "c#"
     synonyms:
     - "csharp"
     - "dotnet"
     - ".net"
+    - ".net framework"
   - name: "typescript"
     synonyms:
     - "javascript"
     - "js"
+    - "ts"
+  - name: "web"
+    synonyms:
+    - "website"
+    - "html"
+    - "html5"
+    - "typescript"
+    - "javascript"
+    - "js"
+    - "ts"
   - name: "java"
     synonyms:
     - "jdk"
@@ -35,6 +51,13 @@ tags:
     - "container"
     - "docker"
     - "docker-compose"
+  - name: "kubernetes"
+    synonyms:
+    - "k8s"
+    - "helm"
+    - "anthos"
+    - "aks"
+    - "gke"
   - name: "shader"
     synonyms:
     - "surface shader"
@@ -42,14 +65,32 @@ tags:
     - "hlsl"
     - "OpenGL"
     - "DirectX"
+  - name: "ar"
+    synonyms:
+    - "augmented reality"
+    - "ar core"
+    - "ar kit"
+    - "vuforia"
   - name: "vr"
     synonyms:
     - "virtual reality"
+    - "steamvr"
+    - "steam vr"
+  - name: "xr"
+    synonyms:
+    - "ar"
+    - "vr"
+    - "virtual reality"
+    - "mixed reality"
+    - "augmented reality"
   - name: "hugo"
   - name: "opensource"
     synonyms:
     - "oss"
     - "open source"
+    - "open source software"
+    - "foss"
+    - "free open source software"
   - name: "test"
     synonyms:
     - "testing"
@@ -64,6 +105,7 @@ tags:
     synonyms:
     - "windowsphone"
     - "windows phone"
+    - "universal windows platform"
   - name: "raspberrypi"
     synonyms:
     - "raspbian"
@@ -75,6 +117,8 @@ tags:
     - "azure"
     - "gcp"
     - "digital ocean"
+    - "netlify"
+    - "cloud-native"
   - name: "kubernetes"
     synonyms:
     - "k8s"
@@ -88,9 +132,11 @@ tags:
     synonyms:
     - "game jam"
     - "gamejam"
+    - "ludumdare"
   - name: "spring"
     synonyms:
     - "spring boot"
+    - "spring framework"
   - name: "asp.net"
     synonyms:
     - "ASP .NET"
@@ -101,6 +147,7 @@ tags:
     synonyms:
     - "live code"
     - "live coding"
+    - "livestream"
   - name: "debugging"
     synonyms:
     - "debug"
@@ -117,3 +164,30 @@ tags:
     - "howto"
     - "how to"
   - name: "livestream"
+    synonyms:
+    - "live"
+    - "live stream"
+  - name: "systems"
+    synonyms:
+    - "system design"
+    - "architecture"
+  - name: "tools"
+    synonyms:
+    - "ide"
+    - "lint"
+  - name: "codehealth"
+    synonyms:
+    - "lint"
+    - "code health"
+    - "testing"
+  - name: "makegood"
+    synonyms:
+    - "charity"
+    - "fundraising"
+    - "make good"
+    - "lets make good"
+  - name: "cnc"
+    synonyms:
+    - "laser cutter"
+    - "3d print"
+    - "3d printer"

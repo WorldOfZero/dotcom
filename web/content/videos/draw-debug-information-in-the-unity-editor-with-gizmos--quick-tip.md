@@ -2,40 +2,10 @@
 title: Draw Debug Information in the Unity Editor with Gizmos - Quick Tip
 date: 2019-05-10T08:01:40.000Z
 tags:
-  - world of zero
-  - lets make
-  - quicktip
-  - quick tip
-  - quick tips
-  - quicktips
-  - unity tip
-  - unity example
-  - unity help
-  - unity 3d
-  - unity (game engine)
-  - unity
-  - worldofzero
-  - woz
-  - gizmos
-  - unity gizmos
-  - ondrawgizmos
-  - how to use gizmos
-  - how to gizmo
-  - gizmo
-  - world of zero gizmo
-  - on draw gizmos
-  - unity editor
-  - unity debugging
-  - using gizmos
-  - gizmos in unity
-  - draw gizmos
-  - unity editor gizmo
-  - example
-  - how to
-  - gizmos in editor
-  - csharp
-  - Gizmos.color
-  - debug
+  - c#
+  - tip
+  - debugging
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/S7HfszIEAAY/mqdefault.jpg
 ---

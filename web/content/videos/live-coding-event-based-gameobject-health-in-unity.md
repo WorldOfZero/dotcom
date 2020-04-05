@@ -2,33 +2,9 @@
 title: Live Coding Event Based GameObject Health in Unity
 date: 2019-04-03T18:08:06.000Z
 tags:
-  - world of zero
-  - lets make
-  - asteroids vr
-  - asteroids
-  - game object
-  - monobehavior
-  - gameobject
+  - unity3d
   - c#
-  - unity
-  - unity game engine
-  - unity engine
-  - unity (game engine)
-  - unity 3d
-  - unity event
-  - generic unity event
-  - event based components
-  - health
-  - health tracking
-  - game object health
-  - event based health
-  - development
-  - live coding
-  - coding
-  - software development
-  - unity live coding
-  - live coding in unity
-  - Coding in Unity
+  - livecode
   
 featured_image: https://i.ytimg.com/vi/unRBfHyYgJ8/mqdefault.jpg
 ---

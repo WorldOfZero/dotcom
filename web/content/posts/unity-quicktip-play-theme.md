@@ -1,8 +1,9 @@
 ---
 title: 'Unity: Play Mode Theme'
 date: 2020-01-06
+draft: true
 tags:
-- unity
+- unity3d
 series:
 - quicktips
 featured_image: "images/posts/shadertoy/reduced-color-range.jpg"

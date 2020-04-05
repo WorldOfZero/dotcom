@@ -2,32 +2,9 @@
 title: Exploring Zenject - Learning how to use Dependency Injection in Unity
 date: 2019-09-24T05:39:21.000Z
 tags:
-  - world of zero
-  - lets make
-  - zenject
-  - IoC
-  - inversion of control
-  - dependency injection
-  - di
-  - unity dependency injection
-  - dependency injection in unity
-  - unity 3d
   - unity3d
-  - unity
-  - unity (game engine)
   - c#
-  - open source
-  - software engineering
-  - IoC Container
-  - design pattern
-  - software design patterns
-  - using dependency injection
-  - Zenject Dependency Injection IOC
-  - Zenject DI
-  - dependency injection framework
-  - game development
-  - unity3d dependency injection
-  - unity framework dependency injection
+  - opensource
   
 featured_image: https://i.ytimg.com/vi/e0KWsizPYAw/mqdefault.jpg
 ---

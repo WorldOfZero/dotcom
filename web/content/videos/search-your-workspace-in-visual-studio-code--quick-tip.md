@@ -2,37 +2,7 @@
 title: Search Your Workspace in Visual Studio Code - Quick Tip
 date: 2019-06-17T15:39:07.000Z
 tags:
-  - world of zero
-  - lets make
-  - quick tip
-  - quick tips
-  - visual studio code
-  - vs code
-  - vscode
-  - workspace
-  - search
-  - vscode workspace search
-  - vscode search
-  - quicktip
   - tip
-  - software development
-  - coding
-  - development
-  - software
-  - programming
-  - code editor
-  - text editor
-  - code
-  - workspace search
-  - editor
-  - visual studio code tip
-  - vscode tip
-  - tips and tricks
-  - developing code
-  - writing code
-  - woz
-  - worldofzero
-  - example
   
 featured_image: https://i.ytimg.com/vi/mhgdhfftBSc/mqdefault.jpg
 ---

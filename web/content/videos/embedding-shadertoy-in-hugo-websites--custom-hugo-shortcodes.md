@@ -2,33 +2,9 @@
 title: Embedding Shadertoy in Hugo Websites - Custom Hugo Shortcodes
 date: 2020-01-07T15:00:14.000Z
 tags:
-  - world of zero
-  - lets make
+  - web
   - shader
-  - shadertoy
-  - shortcode
   - hugo
-  - hugo shortcode
-  - shortcodes
-  - create your own shortcodes
-  - custom hugo shortcodes
-  - shadertoy hypnodisc
-  - create custom shortcodes
-  - shortcodes in hugo
-  - your own shortcodes
-  - shortcode example
-  - custom shortcode example
-  - writing our own shortcode
-  - simple shortcode
-  - simple custom shortcode
-  - hugo shader shortcode
-  - shader shortcode
-  - custom shader shortcode
-  - hugo site generator
-  - shortcode templates
-  - layouts/shortcodes
-  - html
-  - markdown
   
 featured_image: https://i.ytimg.com/vi/i100RhwZUnQ/mqdefault.jpg
 ---

@@ -1,15 +1,18 @@
 on: [push]
 
 jobs:
-  hello_world_job:
+  video-file-generation-job:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: Generate video files
     steps:
-    - name: Hello world action step
+    - name: Generate Files
       id: hello
-      uses: actions/hello-world-docker-action@v1
+      uses: ./tools
       with:
-        who-to-greet: 'Mona the Octocat'
+        youtube-api-key: ${{ secrets.YOUTUBE_API_KEY }}
+        template-file: ./tools/generate-files-dotnet/video.md.template
+        channel-id: "UCJKLCjeujQj-d3JjsbVtkJw"
+        output: "./test"
     # Use the output from the `hello` step
     - name: Get the output time
-      run: echo "The time was ${{ steps.hello.outputs.time }}"
+      run: echo "The time was ${{ steps.hello.outputs.generated-videos-count }}"

@@ -2,41 +2,11 @@
 title: Tracking Rigidbody Velocity in Asteroids VR
 date: 2019-07-15T17:33:42.000Z
 tags:
-  - world of zero
-  - lets make
-  - asteroids vr
-  - asteroidsvr
+  - unity3d
   - vr
-  - asteroids
-  - asteroid vr
-  - asteroid
-  - velocity tracker
-  - virtual reality
-  - steamvr
-  - unity
-  - unity (game engine)
-  - unity game dev
-  - unity engine
-  - unity game
-  - game development
-  - live coding
-  - rigidbody
-  - canvas
-  - unity ui
-  - velocity
-  - debugging
-  - coding
-  - unity 3d
-  - rigidbody velocity
-  - Building Asteroids VR
-  - htc vive
-  - steam vr
-  - openvr
-  - UnityEngine.UI.Text
-  - UI
-  - user interface
   - xr
-  - unity xr
+  - livecode
+  - debugging
   
 featured_image: https://i.ytimg.com/vi/MDT6VV56vNk/mqdefault.jpg
 ---

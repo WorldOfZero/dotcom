@@ -2,47 +2,15 @@
 title: I Built A New Website
 date: 2019-04-23T15:53:15.000Z
 tags:
-  - world of zero
-  - lets make
-  - worldofzero
-  - worldofzero.com
-  - demo
-  - example
-  - javascript
-  - dotnet
+  - c#
+  - typescript
+  - web
+  - containers
+  - opensource
+  - test
   - asp.net
-  - open source
-  - web development
-  - web dev
-  - react
-  - react.js
-  - next.js
-  - beta.worldofzero.com
-  - beta
-  - dotcom
-  - dot com
-  - .com
-  - personal website
-  - testing
-  - docker
-  - nginx
-  - node
-  - node js
-  - node.js
-  - react js
-  - jsx
-  - WorldOfZero/dotcom
-  - frontend
-  - beta website
-  - sample
-  - preview
-  - web design
-  - internet
-  - www
-  - world wide web
-  - html
-  - css
-  - website
+  - demo
+  - codehealth
   
 featured_image: https://i.ytimg.com/vi/BnhiqddQpVo/mqdefault.jpg
 ---

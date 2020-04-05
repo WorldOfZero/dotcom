@@ -2,41 +2,9 @@
 title: Starting to Build a Spigot Minecraft Mod - Building MC-Clone - Part 1
 date: 2019-08-16T01:56:28.000Z
 tags:
-  - world of zero
-  - lets make
-  - spigot
-  - minecraft
-  - spigot mc
-  - spigotmc
-  - mc
-  - minecraft mod
-  - mod
-  - spigot minecraft mod
-  - how to build a mod
-  - build a minecraft mod
-  - mc-clone
-  - minecraft clone
-  - mc clone
-  - plugin
-  - spigot plugin
-  - minecraft plugin
-  - minecraft mod making
-  - how to
-  - how to make a mod
-  - spigot commands
-  - spigot api
-  - api
-  - minecraft command
-  - custom minecraft command
   - java
-  - gradle
-  - docker
-  - plugins
-  - modded minecraft
-  - minecraft server
-  - mc-clone mod
-  - CommandExecutor
-  - spigot CommandExecutor
+  - containers
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/ODLx4yJNtJA/mqdefault.jpg
 ---

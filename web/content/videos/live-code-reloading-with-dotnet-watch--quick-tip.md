@@ -1,38 +1,10 @@
 ---
-title: Live Code Reloading with `dotnet watch` - Quick Tip
+title: Live Code Reloading with dotnet watch - Quick Tip
 date: 2019-02-01T14:00:08.000Z
 tags:
-  - world of zero
-  - lets make
-  - quick tip
-  - tip
-  - dotnet
-  - dotnet watch
-  - watch
-  - automatic reloading
-  - reload on change
-  - csharp
   - c#
-  - .net
-  - dotnet core
-  - .net core
-  - .net core 2
-  - how to
-  - example
-  - dotnet watch example
-  - using dotnet watch
-  - dotnet watch run
-  - dotnet watch test
-  - dotnet watch build
-  - dotnet tip
-  - recompile on change
-  - detect changes
-  - dotnet detect changes
-  - dot net
-  - .net watch
-  - dotnet core watch
-  - live reload
-  - command-line file watcher
+  - tip
+  - tutorial
   
 featured_image: https://i.ytimg.com/vi/nYudqdL55us/mqdefault.jpg
 ---
