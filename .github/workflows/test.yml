@@ -18,4 +18,4 @@ jobs:
     # output generation results as separate task.
     # TODO: Remove later
     - name: Generated Videos Results
-      run: 'echo "Total Videos generated: ${{ steps.hello.outputs.generated-videos-count }}"'
+      run: 'ls ./test; echo "Total Videos generated: ${{ steps.hello.outputs.generated-videos-count }}"'
