@@ -13,4 +13,4 @@ FROM mcr.microsoft.com/dotnet/core/runtime:3.1
 WORKDIR /app
 COPY entrypoint.sh .
 COPY --from=build-env /app/out .
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["/app/entrypoint.sh"]
