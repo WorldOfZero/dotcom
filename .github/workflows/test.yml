@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v2
-    - name: Generate Files
+    - name: Generate YouTube Video Files
       id: generator
       uses: ./actions/generator
       with:
@@ -18,4 +18,12 @@ jobs:
     # output generation results as separate task.
     # TODO: Remove later
     - name: Generated Videos Results
-      run: 'ls ./web/content; ls ./web/content/videos; echo "Total Videos generated: ${{ steps.generator.outputs.generated-videos-count }}"'
+      run: 'ls ./web/content/videos; echo "Total Videos generated: ${{ steps.generator.outputs.generated-videos-count }}"'
+    # Complete generating website content
+    - name: Install Hugo Package
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.62.0'
+        extended: true
+    - name: Build Site
+      run: hugo --minify --source ./web
