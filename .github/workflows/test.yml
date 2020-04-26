@@ -19,6 +19,8 @@ jobs:
     # TODO: Remove later
     - name: Generated Videos Results
       run: 'ls ./web/content/videos; echo "Total Videos generated: ${{ steps.generator.outputs.generated-videos-count }}"'
+    - name: Generated Video Contents
+      run: 'cat ./web/content/videos/a-compile-time-builder-pattern-in-java.md'
     # Complete generating website content
     - name: Install Hugo Package
       uses: peaceiris/actions-hugo@v2
