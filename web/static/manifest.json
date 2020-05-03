@@ -10,7 +10,7 @@
   "background_color": "#2D2A2E",
   "display": "standalone",
   "icons": [
-    {{
+    {
       "src": "logo.png",
       "sizes": "48x48",
       "type": "image/png"
