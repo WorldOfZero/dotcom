@@ -33,3 +33,12 @@ jobs:
       run: hugo --minify --source ./web
     - name: Generated Video Files
       run: 'ls ./web/public/videos'
+    - name: Build DotCom Image
+      uses: docker/build-push-action@v1
+      with:
+        repository: worldofzero/dotcom
+        dockerfile: ./web/Dockerfile
+        path: ./web
+        tag_with_ref: true
+        tag_with_sha: true
+        push: false
