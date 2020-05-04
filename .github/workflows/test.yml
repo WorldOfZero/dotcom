@@ -43,5 +43,5 @@ jobs:
         dockerfile: ./web/Dockerfile
         path: ./web
         tag_with_ref: true
-        tag_with_sha: true
+        tag_with_sha: false
         push: true

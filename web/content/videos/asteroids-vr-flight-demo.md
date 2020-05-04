@@ -8,4 +8,4 @@ tags:
 featured_image: https://i9.ytimg.com/vi/upbrdvQVPDw/mq2.jpg?sqp=COe3qPQF&rs=AOn4CLBpf-X16N0245xN-P_sDletu_luFw
 ---
 
-<% youtube upbrdvQVPDw %>
+{{% youtube upbrdvQVPDw %}}
