@@ -33,15 +33,17 @@ jobs:
       run: hugo --minify --source ./web
     - name: Generated Video Files
       run: 'ls ./web/public/videos'
-    - name: Login to Container Registry
-      uses: azure/docker-login@v1
-      with:
-        login-server: ${{ secrets.DOCKER_REGISTRY_URL }}
-        username: ${{ secrets.AZURE_SERVICE_APP_ID }}
-        password: ${{ secrets.AZURE_SERVICE_PASSWORD }}
+    # - name: Login to Container Registry
+    #   uses: azure/docker-login@v1
+    #   with:
+    #     login-server: ${{ secrets.DOCKER_REGISTRY_URL }}
+    #     username: ${{ secrets.AZURE_SERVICE_APP_ID }}
+    #     password: ${{ secrets.AZURE_SERVICE_PASSWORD }}
     - name: Build DotCom Image
       uses: docker/build-push-action@v1
       with:
+        username: ${{ secrets.AZURE_SERVICE_APP_ID }}
+        password: ${{ secrets.AZURE_SERVICE_PASSWORD }}
         registry: ${{ secrets.DOCKER_REGISTRY_URL }}
         repository: worldofzero-dotcom
         dockerfile: ./web/Dockerfile
