@@ -42,7 +42,7 @@ jobs:
     - name: Build DotCom Image
       uses: docker/build-push-action@v1
       with:
-        registry: ${{ secrets.DOCKER_REGISTRY_URL }}
+        registry: worldofzero.azurecr.io
         repository: worldofzero-dotcom
         dockerfile: ./web/Dockerfile
         path: ./web
