@@ -1,4 +1,4 @@
-logoText = "World of Zero" # Logo text that appears in the site navigation bar.
+logoText = "World of Zero #beta" # Logo text that appears in the site navigation bar.
 description = "Lets make something awesome together!" # for SEO
 custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
@@ -29,7 +29,7 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Sam Wronski"
 email = "contact@worldofzero.com"
-whoami = "Maker of things, currently helping build Kubernetes @ Google. World of Zero is a personal project disconnected from my professional work. Lets make something awesome together!"
+whoami = "Maker of things, currently helping build cloud things @ Google. World of Zero is a personal project disconnected from my professional work. Lets make something awesome together!"
 useGravatar = false
 location = "San Francisco"
 organization = "" # "World of Zero"
