@@ -28,10 +28,10 @@ talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Sam Wronski"
-email = "" # "contact@worldofzero.com"
+email = "contact@worldofzero.com"
 whoami = "Maker of things, currently helping build Kubernetes @ Google. World of Zero is a personal project disconnected from my professional work. Lets make something awesome together!"
 useGravatar = false
-location = "San Fransisco"
+location = "San Francisco"
 organization = "" # "World of Zero"
 link = "" # https://youtube.com/WorldOfZeroDevelopment
 
