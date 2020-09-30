@@ -1,6 +1,6 @@
 ---
 title: "Flight in Asteroids VR Demo"
-date: 2020-12-04
+date: 2018-12-04
 description: A demonstration of early flight mechanics in Asteroids VR that enable complex movement and 6 degrees of freedom.
 tags:
 - demo
