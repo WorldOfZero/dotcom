@@ -17,3 +17,7 @@ Jump, Bang! is a game created for the [DreamhackJam](https://gamejolt.com/search
 ![Playing Jump Bang](/images/posts/games/jumpbang/jumpboom2.png)
 
 [Jump, Bang! has it's source code on GitHub if you're interested in playing around with it](https://github.com/WorldOfZero/JumpBang).
+
+The development of Jump, Bang! was live streamed. You can watch the VoD's here:
+
+{{% youtube id="rR_5sqwQtP8" %}}
