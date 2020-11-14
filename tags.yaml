@@ -4,7 +4,7 @@
 tags:
   - name: "unity3d"
     synonyms:
-    - "Unity (Game Engine)"
+    - "Unity (game engine)"
     - "Unity 3D"
     - "unity engine"
   - name: "godot"
@@ -42,6 +42,7 @@ tags:
     synonyms:
     - "terminal"
     - "sh"
+    - "command line"
   - name: "bash"
   - name: "powershell"
     synonyms:
@@ -58,6 +59,12 @@ tags:
     - "anthos"
     - "aks"
     - "gke"
+    - "eks"
+  - name: "git"
+    synonyms:
+    - "github"
+    - "gitlab"
+    - "git scm"
   - name: "shader"
     synonyms:
     - "surface shader"
@@ -70,7 +77,6 @@ tags:
     - "augmented reality"
     - "ar core"
     - "ar kit"
-    - "vuforia"
   - name: "vr"
     synonyms:
     - "virtual reality"
@@ -83,7 +89,14 @@ tags:
     - "virtual reality"
     - "mixed reality"
     - "augmented reality"
+    - "steamvr"
+    - "steam vr"
+    - "ar core"
+    - "ar kit"
   - name: "hugo"
+    synonyms:
+    - "gohugo.io"
+    - "hugo framework"
   - name: "opensource"
     synonyms:
     - "oss"
@@ -93,12 +106,21 @@ tags:
     - "free open source software"
   - name: "test"
     synonyms:
+    - "tests"
     - "testing"
+    - "unit test"
+    - "e2e test"
+    - "integration test"
+    - "software testing"
   - name: "monogame"
     synonyms:
     - "xna"
+    - "mono game"
   - name: "linux"
   - name: "windows"
+    synonyms:
+    - "windows 10"
+    - "windows 8"
   - name: "android"
   - name: "iOS"
   - name: "uwp"
@@ -109,6 +131,7 @@ tags:
   - name: "raspberrypi"
     synonyms:
     - "raspbian"
+    - "raspberry pi"
   - name: "arduino"
   - name: "cloud"
     synonyms:
@@ -137,9 +160,10 @@ tags:
     synonyms:
     - "spring boot"
     - "spring framework"
+    - "java spring"
   - name: "asp.net"
     synonyms:
-    - "ASP .NET"
+    - "asp .net"
     - "asp.net core"
     - "asp .net core"
   - name: "demo"
@@ -147,14 +171,15 @@ tags:
     synonyms:
     - "live code"
     - "live coding"
-    - "livestream"
   - name: "debugging"
     synonyms:
     - "debug"
+    - "debugger"
   - name: "ci/cd"
     synonyms:
     - "ci"
     - "cd"
+    - "cicd"
     - "ci cd"
     - "continuous integration"
     - "continuous deployment"
@@ -167,7 +192,8 @@ tags:
     synonyms:
     - "live"
     - "live stream"
-  - name: "systems"
+    - "livestream"
+  - name: "design"
     synonyms:
     - "system design"
     - "architecture"
@@ -175,10 +201,13 @@ tags:
     synonyms:
     - "ide"
     - "lint"
+    - "cli"
+    - "editor"
   - name: "codehealth"
     synonyms:
     - "lint"
     - "code health"
+    - "tests"
     - "testing"
   - name: "makegood"
     synonyms:
@@ -186,8 +215,8 @@ tags:
     - "fundraising"
     - "make good"
     - "lets make good"
-  - name: "cnc"
+  - name: "3d printing"
     synonyms:
-    - "laser cutter"
     - "3d print"
+    - "3d prints"
     - "3d printer"
