@@ -6,7 +6,7 @@ tags:
 featured_image: "images/posts/shadertoy/infinite-grid.jpg"
 ---
 
-A [Shadertoy](shadertoy.com) shader creating a grid. This makes it possible to create an infintely scalable grid pattern that is fairly light-weight.
+A [Shadertoy](https://shadertoy.com) shader creating a grid. This makes it possible to create an infintely scalable grid pattern that is fairly light-weight.
 
 {{< shader id="wdlGzX" >}}
 
