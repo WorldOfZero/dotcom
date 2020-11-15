@@ -4,8 +4,6 @@ description: 'A Shadertoy shader creating a classic hypnotic disc effect.'
 date: 2017-06-28
 tags:
 - shader
-series:
-- shadertoy
 featured_image: "images/posts/shadertoy/hypnodisc.jpg"
 ---
 

@@ -3,8 +3,6 @@ title: 'Shadertoy: Grid Shader'
 date: 2019-01-10
 tags:
 - shader
-series:
-- shadertoy
 featured_image: "images/posts/shadertoy/infinite-grid.jpg"
 ---
 

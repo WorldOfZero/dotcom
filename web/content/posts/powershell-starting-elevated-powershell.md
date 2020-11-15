@@ -4,8 +4,6 @@ description: 'Start a new Admin Powershell from an existing Powershell client.'
 date: 2020-01-04
 tags:
 - powershell
-series:
-- quicktips
 featured_image: "images/posts/powershell/default.jpg"
 ---
 

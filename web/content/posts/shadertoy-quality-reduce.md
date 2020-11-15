@@ -3,8 +3,6 @@ title: 'Shadertoy: Reduced Image Color Quality'
 date: 2018-09-18
 tags:
 - shader
-series:
-- shadertoy
 featured_image: "images/posts/shadertoy/reduced-color-range.jpg"
 ---
 
