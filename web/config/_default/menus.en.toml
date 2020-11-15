@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "about"
+  name = "about"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "discord"
+  name = "discord"
+  url = "https://discord.gg/hU5Kq2u"
+  weight = 2

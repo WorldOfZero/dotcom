@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "World of Zero",
+  "short_name": "World of Zero",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "description": "Lets make something awesome together!",
+  "start_url": "https://worldofzero.com",
+  "theme_color": "#0099ff",
+  "background_color": "#2D2A2E",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}

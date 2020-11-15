@@ -1,0 +1,27 @@
+# action.yml
+name: 'YouTube Generator'
+description: 'Generate YouTube Video based Markdown files from a channel and template'
+inputs:
+  youtube-api-key:
+    description: "YouTube API Key"
+    required: true
+  template-file:
+    description: "Template File for generation"
+    required: true
+  channel-id:
+    description: "YouTube Channel ID"
+    required: true
+  output:
+    description: "Output Directory for generated files"
+    required: true
+outputs:
+  generated-videos-count: # id of output
+    description: 'The number of videos generated from the script'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.youtube-api-key }}
+    - ${{ inputs.template-file }}
+    - ${{ inputs.channel-id }}
+    - ${{ inputs.output }}
