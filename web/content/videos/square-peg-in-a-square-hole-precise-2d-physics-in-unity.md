@@ -1,6 +1,6 @@
 ---
 title: "Square Peg in a Square Hole - Precise 2D Physics in Unity"
-alias: [/v/yZ78Ey6RqRo/]
+aliases: [/v/yZ78Ey6RqRo/]
 date: 2016-11-05
 featured_image: https://i.ytimg.com/vi/yZ78Ey6RqRo/mqdefault.jpg
 

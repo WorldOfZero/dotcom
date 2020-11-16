@@ -1,6 +1,6 @@
 ---
 title: "Importing .NET Libraries Into Unity 3D"
-alias: [/v/m5Ls_NUChMk/]
+aliases: [/v/m5Ls_NUChMk/]
 date: 2020-03-09
 featured_image: https://i.ytimg.com/vi/m5Ls_NUChMk/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "I've Got An Arduino And No Clue How To Use It - Data Cube - Part 1"
-alias: [/v/3SmN91CC970/]
+aliases: [/v/3SmN91CC970/]
 date: 2017-03-27
 featured_image: https://i.ytimg.com/vi/3SmN91CC970/mqdefault.jpg
 

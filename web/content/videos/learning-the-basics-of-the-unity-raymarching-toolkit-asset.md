@@ -1,6 +1,6 @@
 ---
 title: "Learning the Basics of the Unity Raymarching Toolkit Asset"
-alias: [/v/QDfqgG8HJDQ/]
+aliases: [/v/QDfqgG8HJDQ/]
 date: 2018-05-15
 featured_image: https://i.ytimg.com/vi/QDfqgG8HJDQ/mqdefault.jpg
 

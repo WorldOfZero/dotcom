@@ -1,6 +1,6 @@
 ---
 title: "Texturing our Voxels - Lets Make 2D Voxel Terrain - Part 9"
-alias: [/v/_YSOwajeFqA/]
+aliases: [/v/_YSOwajeFqA/]
 date: 2017-02-16
 featured_image: https://i.ytimg.com/vi/_YSOwajeFqA/mqdefault.jpg
 

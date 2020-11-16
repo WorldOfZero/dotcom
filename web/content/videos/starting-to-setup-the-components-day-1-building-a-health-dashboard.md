@@ -1,6 +1,6 @@
 ---
 title: "Starting to Setup the Components - Day 1 - Building a Health Dashboard"
-alias: [/v/eim3djMXLus/]
+aliases: [/v/eim3djMXLus/]
 date: 2020-06-30
 featured_image: https://i.ytimg.com/vi/eim3djMXLus/mqdefault.jpg
 

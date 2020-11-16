@@ -1,6 +1,6 @@
 ---
 title: "Shooting Through Walls With Bullet Penetration in Unity"
-alias: [/v/RIru7m73HZA/]
+aliases: [/v/RIru7m73HZA/]
 date: 2018-12-11
 featured_image: https://i.ytimg.com/vi/RIru7m73HZA/mqdefault.jpg
 

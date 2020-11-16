@@ -1,6 +1,6 @@
 ---
 title: "Enumerable Parsing - Lets Make Unity Shell - Part 4"
-alias: [/v/2NQ2qTrxnCE/]
+aliases: [/v/2NQ2qTrxnCE/]
 date: 2017-08-02
 featured_image: https://i.ytimg.com/vi/2NQ2qTrxnCE/mqdefault.jpg
 

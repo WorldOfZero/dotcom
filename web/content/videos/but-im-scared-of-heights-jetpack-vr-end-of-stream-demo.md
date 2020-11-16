@@ -1,6 +1,6 @@
 ---
 title: "But I'm Scared of Heights! Jetpack VR End Of Stream Demo"
-alias: [/v/5lYOvcJTLrc/]
+aliases: [/v/5lYOvcJTLrc/]
 date: 2016-10-22
 featured_image: https://i.ytimg.com/vi/5lYOvcJTLrc/mqdefault.jpg
 

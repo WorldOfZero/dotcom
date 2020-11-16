@@ -1,6 +1,6 @@
 ---
 title: "Fractal Shaders in Unity - Mandelbrot and Julia Set Surface Shaders"
-alias: [/v/SVj0LWmQD-E/]
+aliases: [/v/SVj0LWmQD-E/]
 date: 2016-09-29
 featured_image: https://i.ytimg.com/vi/SVj0LWmQD-E/mqdefault.jpg
 

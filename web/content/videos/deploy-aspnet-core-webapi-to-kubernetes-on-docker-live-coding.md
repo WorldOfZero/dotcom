@@ -1,6 +1,6 @@
 ---
 title: "Deploy ASP.NET Core WebAPI to Kubernetes on Docker - Live Coding"
-alias: [/v/sC6_iwmqZ_E/]
+aliases: [/v/sC6_iwmqZ_E/]
 date: 2018-01-29
 featured_image: https://i.ytimg.com/vi/sC6_iwmqZ_E/mqdefault.jpg
 

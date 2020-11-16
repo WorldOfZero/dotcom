@@ -1,6 +1,6 @@
 ---
 title: "An Intro to Unity - Flappy Cube Tutorial - Part 2"
-alias: [/v/3UYAcqWPiuw/]
+aliases: [/v/3UYAcqWPiuw/]
 date: 2016-11-21
 featured_image: https://i.ytimg.com/vi/3UYAcqWPiuw/mqdefault.jpg
 

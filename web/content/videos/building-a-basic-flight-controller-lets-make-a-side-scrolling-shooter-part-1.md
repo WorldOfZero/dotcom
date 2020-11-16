@@ -1,6 +1,6 @@
 ---
 title: "Building a Basic Flight Controller - Lets Make a Side Scrolling Shooter - Part 1"
-alias: [/v/xO2LTbAMFNQ/]
+aliases: [/v/xO2LTbAMFNQ/]
 date: 2018-06-14
 featured_image: https://i.ytimg.com/vi/xO2LTbAMFNQ/mqdefault.jpg
 

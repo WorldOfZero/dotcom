@@ -1,6 +1,6 @@
 ---
 title: "Lets Draw A Circle - Circle Pixel Shader - Part 2"
-alias: [/v/BVPfcI-O83s/]
+aliases: [/v/BVPfcI-O83s/]
 date: 2019-06-20
 featured_image: https://i.ytimg.com/vi/BVPfcI-O83s/mqdefault.jpg
 

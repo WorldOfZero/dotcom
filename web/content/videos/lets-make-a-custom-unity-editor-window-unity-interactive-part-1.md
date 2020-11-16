@@ -1,6 +1,6 @@
 ---
 title: "Lets Make a Custom Unity Editor Window - Unity Interactive - Part 1"
-alias: [/v/J46gO0_u1zQ/]
+aliases: [/v/J46gO0_u1zQ/]
 date: 2017-05-11
 featured_image: https://i.ytimg.com/vi/J46gO0_u1zQ/mqdefault.jpg
 

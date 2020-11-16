@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Docker, Docker Hub and Mongo DB"
-alias: [/v/Cv292D_8NN0/]
+aliases: [/v/Cv292D_8NN0/]
 date: 2017-10-06
 featured_image: https://i.ytimg.com/vi/Cv292D_8NN0/mqdefault.jpg
 

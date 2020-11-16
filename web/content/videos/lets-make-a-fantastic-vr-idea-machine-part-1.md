@@ -1,6 +1,6 @@
 ---
 title: "Lets Make a Fantastic VR Idea Machine - Part 1"
-alias: [/v/NsZJjKF3hkQ/]
+aliases: [/v/NsZJjKF3hkQ/]
 date: 2017-06-15
 featured_image: https://i.ytimg.com/vi/NsZJjKF3hkQ/mqdefault.jpg
 

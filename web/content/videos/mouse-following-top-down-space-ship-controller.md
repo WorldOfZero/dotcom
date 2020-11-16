@@ -1,6 +1,6 @@
 ---
 title: "Mouse Following Top-Down Space Ship Controller"
-alias: [/v/yOnth9uTLlA/]
+aliases: [/v/yOnth9uTLlA/]
 date: 2019-03-25
 featured_image: https://i.ytimg.com/vi/yOnth9uTLlA/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Lets Make Spawning Objects with Raycasts and Keyboard Events"
-alias: [/v/9W5f0BirXjI/]
+aliases: [/v/9W5f0BirXjI/]
 date: 2017-06-16
 featured_image: https://i.ytimg.com/vi/9W5f0BirXjI/mqdefault.jpg
 

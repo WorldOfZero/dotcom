@@ -1,6 +1,6 @@
 ---
 title: "Unit Testing in Unity Using the Unity Test Runner"
-alias: [/v/4hwMmdbnH90/]
+aliases: [/v/4hwMmdbnH90/]
 date: 2018-02-19
 featured_image: https://i.ytimg.com/vi/4hwMmdbnH90/mqdefault.jpg
 

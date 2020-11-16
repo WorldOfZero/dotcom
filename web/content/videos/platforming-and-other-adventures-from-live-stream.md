@@ -1,6 +1,6 @@
 ---
 title: "Platforming and Other Adventures from Live Stream"
-alias: [/v/Z5WREogznj8/]
+aliases: [/v/Z5WREogznj8/]
 date: 2019-07-14
 featured_image: https://i.ytimg.com/vi/Z5WREogznj8/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Creating a Triplanar Shader - Asteroids VR"
-alias: [/v/KCKN44-dMOY/]
+aliases: [/v/KCKN44-dMOY/]
 date: 2017-03-28
 featured_image: https://i.ytimg.com/vi/KCKN44-dMOY/mqdefault.jpg
 

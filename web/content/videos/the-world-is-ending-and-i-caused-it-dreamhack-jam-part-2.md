@@ -1,6 +1,6 @@
 ---
 title: "The World Is Ending And I Caused It - DreamHack Jam - Part 2"
-alias: [/v/XKqM5E0fQrM/]
+aliases: [/v/XKqM5E0fQrM/]
 date: 2017-09-30
 featured_image: https://i.ytimg.com/vi/XKqM5E0fQrM/mqdefault.jpg
 

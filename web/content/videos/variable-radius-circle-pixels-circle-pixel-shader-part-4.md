@@ -1,6 +1,6 @@
 ---
 title: "Variable Radius Circle Pixels -  Circle Pixel Shader - Part 4"
-alias: [/v/u-RXmILAmxs/]
+aliases: [/v/u-RXmILAmxs/]
 date: 2019-06-25
 featured_image: https://i.ytimg.com/vi/u-RXmILAmxs/mqdefault.jpg
 

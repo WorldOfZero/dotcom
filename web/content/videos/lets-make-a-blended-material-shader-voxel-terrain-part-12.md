@@ -1,6 +1,6 @@
 ---
 title: "Lets Make a Blended Material Shader - Voxel Terrain - Part 12"
-alias: [/v/btOs50kk9IA/]
+aliases: [/v/btOs50kk9IA/]
 date: 2017-06-22
 featured_image: https://i.ytimg.com/vi/btOs50kk9IA/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Learning How To Use Step and Smoothstep in Shaders"
-alias: [/v/-vGNd8pnbYs/]
+aliases: [/v/-vGNd8pnbYs/]
 date: 2018-11-15
 featured_image: https://i.ytimg.com/vi/-vGNd8pnbYs/mqdefault.jpg
 

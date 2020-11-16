@@ -1,6 +1,6 @@
 ---
 title: "Physical Asteroid LODs - Lets Make an Asteroid Belt - Part 5"
-alias: [/v/zZmo0Az0SVg/]
+aliases: [/v/zZmo0Az0SVg/]
 date: 2017-02-28
 featured_image: https://i.ytimg.com/vi/zZmo0Az0SVg/mqdefault.jpg
 

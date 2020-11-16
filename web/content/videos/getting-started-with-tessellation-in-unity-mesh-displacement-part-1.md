@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Tessellation in Unity - Mesh Displacement - Part 1"
-alias: [/v/AU3ZlzhVq7Y/]
+aliases: [/v/AU3ZlzhVq7Y/]
 date: 2017-01-08
 featured_image: https://i.ytimg.com/vi/AU3ZlzhVq7Y/mqdefault.jpg
 

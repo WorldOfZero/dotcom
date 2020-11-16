@@ -1,6 +1,6 @@
 ---
 title: "An Appendable List with Operator Overloading"
-alias: [/v/vavFf1Qiz20/]
+aliases: [/v/vavFf1Qiz20/]
 date: 2020-04-06
 featured_image: https://i.ytimg.com/vi/vavFf1Qiz20/mqdefault.jpg
 

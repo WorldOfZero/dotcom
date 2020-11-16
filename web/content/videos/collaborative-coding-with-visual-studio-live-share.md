@@ -1,6 +1,6 @@
 ---
 title: "Collaborative Coding with Visual Studio Live Share"
-alias: [/v/7luOiKKZa-w/]
+aliases: [/v/7luOiKKZa-w/]
 date: 2018-06-18
 featured_image: https://i.ytimg.com/vi/7luOiKKZa-w/mqdefault.jpg
 

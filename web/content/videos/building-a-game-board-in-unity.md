@@ -1,6 +1,6 @@
 ---
 title: "Building a Game Board in Unity"
-alias: [/v/SIsMR5OYM8c/]
+aliases: [/v/SIsMR5OYM8c/]
 date: 2018-06-13
 featured_image: https://i.ytimg.com/vi/SIsMR5OYM8c/mqdefault.jpg
 

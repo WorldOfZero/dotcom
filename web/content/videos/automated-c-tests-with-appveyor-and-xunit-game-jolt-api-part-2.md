@@ -1,6 +1,6 @@
 ---
 title: "Automated C# Tests with AppVeyor and XUnit - Game Jolt API - Part 2"
-alias: [/v/3zwmmpSTXx4/]
+aliases: [/v/3zwmmpSTXx4/]
 date: 2016-11-08
 featured_image: https://i.ytimg.com/vi/3zwmmpSTXx4/mqdefault.jpg
 

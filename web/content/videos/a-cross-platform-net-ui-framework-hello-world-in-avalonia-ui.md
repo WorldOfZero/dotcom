@@ -1,6 +1,6 @@
 ---
 title: "A Cross Platform .NET UI Framework - Hello World in Avalonia UI"
-alias: [/v/rho26Ik30D4/]
+aliases: [/v/rho26Ik30D4/]
 date: 2018-03-07
 featured_image: https://i.ytimg.com/vi/rho26Ik30D4/mqdefault.jpg
 

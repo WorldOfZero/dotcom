@@ -1,6 +1,6 @@
 ---
 title: "Midnight - Asylum Jam 2017 - Post Mortem"
-alias: [/v/AMlw0xCGVn4/]
+aliases: [/v/AMlw0xCGVn4/]
 date: 2017-11-07
 featured_image: https://i.ytimg.com/vi/AMlw0xCGVn4/mqdefault.jpg
 

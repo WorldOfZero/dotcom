@@ -1,6 +1,6 @@
 ---
 title: "Running a Minecraft Server in Docker"
-alias: [/v/JtKIpGjtLzw/]
+aliases: [/v/JtKIpGjtLzw/]
 date: 2019-03-12
 featured_image: https://i.ytimg.com/vi/JtKIpGjtLzw/mqdefault.jpg
 

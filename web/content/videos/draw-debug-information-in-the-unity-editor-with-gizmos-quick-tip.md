@@ -1,6 +1,6 @@
 ---
 title: "Draw Debug Information in the Unity Editor with Gizmos - Quick Tip"
-alias: [/v/S7HfszIEAAY/]
+aliases: [/v/S7HfszIEAAY/]
 date: 2019-05-10
 featured_image: https://i.ytimg.com/vi/S7HfszIEAAY/mqdefault.jpg
 

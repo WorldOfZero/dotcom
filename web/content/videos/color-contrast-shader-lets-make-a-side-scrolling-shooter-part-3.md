@@ -1,6 +1,6 @@
 ---
 title: "Color Contrast Shader - Lets Make a Side Scrolling Shooter - Part 3"
-alias: [/v/jJcSbixSy5c/]
+aliases: [/v/jJcSbixSy5c/]
 date: 2018-07-02
 featured_image: https://i.ytimg.com/vi/jJcSbixSy5c/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Exploring Gui.cs - Custom Terminal UI's in .NET"
-alias: [/v/sVYiDboAe_E/]
+aliases: [/v/sVYiDboAe_E/]
 date: 2020-02-19
 featured_image: https://i.ytimg.com/vi/sVYiDboAe_E/mqdefault.jpg
 

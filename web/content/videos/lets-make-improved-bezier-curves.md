@@ -1,6 +1,6 @@
 ---
 title: "Lets Make Improved Bezier Curves"
-alias: [/v/4zizgh2duqY/]
+aliases: [/v/4zizgh2duqY/]
 date: 2017-10-10
 featured_image: https://i.ytimg.com/vi/4zizgh2duqY/mqdefault.jpg
 

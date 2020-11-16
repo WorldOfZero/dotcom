@@ -1,6 +1,6 @@
 ---
 title: "Using Debug.DrawLine and Debug.DrawRay to Visually Debug Unity 3D - Quick Tip"
-alias: [/v/USwrSUpIgLI/]
+aliases: [/v/USwrSUpIgLI/]
 date: 2020-03-16
 featured_image: https://i.ytimg.com/vi/USwrSUpIgLI/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Coding with Blocks in Google Blockly"
-alias: [/v/XpfN_rN9gZM/]
+aliases: [/v/XpfN_rN9gZM/]
 date: 2016-10-03
 featured_image: https://i.ytimg.com/vi/XpfN_rN9gZM/mqdefault.jpg
 

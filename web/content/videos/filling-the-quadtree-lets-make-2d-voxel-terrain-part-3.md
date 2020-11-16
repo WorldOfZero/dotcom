@@ -1,6 +1,6 @@
 ---
 title: "Filling the Quadtree - Let's Make 2D Voxel Terrain - Part 3"
-alias: [/v/I_h3VaRVSZc/]
+aliases: [/v/I_h3VaRVSZc/]
 date: 2017-01-30
 featured_image: https://i.ytimg.com/vi/I_h3VaRVSZc/mqdefault.jpg
 

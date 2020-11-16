@@ -1,6 +1,6 @@
 ---
 title: "Drawing Lines With The Mouse in Unity"
-alias: [/v/km_kU-j7mcw/]
+aliases: [/v/km_kU-j7mcw/]
 date: 2018-02-21
 featured_image: https://i.ytimg.com/vi/km_kU-j7mcw/mqdefault.jpg
 

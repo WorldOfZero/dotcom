@@ -1,6 +1,6 @@
 ---
 title: "Building the Idea Wheel Prototype - OBS Overlay - From Live Stream"
-alias: [/v/CBNO-8OS3wU/]
+aliases: [/v/CBNO-8OS3wU/]
 date: 2020-06-11
 featured_image: https://i.ytimg.com/vi/CBNO-8OS3wU/mqdefault.jpg
 

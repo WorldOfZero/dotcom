@@ -1,6 +1,6 @@
 ---
 title: "Using Your Terminal's Directory Stack to Work With Multiple Directories"
-alias: [/v/NM_ynkPNURU/]
+aliases: [/v/NM_ynkPNURU/]
 date: 2019-12-24
 featured_image: https://i.ytimg.com/vi/NM_ynkPNURU/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Build the UI Some More - Emotible - Part 5 Live!"
-alias: [/v/Af9OQuWiFbw/]
+aliases: [/v/Af9OQuWiFbw/]
 date: 2016-10-11
 featured_image: https://i.ytimg.com/vi/Af9OQuWiFbw/mqdefault.jpg
 

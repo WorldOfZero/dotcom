@@ -1,6 +1,6 @@
 ---
 title: "I Built A New Website"
-alias: [/v/BnhiqddQpVo/]
+aliases: [/v/BnhiqddQpVo/]
 date: 2019-04-22
 featured_image: https://i.ytimg.com/vi/BnhiqddQpVo/mqdefault.jpg
 

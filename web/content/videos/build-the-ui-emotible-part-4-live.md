@@ -1,6 +1,6 @@
 ---
 title: "Build the UI - Emotible - Part 4 Live!"
-alias: [/v/9CdN01o7JSE/]
+aliases: [/v/9CdN01o7JSE/]
 date: 2016-10-04
 featured_image: https://i.ytimg.com/vi/9CdN01o7JSE/mqdefault.jpg
 

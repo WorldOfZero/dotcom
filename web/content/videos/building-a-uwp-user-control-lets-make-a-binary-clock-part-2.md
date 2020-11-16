@@ -1,6 +1,6 @@
 ---
 title: "Building a UWP User Control - Lets Make a Binary Clock - Part 2"
-alias: [/v/VJRfipP9o9w/]
+aliases: [/v/VJRfipP9o9w/]
 date: 2017-01-11
 featured_image: https://i.ytimg.com/vi/VJRfipP9o9w/mqdefault.jpg
 

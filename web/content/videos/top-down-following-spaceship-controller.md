@@ -1,6 +1,6 @@
 ---
 title: "Top Down Following Spaceship Controller"
-alias: [/v/xYl5qRgOw_M/]
+aliases: [/v/xYl5qRgOw_M/]
 date: 2019-01-31
 featured_image: https://i.ytimg.com/vi/xYl5qRgOw_M/mqdefault.jpg
 

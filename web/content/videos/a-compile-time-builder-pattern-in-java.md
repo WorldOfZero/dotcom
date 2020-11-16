@@ -1,6 +1,6 @@
 ---
 title: "A Compile Time Builder Pattern in Java"
-alias: [/v/N31rou85xec/]
+aliases: [/v/N31rou85xec/]
 date: 2017-08-07
 featured_image: https://i.ytimg.com/vi/N31rou85xec/mqdefault.jpg
 

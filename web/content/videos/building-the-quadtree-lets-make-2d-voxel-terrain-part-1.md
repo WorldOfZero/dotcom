@@ -1,6 +1,6 @@
 ---
 title: "Building the Quadtree - Lets Make 2D Voxel Terrain - Part 1"
-alias: [/v/RkLI0s7phyU/]
+aliases: [/v/RkLI0s7phyU/]
 date: 2017-01-25
 featured_image: https://i.ytimg.com/vi/RkLI0s7phyU/mqdefault.jpg
 
