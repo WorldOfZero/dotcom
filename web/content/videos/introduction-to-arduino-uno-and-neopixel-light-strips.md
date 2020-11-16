@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Arduino Uno and Neopixel Light Strips"
+aliases: [/v/ABVF7Yqrp34/]
 date: 2017-12-12
 featured_image: https://i.ytimg.com/vi/ABVF7Yqrp34/mqdefault.jpg
 

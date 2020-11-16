@@ -1,5 +1,6 @@
 ---
 title: "THE QUEST FOR FUN - #MeatlyJam LIVE STREAM"
+aliases: [/v/rQICGAbSPtY/]
 date: 2016-08-15
 featured_image: https://i.ytimg.com/vi/rQICGAbSPtY/mqdefault.jpg
 

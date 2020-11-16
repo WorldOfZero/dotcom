@@ -1,5 +1,6 @@
 ---
 title: "Getting Physical - Adding Physics to the Fractal Generator"
+aliases: [/v/EMQOhrN453g/]
 date: 2016-09-28
 featured_image: https://i.ytimg.com/vi/EMQOhrN453g/mqdefault.jpg
 

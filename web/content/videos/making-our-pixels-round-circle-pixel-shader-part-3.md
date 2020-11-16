@@ -1,5 +1,6 @@
 ---
 title: "Making Our Pixels Round -  Circle Pixel Shader - Part 3"
+aliases: [/v/RD9qvXO_Ha4/]
 date: 2019-06-25
 featured_image: https://i.ytimg.com/vi/RD9qvXO_Ha4/mqdefault.jpg
 

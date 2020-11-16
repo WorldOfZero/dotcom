@@ -1,5 +1,6 @@
 ---
 title: "Learning Archimatix Pro - Parametric Modeler for Unity 3D"
+aliases: [/v/fP9hh4SXDow/]
 date: 2017-08-22
 featured_image: https://i.ytimg.com/vi/fP9hh4SXDow/mqdefault.jpg
 

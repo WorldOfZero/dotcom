@@ -1,5 +1,6 @@
 ---
 title: "Dropping Boxes - Mixer Stream Savers - Part 2"
+aliases: [/v/MWODo1aoIuU/]
 date: 2018-02-28
 featured_image: https://i.ytimg.com/vi/MWODo1aoIuU/mqdefault.jpg
 

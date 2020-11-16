@@ -1,5 +1,6 @@
 ---
 title: "Explosive Bombs in Unity - Making Asteroid's in Virtual Reality - Part 5"
+aliases: [/v/o684gEefKm0/]
 date: 2016-10-26
 featured_image: https://i.ytimg.com/vi/o684gEefKm0/mqdefault.jpg
 

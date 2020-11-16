@@ -1,5 +1,6 @@
 ---
 title: "Introducing Side Effects Into C# Properties - The Dangers of Being Clever"
+aliases: [/v/ZU5NLOeY_W0/]
 date: 2018-01-16
 featured_image: https://i.ytimg.com/vi/ZU5NLOeY_W0/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Math in the Unity Inspector - Quick Tip"
+aliases: [/v/O5eXHyDLVmw/]
 date: 2019-02-01
 featured_image: https://i.ytimg.com/vi/O5eXHyDLVmw/mqdefault.jpg
 

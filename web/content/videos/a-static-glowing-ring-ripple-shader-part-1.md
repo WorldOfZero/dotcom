@@ -1,5 +1,6 @@
 ---
 title: "A Static Glowing Ring - Ripple Shader - Part 1"
+aliases: [/v/EhkBdCdNx-Y/]
 date: 2018-07-30
 featured_image: https://i.ytimg.com/vi/EhkBdCdNx-Y/mqdefault.jpg
 

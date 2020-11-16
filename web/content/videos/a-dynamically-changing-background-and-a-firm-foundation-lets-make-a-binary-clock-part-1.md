@@ -1,5 +1,6 @@
 ---
 title: "A Dynamically Changing Background and a Firm Foundation - Lets Make a Binary Clock - Part 1"
+aliases: [/v/c5DcxhTqKjw/]
 date: 2017-01-10
 featured_image: https://i.ytimg.com/vi/c5DcxhTqKjw/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Transformation Matrices and Vertex Shaders"
+aliases: [/v/VzhxginBhdc/]
 date: 2017-07-12
 featured_image: https://i.ytimg.com/vi/VzhxginBhdc/mqdefault.jpg
 

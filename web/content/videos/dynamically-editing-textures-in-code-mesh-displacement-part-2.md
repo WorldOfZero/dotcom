@@ -1,5 +1,6 @@
 ---
 title: "Dynamically Editing Textures in Code - Mesh Displacement - Part 2"
+aliases: [/v/xjG4sA3v5yM/]
 date: 2017-01-09
 featured_image: https://i.ytimg.com/vi/xjG4sA3v5yM/mqdefault.jpg
 

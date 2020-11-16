@@ -1,5 +1,6 @@
 ---
 title: "Projectile Reflection in Unity"
+aliases: [/v/GttdLYKEJAM/]
 date: 2018-01-15
 featured_image: https://i.ytimg.com/vi/GttdLYKEJAM/mqdefault.jpg
 

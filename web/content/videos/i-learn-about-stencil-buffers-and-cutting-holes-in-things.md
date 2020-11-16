@@ -1,5 +1,6 @@
 ---
 title: "I Learn About Stencil Buffers and Cutting Holes in Things"
+aliases: [/v/AGJ_Pk28UnA/]
 date: 2018-04-19
 featured_image: https://i.ytimg.com/vi/AGJ_Pk28UnA/mqdefault.jpg
 

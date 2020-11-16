@@ -1,5 +1,6 @@
 ---
 title: "Using Steam VR Vive Tracker's in Unity 3D"
+aliases: [/v/tnsQBlnwNvY/]
 date: 2017-10-24
 featured_image: https://i.ytimg.com/vi/tnsQBlnwNvY/mqdefault.jpg
 

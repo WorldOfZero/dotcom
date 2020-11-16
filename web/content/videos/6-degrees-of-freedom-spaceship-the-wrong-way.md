@@ -1,5 +1,6 @@
 ---
 title: "6 Degrees of Freedom Spaceship - The WRONG Way"
+aliases: [/v/C7PtRXH3e-Y/]
 date: 2017-11-15
 featured_image: https://i.ytimg.com/vi/C7PtRXH3e-Y/mqdefault.jpg
 

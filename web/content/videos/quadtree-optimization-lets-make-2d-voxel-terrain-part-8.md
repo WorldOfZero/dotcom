@@ -1,5 +1,6 @@
 ---
 title: "Quadtree Optimization - Lets Make 2D Voxel Terrain - Part 8"
+aliases: [/v/u_xWJBb-qT0/]
 date: 2017-02-09
 featured_image: https://i.ytimg.com/vi/u_xWJBb-qT0/mqdefault.jpg
 

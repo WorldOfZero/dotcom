@@ -1,5 +1,6 @@
 ---
 title: "The Tilting Tower - Mixer Stream Savers - Part 1"
+aliases: [/v/R-a1VYrrZP8/]
 date: 2018-02-27
 featured_image: https://i.ytimg.com/vi/R-a1VYrrZP8/mqdefault.jpg
 

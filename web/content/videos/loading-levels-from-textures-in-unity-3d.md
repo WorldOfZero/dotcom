@@ -1,5 +1,6 @@
 ---
 title: "Loading Levels From Textures in Unity 3D"
+aliases: [/v/2qddAaZ9gZc/]
 date: 2020-03-11
 featured_image: https://i.ytimg.com/vi/2qddAaZ9gZc/mqdefault.jpg
 

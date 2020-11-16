@@ -1,5 +1,6 @@
 ---
 title: "Building the Asteroids VR Grappling Hook - Part 1"
+aliases: [/v/VcAW7tByQ4U/]
 date: 2018-05-17
 featured_image: https://i.ytimg.com/vi/VcAW7tByQ4U/mqdefault.jpg
 

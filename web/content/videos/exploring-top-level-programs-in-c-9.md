@@ -1,5 +1,6 @@
 ---
 title: "Exploring Top-Level Programs in C# 9"
+aliases: [/v/uxxROAx6MMU/]
 date: 2020-09-21
 featured_image: https://i.ytimg.com/vi/uxxROAx6MMU/mqdefault.jpg
 

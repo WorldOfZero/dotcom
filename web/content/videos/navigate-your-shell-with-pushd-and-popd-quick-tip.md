@@ -1,5 +1,6 @@
 ---
 title: "Navigate Your Shell With pushd and popd - Quick Tip"
+aliases: [/v/UDD7EyGr8fU/]
 date: 2019-11-21
 featured_image: https://i.ytimg.com/vi/UDD7EyGr8fU/mqdefault.jpg
 

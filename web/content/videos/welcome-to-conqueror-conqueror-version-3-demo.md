@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Conqueror - Conqueror Version 3 Demo"
+aliases: [/v/yXH5h4glJxs/]
 date: 2016-09-23
 featured_image: https://i.ytimg.com/vi/yXH5h4glJxs/mqdefault.jpg
 

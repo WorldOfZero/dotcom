@@ -1,5 +1,6 @@
 ---
 title: "Simulating Planetary Temperature - An Old Test Project"
+aliases: [/v/XatMVo5lJxk/]
 date: 2016-09-21
 featured_image: https://i.ytimg.com/vi/XatMVo5lJxk/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "A Ring of Asteroids - Let's Make Asteroids VR"
+aliases: [/v/ycsnrmh_7Qg/]
 date: 2016-11-17
 featured_image: https://i.ytimg.com/vi/ycsnrmh_7Qg/mqdefault.jpg
 

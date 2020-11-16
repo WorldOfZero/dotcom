@@ -1,5 +1,6 @@
 ---
 title: "Simulating Grass Physics and Trampling in Compute Shaders"
+aliases: [/v/gF1LZNOUb9w/]
 date: 2017-06-26
 featured_image: https://i.ytimg.com/vi/gF1LZNOUb9w/mqdefault.jpg
 

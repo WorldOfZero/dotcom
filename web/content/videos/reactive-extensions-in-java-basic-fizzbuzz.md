@@ -1,5 +1,6 @@
 ---
 title: "Reactive Extensions in Java - Basic FizzBuzz"
+aliases: [/v/ZTqIg-Fk2n4/]
 date: 2017-06-20
 featured_image: https://i.ytimg.com/vi/ZTqIg-Fk2n4/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Live Code Reloading with `dotnet watch` - Quick Tip"
+aliases: [/v/nYudqdL55us/]
 date: 2019-01-31
 featured_image: https://i.ytimg.com/vi/nYudqdL55us/mqdefault.jpg
 

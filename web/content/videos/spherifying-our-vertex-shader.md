@@ -1,5 +1,6 @@
 ---
 title: "Spherifying Our Vertex Shader"
+aliases: [/v/sb51BFBdz_M/]
 date: 2017-07-13
 featured_image: https://i.ytimg.com/vi/sb51BFBdz_M/mqdefault.jpg
 

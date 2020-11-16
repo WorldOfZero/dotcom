@@ -1,5 +1,6 @@
 ---
 title: "Lets Make a Hologram Shader"
+aliases: [/v/vlYGmVC_Qzg/]
 date: 2017-08-16
 featured_image: https://i.ytimg.com/vi/vlYGmVC_Qzg/mqdefault.jpg
 

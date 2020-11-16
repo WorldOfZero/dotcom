@@ -1,5 +1,6 @@
 ---
 title: "I Learn Blazor - C# in Your Web Browser"
+aliases: [/v/qDoSAnwNgQI/]
 date: 2018-04-04
 featured_image: https://i.ytimg.com/vi/qDoSAnwNgQI/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Adding an Accent to our Contrast Shader - Lets Make a Side Scrolling Shooter - Part 4"
+aliases: [/v/gu_bFoI2fIg/]
 date: 2018-07-04
 featured_image: https://i.ytimg.com/vi/gu_bFoI2fIg/mqdefault.jpg
 

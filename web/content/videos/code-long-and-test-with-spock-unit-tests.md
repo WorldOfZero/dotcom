@@ -1,5 +1,6 @@
 ---
 title: "Code Long And Test With Spock Unit Tests"
+aliases: [/v/bHjRbH_LfuQ/]
 date: 2017-11-16
 featured_image: https://i.ytimg.com/vi/bHjRbH_LfuQ/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "A Circle Shader in Shader Graph - Ripple in Shader Graph - Part 1"
+aliases: [/v/R05OYXNDyas/]
 date: 2018-10-09
 featured_image: https://i.ytimg.com/vi/R05OYXNDyas/mqdefault.jpg
 

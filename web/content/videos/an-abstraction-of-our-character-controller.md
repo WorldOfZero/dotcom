@@ -1,5 +1,6 @@
 ---
 title: "An Abstraction of our Character Controller"
+aliases: [/v/emzftWxwS1c/]
 date: 2020-03-21
 featured_image: https://i.ytimg.com/vi/emzftWxwS1c/mqdefault.jpg
 

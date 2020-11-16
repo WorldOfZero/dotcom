@@ -1,5 +1,6 @@
 ---
 title: "Exploring Dot Products in Unity"
+aliases: [/v/8cZo-c-f1yc/]
 date: 2019-01-15
 featured_image: https://i.ytimg.com/vi/8cZo-c-f1yc/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Exploring Operator Overloading a Custom String Type"
+aliases: [/v/yhzBaeroj2o/]
 date: 2020-04-06
 featured_image: https://i.ytimg.com/vi/yhzBaeroj2o/mqdefault.jpg
 

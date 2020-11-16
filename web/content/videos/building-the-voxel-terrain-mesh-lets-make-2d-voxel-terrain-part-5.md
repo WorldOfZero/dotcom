@@ -1,5 +1,6 @@
 ---
 title: "Building the Voxel Terrain Mesh - Lets Make 2D Voxel Terrain - Part 5"
+aliases: [/v/P0OBGN4EXWk/]
 date: 2017-02-06
 featured_image: https://i.ytimg.com/vi/P0OBGN4EXWk/mqdefault.jpg
 

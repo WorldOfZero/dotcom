@@ -1,5 +1,6 @@
 ---
 title: "I Learn How To Make Bash Flip Tables When I Break Things"
+aliases: [/v/XUOti_9WgaM/]
 date: 2019-08-22
 featured_image: https://i.ytimg.com/vi/XUOti_9WgaM/mqdefault.jpg
 

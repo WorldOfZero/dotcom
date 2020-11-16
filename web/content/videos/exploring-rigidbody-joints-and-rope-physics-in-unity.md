@@ -1,5 +1,6 @@
 ---
 title: "Exploring Rigidbody Joints and Rope Physics in Unity"
+aliases: [/v/D4YCj4Tid0w/]
 date: 2016-12-07
 featured_image: https://i.ytimg.com/vi/D4YCj4Tid0w/mqdefault.jpg
 

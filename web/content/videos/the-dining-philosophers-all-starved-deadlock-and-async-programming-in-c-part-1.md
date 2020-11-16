@@ -1,5 +1,6 @@
 ---
 title: "The Dining Philosophers All Starved - Deadlock and Async Programming in C# - Part 1"
+aliases: [/v/c99S9vkuN24/]
 date: 2016-11-25
 featured_image: https://i.ytimg.com/vi/c99S9vkuN24/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Hello C#"
+aliases: [/v/HMlL3oBmVjQ/]
 date: 2016-10-31
 featured_image: https://i.ytimg.com/vi/HMlL3oBmVjQ/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Entity Framework in UWP - Emotible - Part 3"
+aliases: [/v/M0sk0_4LJ9A/]
 date: 2016-10-10
 featured_image: https://i.ytimg.com/vi/M0sk0_4LJ9A/mqdefault.jpg
 
