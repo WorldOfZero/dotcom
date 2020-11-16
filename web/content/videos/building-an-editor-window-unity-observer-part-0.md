@@ -1,7 +1,7 @@
 ---
 title: "Building an Editor Window - Unity Observer - Part 0"
 aliases: [/v/AMbz_kOwQu0/]
-date: 2018-05-01
+date: 2018-05-02
 featured_image: https://i.ytimg.com/vi/AMbz_kOwQu0/mqdefault.jpg
 
 ---

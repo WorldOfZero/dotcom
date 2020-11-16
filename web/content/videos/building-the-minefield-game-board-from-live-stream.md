@@ -1,7 +1,7 @@
 ---
 title: "Building The Minefield Game Board - From Live Stream"
 aliases: [/v/CBFVvpzEcwY/]
-date: 2020-05-12
+date: 2020-05-13
 featured_image: https://i.ytimg.com/vi/CBFVvpzEcwY/mqdefault.jpg
 
 ---

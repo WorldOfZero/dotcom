@@ -1,7 +1,7 @@
 ---
 title: "Ludum Dare 38 - World of Zero Live! - Day 2"
 aliases: [/v/ZiRJzS6HOhM/]
-date: 2017-04-21
+date: 2017-04-22
 featured_image: https://i.ytimg.com/vi/ZiRJzS6HOhM/mqdefault.jpg
 
 ---

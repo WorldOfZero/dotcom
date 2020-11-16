@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with LINQ in C#"
 aliases: [/v/un3r1dW03VI/]
-date: 2018-04-18
+date: 2018-04-19
 featured_image: https://i.ytimg.com/vi/un3r1dW03VI/mqdefault.jpg
 
 ---

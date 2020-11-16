@@ -1,7 +1,7 @@
 ---
 title: "Experimenting With Top Down Spaceship Movement Controllers"
 aliases: [/v/TUIHY-5MvWQ/]
-date: 2019-01-19
+date: 2019-01-20
 featured_image: https://i.ytimg.com/vi/TUIHY-5MvWQ/mqdefault.jpg
 
 ---

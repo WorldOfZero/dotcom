@@ -1,7 +1,7 @@
 ---
 title: "Rotating Unity Gizmos - Quick Tip"
 aliases: [/v/4-eTwIyntcQ/]
-date: 2019-01-31
+date: 2019-02-01
 featured_image: https://i.ytimg.com/vi/4-eTwIyntcQ/mqdefault.jpg
 
 ---

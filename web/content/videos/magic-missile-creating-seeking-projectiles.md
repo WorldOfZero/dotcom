@@ -1,7 +1,7 @@
 ---
 title: "Magic Missile! Creating Seeking Projectiles"
 aliases: [/v/O6u92arDKUA/]
-date: 2017-08-14
+date: 2017-08-15
 featured_image: https://i.ytimg.com/vi/O6u92arDKUA/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hello Interactive C#"
 aliases: [/v/qwJp0-9sVVc/]
-date: 2016-11-15
+date: 2016-11-16
 featured_image: https://i.ytimg.com/vi/qwJp0-9sVVc/mqdefault.jpg
 
 ---

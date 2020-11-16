@@ -1,7 +1,7 @@
 ---
 title: "Starting to Build a Spigot Minecraft Mod - Building MC-Clone - Part 1"
 aliases: [/v/ODLx4yJNtJA/]
-date: 2019-08-14
+date: 2019-08-15
 featured_image: https://i.ytimg.com/vi/ODLx4yJNtJA/mqdefault.jpg
 
 ---

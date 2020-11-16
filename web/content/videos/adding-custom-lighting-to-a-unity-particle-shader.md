@@ -1,7 +1,7 @@
 ---
 title: "Adding Custom Lighting to a Unity Particle Shader"
 aliases: [/v/2TBCozxI7-I/]
-date: 2018-01-24
+date: 2018-01-25
 featured_image: https://i.ytimg.com/vi/2TBCozxI7-I/mqdefault.jpg
 
 ---

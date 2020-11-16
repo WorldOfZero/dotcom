@@ -1,7 +1,7 @@
 ---
 title: "Distorting the Grass Renderer with a Directed Map"
 aliases: [/v/VZ-LYODBjgA/]
-date: 2017-06-13
+date: 2017-06-14
 featured_image: https://i.ytimg.com/vi/VZ-LYODBjgA/mqdefault.jpg
 
 ---

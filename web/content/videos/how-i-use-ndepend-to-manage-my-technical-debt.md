@@ -1,7 +1,7 @@
 ---
 title: "How I Use NDepend to Manage my Technical Debt"
 aliases: [/v/6fRCLx8gWAI/]
-date: 2018-04-29
+date: 2018-04-30
 featured_image: https://i.ytimg.com/vi/6fRCLx8gWAI/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "I Have A Theory - Theories in xUnit Tests"
 aliases: [/v/CUQk20EAgpU/]
-date: 2017-11-13
+date: 2017-11-14
 featured_image: https://i.ytimg.com/vi/CUQk20EAgpU/mqdefault.jpg
 
 ---

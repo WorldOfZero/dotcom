@@ -1,7 +1,7 @@
 ---
 title: "Lets Make a Value Poll - Unity Interactive - Part 2"
 aliases: [/v/Zd1J_v9Q0lo/]
-date: 2017-06-19
+date: 2017-06-20
 featured_image: https://i.ytimg.com/vi/Zd1J_v9Q0lo/mqdefault.jpg
 
 ---

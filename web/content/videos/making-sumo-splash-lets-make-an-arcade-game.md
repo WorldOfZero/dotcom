@@ -1,7 +1,7 @@
 ---
 title: "Making Sumo Splash - Let's Make an Arcade Game"
 aliases: [/v/fOM--ytUjV4/]
-date: 2016-11-12
+date: 2016-11-13
 featured_image: https://i.ytimg.com/vi/fOM--ytUjV4/mqdefault.jpg
 
 ---

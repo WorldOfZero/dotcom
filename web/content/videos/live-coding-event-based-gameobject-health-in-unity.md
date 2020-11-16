@@ -1,7 +1,7 @@
 ---
 title: "Live Coding Event Based GameObject Health in Unity"
 aliases: [/v/unRBfHyYgJ8/]
-date: 2019-03-27
+date: 2019-03-28
 featured_image: https://i.ytimg.com/vi/unRBfHyYgJ8/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bezier Curve Line Renderer"
 aliases: [/v/tgCFzoG_BJM/]
-date: 2017-09-06
+date: 2017-09-07
 featured_image: https://i.ytimg.com/vi/tgCFzoG_BJM/mqdefault.jpg
 
 ---

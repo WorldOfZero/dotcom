@@ -1,7 +1,7 @@
 ---
 title: "Creating and Using SSH RSA Tokens on Windows 10"
 aliases: [/v/gM2J2DWCTnM/]
-date: 2018-11-19
+date: 2018-11-20
 featured_image: https://i.ytimg.com/vi/gM2J2DWCTnM/mqdefault.jpg
 
 ---

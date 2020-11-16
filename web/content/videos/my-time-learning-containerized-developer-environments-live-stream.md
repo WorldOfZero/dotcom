@@ -1,7 +1,7 @@
 ---
 title: "My Time Learning Containerized Developer Environments - Live Stream"
 aliases: [/v/15RQvWhbddE/]
-date: 2020-05-27
+date: 2020-05-28
 featured_image: https://i.ytimg.com/vi/15RQvWhbddE/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Building Asteroids VR - Day 1"
 aliases: [/v/XGOL0aZB66Y/]
-date: 2019-06-02
+date: 2019-06-03
 featured_image: https://i.ytimg.com/vi/XGOL0aZB66Y/mqdefault.jpg
 
 ---

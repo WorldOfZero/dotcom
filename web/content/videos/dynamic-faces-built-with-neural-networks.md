@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Faces Built With Neural Networks"
 aliases: [/v/9aFPKkz07_g/]
-date: 2017-04-12
+date: 2017-04-13
 featured_image: https://i.ytimg.com/vi/9aFPKkz07_g/mqdefault.jpg
 
 ---

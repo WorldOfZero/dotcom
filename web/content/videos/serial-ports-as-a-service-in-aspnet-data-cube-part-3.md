@@ -1,7 +1,7 @@
 ---
 title: "Serial Ports as a Service in ASP.NET - Data Cube - Part 3"
 aliases: [/v/2iaZOqE5YZg/]
-date: 2017-04-04
+date: 2017-04-05
 featured_image: https://i.ytimg.com/vi/2iaZOqE5YZg/mqdefault.jpg
 
 ---

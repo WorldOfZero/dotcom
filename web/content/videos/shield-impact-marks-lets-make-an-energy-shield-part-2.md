@@ -1,7 +1,7 @@
 ---
 title: "Shield Impact Marks - Lets Make an Energy Shield - Part 2"
 aliases: [/v/5JzsSzD-xE8/]
-date: 2017-10-06
+date: 2017-10-07
 featured_image: https://i.ytimg.com/vi/5JzsSzD-xE8/mqdefault.jpg
 
 ---

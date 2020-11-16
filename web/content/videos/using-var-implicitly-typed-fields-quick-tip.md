@@ -1,7 +1,7 @@
 ---
 title: "Using Var - Implicitly Typed Fields - Quick Tip"
 aliases: [/v/01YSGK7OeVQ/]
-date: 2019-02-08
+date: 2019-02-09
 featured_image: https://i.ytimg.com/vi/01YSGK7OeVQ/mqdefault.jpg
 
 ---

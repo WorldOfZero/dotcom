@@ -1,7 +1,7 @@
 ---
 title: "Doing The (Sin) Wave - Building a Flat Shader in Unity - Part 4"
 aliases: [/v/ESWJlVvj7Xc/]
-date: 2016-10-19
+date: 2016-10-20
 featured_image: https://i.ytimg.com/vi/ESWJlVvj7Xc/mqdefault.jpg
 
 ---

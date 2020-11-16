@@ -1,7 +1,7 @@
 ---
 title: "Custom Particle Emitters in Unity 3D"
 aliases: [/v/v3Dq_oVHsNs/]
-date: 2017-10-12
+date: 2017-10-13
 featured_image: https://i.ytimg.com/vi/v3Dq_oVHsNs/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Converting an Integer to a Bit Array - Lets Make a Binary Clock - Part 3"
 aliases: [/v/NNnuqdRSE30/]
-date: 2017-01-12
+date: 2017-01-13
 featured_image: https://i.ytimg.com/vi/NNnuqdRSE30/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Exploring How To Write Custom Gradle Tasks"
 aliases: [/v/QJr-knJV2Qo/]
-date: 2019-08-11
+date: 2019-08-12
 featured_image: https://i.ytimg.com/vi/QJr-knJV2Qo/mqdefault.jpg
 
 ---
