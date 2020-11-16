@@ -1,4 +1,6 @@
 on:
+  # Used for manually triggering jobs
+  workflow_dispatch:
   # Run daily
   schedule:
   - cron: "0 0 * * *"
