@@ -1,6 +1,6 @@
 ---
 title: "Firing Projectiles - Lets Make a Side Scrolling Shooter - Part 5"
-alias: ["/v/7FXrK8-7sP4"]
+alias: [/v/7FXrK8-7sP4/]
 date: 2018-07-09
 featured_image: https://i.ytimg.com/vi/7FXrK8-7sP4/mqdefault.jpg
 

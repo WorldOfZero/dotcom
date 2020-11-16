@@ -1,6 +1,6 @@
 ---
 title: "Live Coding a 3D Voxel Cube in Unity"
-alias: ["/v/laBPpyXfBWo"]
+alias: [/v/laBPpyXfBWo/]
 date: 2018-07-11
 featured_image: https://i.ytimg.com/vi/laBPpyXfBWo/mqdefault.jpg
 

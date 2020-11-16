@@ -1,6 +1,6 @@
 ---
 title: "Virtual Reality Magic Missiles!"
-alias: ["/v/oI4ski1CgHI"]
+alias: [/v/oI4ski1CgHI/]
 date: 2016-09-11
 featured_image: https://i.ytimg.com/vi/oI4ski1CgHI/mqdefault.jpg
 

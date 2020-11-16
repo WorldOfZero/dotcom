@@ -1,6 +1,6 @@
 ---
 title: "Counting Characters in a Bash String - Quick Tip"
-alias: ["/v/mK7hutk2yCE"]
+alias: [/v/mK7hutk2yCE/]
 date: 2020-01-27
 featured_image: https://i.ytimg.com/vi/mK7hutk2yCE/mqdefault.jpg
 

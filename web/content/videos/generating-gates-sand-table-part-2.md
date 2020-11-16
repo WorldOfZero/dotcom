@@ -1,6 +1,6 @@
 ---
 title: "Generating Gates - Sand Table - Part 2"
-alias: ["/v/YHNhL5lfur0"]
+alias: [/v/YHNhL5lfur0/]
 date: 2020-03-12
 featured_image: https://i.ytimg.com/vi/YHNhL5lfur0/mqdefault.jpg
 

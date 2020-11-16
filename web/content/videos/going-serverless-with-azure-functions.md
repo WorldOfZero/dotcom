@@ -1,6 +1,6 @@
 ---
 title: "Going #Serverless with Azure Functions"
-alias: ["/v/ZeVlKYNqCJM"]
+alias: [/v/ZeVlKYNqCJM/]
 date: 2017-09-05
 featured_image: https://i.ytimg.com/vi/ZeVlKYNqCJM/mqdefault.jpg
 

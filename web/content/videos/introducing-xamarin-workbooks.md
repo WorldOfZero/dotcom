@@ -1,6 +1,6 @@
 ---
 title: "Introducing Xamarin Workbooks"
-alias: ["/v/PGK4jfFYgek"]
+alias: [/v/PGK4jfFYgek/]
 date: 2017-07-10
 featured_image: https://i.ytimg.com/vi/PGK4jfFYgek/mqdefault.jpg
 

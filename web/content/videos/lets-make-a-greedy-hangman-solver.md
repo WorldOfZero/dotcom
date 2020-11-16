@@ -1,6 +1,6 @@
 ---
 title: "Lets Make A Greedy Hangman Solver"
-alias: ["/v/KBbGAQKPRxE"]
+alias: [/v/KBbGAQKPRxE/]
 date: 2017-05-02
 featured_image: https://i.ytimg.com/vi/KBbGAQKPRxE/mqdefault.jpg
 

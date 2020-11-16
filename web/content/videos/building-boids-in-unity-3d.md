@@ -1,6 +1,6 @@
 ---
 title: "Building Boids in Unity 3D"
-alias: ["/v/_d8M3Y-hiUs"]
+alias: [/v/_d8M3Y-hiUs/]
 date: 2020-01-21
 featured_image: https://i.ytimg.com/vi/_d8M3Y-hiUs/mqdefault.jpg
 

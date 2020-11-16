@@ -1,6 +1,6 @@
 ---
 title: "Sending Array's To Shaders - Lets Make an Energy Shield - Part 1"
-alias: ["/v/NeZcAYJdkv4"]
+alias: [/v/NeZcAYJdkv4/]
 date: 2017-09-28
 featured_image: https://i.ytimg.com/vi/NeZcAYJdkv4/mqdefault.jpg
 

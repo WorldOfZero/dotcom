@@ -1,6 +1,6 @@
 ---
 title: "Try.Dot.Net"
-alias: ["/v/VMXqJfr2qNs"]
+alias: [/v/VMXqJfr2qNs/]
 date: 2017-12-06
 featured_image: https://i.ytimg.com/vi/VMXqJfr2qNs/mqdefault.jpg
 

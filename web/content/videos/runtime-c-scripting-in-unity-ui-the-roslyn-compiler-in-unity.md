@@ -1,6 +1,6 @@
 ---
 title: "Runtime C# Scripting in Unity UI - The Roslyn Compiler in Unity"
-alias: ["/v/FuZHnpgntEI"]
+alias: [/v/FuZHnpgntEI/]
 date: 2020-02-27
 featured_image: https://i.ytimg.com/vi/FuZHnpgntEI/mqdefault.jpg
 

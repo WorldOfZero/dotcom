@@ -1,6 +1,6 @@
 ---
 title: "Point and Ripple - Ripple Shader - Part 2"
-alias: ["/v/UVdXUXv3Bw8"]
+alias: [/v/UVdXUXv3Bw8/]
 date: 2018-10-02
 featured_image: https://i.ytimg.com/vi/UVdXUXv3Bw8/mqdefault.jpg
 

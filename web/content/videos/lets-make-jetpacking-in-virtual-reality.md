@@ -1,6 +1,6 @@
 ---
 title: "Lets Make Jetpacking in Virtual Reality!"
-alias: ["/v/bhm8obuJyd0"]
+alias: [/v/bhm8obuJyd0/]
 date: 2016-10-12
 featured_image: https://i.ytimg.com/vi/bhm8obuJyd0/mqdefault.jpg
 

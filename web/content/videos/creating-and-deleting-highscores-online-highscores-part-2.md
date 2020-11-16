@@ -1,6 +1,6 @@
 ---
 title: "Creating and Deleting Highscores - Online Highscores - Part 2"
-alias: ["/v/eHUaG94fJvE"]
+alias: [/v/eHUaG94fJvE/]
 date: 2020-02-03
 featured_image: https://i.ytimg.com/vi/eHUaG94fJvE/mqdefault.jpg
 

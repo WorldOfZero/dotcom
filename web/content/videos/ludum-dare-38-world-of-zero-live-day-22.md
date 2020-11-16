@@ -1,6 +1,6 @@
 ---
 title: "Ludum Dare 38 - World of Zero Live! - Day 2.2"
-alias: ["/v/Q2s98eNhJ1k"]
+alias: [/v/Q2s98eNhJ1k/]
 date: 2017-04-22
 featured_image: https://i.ytimg.com/vi/Q2s98eNhJ1k/mqdefault.jpg
 

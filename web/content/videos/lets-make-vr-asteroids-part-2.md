@@ -1,6 +1,6 @@
 ---
 title: "Lets Make VR Asteroids - Part 2"
-alias: ["/v/oVHx3GTXSGs"]
+alias: [/v/oVHx3GTXSGs/]
 date: 2016-10-23
 featured_image: https://i.ytimg.com/vi/oVHx3GTXSGs/mqdefault.jpg
 

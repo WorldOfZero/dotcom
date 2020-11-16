@@ -1,6 +1,6 @@
 ---
 title: "Experimenting with Obstacle Avoidance in Unity 3D"
-alias: ["/v/SVazwHyfB7g"]
+alias: [/v/SVazwHyfB7g/]
 date: 2020-09-23
 featured_image: https://i.ytimg.com/vi/SVazwHyfB7g/mqdefault.jpg
 

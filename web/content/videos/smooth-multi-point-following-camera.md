@@ -1,6 +1,6 @@
 ---
 title: "Smooth Multi-Point Following Camera"
-alias: ["/v/iccMGaIlE5o"]
+alias: [/v/iccMGaIlE5o/]
 date: 2017-07-16
 featured_image: https://i.ytimg.com/vi/iccMGaIlE5o/mqdefault.jpg
 

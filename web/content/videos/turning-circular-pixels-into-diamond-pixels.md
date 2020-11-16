@@ -1,6 +1,6 @@
 ---
 title: "Turning Circular Pixels Into Diamond Pixels"
-alias: ["/v/u5PGfxHjYo0"]
+alias: [/v/u5PGfxHjYo0/]
 date: 2019-07-01
 featured_image: https://i.ytimg.com/vi/u5PGfxHjYo0/mqdefault.jpg
 

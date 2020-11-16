@@ -1,6 +1,6 @@
 ---
 title: "Animating the Thruster with Unity Mecanim - Asteroids VR"
-alias: ["/v/4FuLNf5uSSA"]
+alias: [/v/4FuLNf5uSSA/]
 date: 2016-12-21
 featured_image: https://i.ytimg.com/vi/4FuLNf5uSSA/mqdefault.jpg
 

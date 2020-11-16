@@ -1,6 +1,6 @@
 ---
 title: "Let's Make Red - #AsylumJam2016 - Part 4"
-alias: ["/v/DsIwg4FdWBM"]
+alias: [/v/DsIwg4FdWBM/]
 date: 2016-11-12
 featured_image: https://i.ytimg.com/vi/DsIwg4FdWBM/mqdefault.jpg
 

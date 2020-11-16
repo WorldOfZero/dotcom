@@ -1,6 +1,6 @@
 ---
 title: "Planet Ring Shadows - Lets Make an Asteroid Belt - Part 2"
-alias: ["/v/gI9-mzU6GAg"]
+alias: [/v/gI9-mzU6GAg/]
 date: 2017-01-19
 featured_image: https://i.ytimg.com/vi/gI9-mzU6GAg/mqdefault.jpg
 

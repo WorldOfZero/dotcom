@@ -1,6 +1,6 @@
 ---
 title: "Learning Unity's XR Input System"
-alias: ["/v/_H0sYjDx4U0"]
+alias: [/v/_H0sYjDx4U0/]
 date: 2019-07-12
 featured_image: https://i.ytimg.com/vi/_H0sYjDx4U0/mqdefault.jpg
 

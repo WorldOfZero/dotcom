@@ -1,6 +1,6 @@
 ---
 title: "Finishing the Grappling Hook - Asteroids VR"
-alias: ["/v/rCIf8UeThZU"]
+alias: [/v/rCIf8UeThZU/]
 date: 2016-12-12
 featured_image: https://i.ytimg.com/vi/rCIf8UeThZU/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Getting Started With Xamarin"
-alias: ["/v/NKNk1fNH_bs"]
+alias: [/v/NKNk1fNH_bs/]
 date: 2017-03-22
 featured_image: https://i.ytimg.com/vi/NKNk1fNH_bs/mqdefault.jpg
 

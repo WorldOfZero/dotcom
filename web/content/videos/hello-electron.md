@@ -1,6 +1,6 @@
 ---
 title: "Hello Electron"
-alias: ["/v/GUuFfWrNFS0"]
+alias: [/v/GUuFfWrNFS0/]
 date: 2017-11-06
 featured_image: https://i.ytimg.com/vi/GUuFfWrNFS0/mqdefault.jpg
 

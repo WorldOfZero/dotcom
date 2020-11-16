@@ -1,6 +1,6 @@
 ---
 title: "Hello Interactive C#"
-alias: ["/v/qwJp0-9sVVc"]
+alias: [/v/qwJp0-9sVVc/]
 date: 2016-11-15
 featured_image: https://i.ytimg.com/vi/qwJp0-9sVVc/mqdefault.jpg
 

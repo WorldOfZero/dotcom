@@ -1,6 +1,6 @@
 ---
 title: "Using Properties and Steps in Part 2 of our Ripple in Shader Graph"
-alias: ["/v/tL3GbBAqF3E"]
+alias: [/v/tL3GbBAqF3E/]
 date: 2018-11-27
 featured_image: https://i.ytimg.com/vi/tL3GbBAqF3E/mqdefault.jpg
 

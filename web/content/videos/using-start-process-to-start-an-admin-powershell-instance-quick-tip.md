@@ -1,6 +1,6 @@
 ---
 title: "Using Start-Process to Start an Admin Powershell Instance - Quick Tip"
-alias: ["/v/ViIS6wFkWxc"]
+alias: [/v/ViIS6wFkWxc/]
 date: 2020-03-02
 featured_image: https://i.ytimg.com/vi/ViIS6wFkWxc/mqdefault.jpg
 

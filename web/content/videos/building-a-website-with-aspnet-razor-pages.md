@@ -1,6 +1,6 @@
 ---
 title: "Building a Website with ASP.NET Razor Pages"
-alias: ["/v/3Za2NfBAkNk"]
+alias: [/v/3Za2NfBAkNk/]
 date: 2017-09-13
 featured_image: https://i.ytimg.com/vi/3Za2NfBAkNk/mqdefault.jpg
 

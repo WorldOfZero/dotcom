@@ -1,6 +1,6 @@
 ---
 title: "Dropping Boxes - Summer Slow Jam - Performance, A Game In A Stream - Part 3"
-alias: ["/v/NrXZp-l6n2I"]
+alias: [/v/NrXZp-l6n2I/]
 date: 2017-07-21
 featured_image: https://i.ytimg.com/vi/NrXZp-l6n2I/mqdefault.jpg
 

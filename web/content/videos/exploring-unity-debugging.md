@@ -1,6 +1,6 @@
 ---
 title: "Exploring Unity Debugging"
-alias: ["/v/sDAXf6I76ww"]
+alias: [/v/sDAXf6I76ww/]
 date: 2019-08-01
 featured_image: https://i.ytimg.com/vi/sDAXf6I76ww/mqdefault.jpg
 

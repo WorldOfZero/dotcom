@@ -1,6 +1,6 @@
 ---
 title: "Lets Make a Grass Renderer"
-alias: ["/v/0H1FVOphmIo"]
+alias: [/v/0H1FVOphmIo/]
 date: 2017-05-08
 featured_image: https://i.ytimg.com/vi/0H1FVOphmIo/mqdefault.jpg
 

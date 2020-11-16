@@ -1,6 +1,6 @@
 ---
 title: "The Search for Objects - Unity Observer - Part 1"
-alias: ["/v/MxXRv8BaVpc"]
+alias: [/v/MxXRv8BaVpc/]
 date: 2018-05-02
 featured_image: https://i.ytimg.com/vi/MxXRv8BaVpc/mqdefault.jpg
 

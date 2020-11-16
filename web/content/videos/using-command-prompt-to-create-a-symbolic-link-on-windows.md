@@ -1,6 +1,6 @@
 ---
 title: "Using Command Prompt to Create a Symbolic Link on Windows"
-alias: ["/v/w2gxWTOPw7U"]
+alias: [/v/w2gxWTOPw7U/]
 date: 2020-06-16
 featured_image: https://i.ytimg.com/vi/w2gxWTOPw7U/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Reactive Serial Communication in UWP - Data Cube"
-alias: ["/v/fHQk_vwEOiM"]
+alias: [/v/fHQk_vwEOiM/]
 date: 2017-09-19
 featured_image: https://i.ytimg.com/vi/fHQk_vwEOiM/mqdefault.jpg
 

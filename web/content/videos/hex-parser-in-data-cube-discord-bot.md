@@ -1,6 +1,6 @@
 ---
 title: "Hex Parser in Data Cube Discord Bot"
-alias: ["/v/bhUTjt0BOEs"]
+alias: [/v/bhUTjt0BOEs/]
 date: 2018-01-09
 featured_image: https://i.ytimg.com/vi/bhUTjt0BOEs/mqdefault.jpg
 

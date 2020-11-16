@@ -1,6 +1,6 @@
 ---
 title: "Better Snow Using RenderTextureFormat - Dynamic Snow in Unity - Part 4"
-alias: ["/v/bbrBa1zPXtg"]
+alias: [/v/bbrBa1zPXtg/]
 date: 2018-03-05
 featured_image: https://i.ytimg.com/vi/bbrBa1zPXtg/mqdefault.jpg
 

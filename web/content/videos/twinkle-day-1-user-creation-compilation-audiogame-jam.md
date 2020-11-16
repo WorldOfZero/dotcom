@@ -1,6 +1,6 @@
 ---
 title: "Twinkle Day 1 User Creation Compilation - Audiogame Jam"
-alias: ["/v/UNX78-fCdVs"]
+alias: [/v/UNX78-fCdVs/]
 date: 2016-09-05
 featured_image: https://i.ytimg.com/vi/UNX78-fCdVs/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Building a Sparse Quadtree - Lets Make 2D Voxel Terrain - Part 2"
-alias: ["/v/Y1pIzUehmb4"]
+alias: [/v/Y1pIzUehmb4/]
 date: 2017-01-26
 featured_image: https://i.ytimg.com/vi/Y1pIzUehmb4/mqdefault.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "Accumulating Snow - Dynamic Snow in Unity - Part 3"
-alias: ["/v/YbtJyi0ODi8"]
+alias: [/v/YbtJyi0ODi8/]
 date: 2018-02-26
 featured_image: https://i.ytimg.com/vi/YbtJyi0ODi8/mqdefault.jpg
 

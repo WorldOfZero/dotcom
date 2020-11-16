@@ -1,6 +1,6 @@
 ---
 title: "Lets Make Unity Shell - Part 2 Live"
-alias: ["/v/LmvCtV0IqIk"]
+alias: [/v/LmvCtV0IqIk/]
 date: 2017-06-28
 featured_image: https://i.ytimg.com/vi/LmvCtV0IqIk/mqdefault.jpg
 

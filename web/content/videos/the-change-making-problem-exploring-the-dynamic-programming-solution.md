@@ -1,6 +1,6 @@
 ---
 title: "The Change-Making Problem - Exploring The Dynamic Programming Solution"
-alias: ["/v/tTUqVtznjag"]
+alias: [/v/tTUqVtznjag/]
 date: 2017-01-23
 featured_image: https://i.ytimg.com/vi/tTUqVtznjag/mqdefault.jpg
 

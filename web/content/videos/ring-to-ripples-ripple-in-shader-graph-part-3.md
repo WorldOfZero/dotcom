@@ -1,6 +1,6 @@
 ---
 title: "Ring to Ripples - Ripple in Shader Graph - Part 3"
-alias: ["/v/_08No6ET-qk"]
+alias: [/v/_08No6ET-qk/]
 date: 2018-12-13
 featured_image: https://i.ytimg.com/vi/_08No6ET-qk/mqdefault.jpg
 

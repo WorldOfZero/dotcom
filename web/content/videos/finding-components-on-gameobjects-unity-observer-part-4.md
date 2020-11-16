@@ -1,6 +1,6 @@
 ---
 title: "Finding Components on GameObjects - Unity Observer - Part 4"
-alias: ["/v/C6gKHDmMScI"]
+alias: [/v/C6gKHDmMScI/]
 date: 2018-05-29
 featured_image: https://i.ytimg.com/vi/C6gKHDmMScI/mqdefault.jpg
 

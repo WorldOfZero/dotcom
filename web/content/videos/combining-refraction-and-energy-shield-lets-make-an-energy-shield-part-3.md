@@ -1,6 +1,6 @@
 ---
 title: "Combining Refraction and Energy Shield - Lets Make an Energy Shield - Part 3"
-alias: ["/v/SzDsrollcxs"]
+alias: [/v/SzDsrollcxs/]
 date: 2018-01-02
 featured_image: https://i.ytimg.com/vi/SzDsrollcxs/mqdefault.jpg
 

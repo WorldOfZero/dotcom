@@ -1,6 +1,6 @@
 ---
 title: "Connecting the Animators and Publishers - Animated Fractals"
-alias: ["/v/DmpHp0lOnQ4"]
+alias: [/v/DmpHp0lOnQ4/]
 date: 2016-12-05
 featured_image: https://i.ytimg.com/vi/DmpHp0lOnQ4/mqdefault.jpg
 

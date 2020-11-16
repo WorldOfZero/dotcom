@@ -1,6 +1,6 @@
 ---
 title: "A Portal In Unity"
-alias: ["/v/tVYz0S75WAo"]
+alias: [/v/tVYz0S75WAo/]
 date: 2016-11-01
 featured_image: https://i.ytimg.com/vi/tVYz0S75WAo/mqdefault.jpg
 

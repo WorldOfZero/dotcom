@@ -1,6 +1,6 @@
 ---
 title: "Inline Initializing C# Lists - Quick Tip"
-alias: ["/v/F11BhVjmyd0"]
+alias: [/v/F11BhVjmyd0/]
 date: 2019-02-08
 featured_image: https://i.ytimg.com/vi/F11BhVjmyd0/mqdefault.jpg
 

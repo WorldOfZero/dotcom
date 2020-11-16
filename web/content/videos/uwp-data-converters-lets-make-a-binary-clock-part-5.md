@@ -1,6 +1,6 @@
 ---
 title: "UWP Data Converters - Lets Make a Binary Clock- Part 5"
-alias: ["/v/hqq8TS7QbgI"]
+alias: [/v/hqq8TS7QbgI/]
 date: 2017-01-17
 featured_image: https://i.ytimg.com/vi/hqq8TS7QbgI/mqdefault.jpg
 

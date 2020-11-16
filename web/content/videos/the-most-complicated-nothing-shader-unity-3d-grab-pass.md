@@ -1,6 +1,6 @@
 ---
 title: "The Most Complicated Nothing Shader - Unity 3D Grab Pass"
-alias: ["/v/aX7wIp-r48c"]
+alias: [/v/aX7wIp-r48c/]
 date: 2017-10-18
 featured_image: https://i.ytimg.com/vi/aX7wIp-r48c/mqdefault.jpg
 

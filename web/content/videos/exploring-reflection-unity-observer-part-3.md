@@ -1,6 +1,6 @@
 ---
 title: "Exploring Reflection - Unity Observer - Part 3"
-alias: ["/v/CSPxKW8ntas"]
+alias: [/v/CSPxKW8ntas/]
 date: 2018-05-22
 featured_image: https://i.ytimg.com/vi/CSPxKW8ntas/mqdefault.jpg
 
