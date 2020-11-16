@@ -1,7 +1,7 @@
 ---
 title: "Automated C# Build's With AppVeyor - Game Jolt API - Part 1"
 aliases: [/v/w2gb5yGsuIg/]
-date: 2016-11-07
+date: 2016-11-08
 featured_image: https://i.ytimg.com/vi/w2gb5yGsuIg/mqdefault.jpg
 
 ---

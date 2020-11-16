@@ -1,7 +1,7 @@
 ---
 title: "Skateboard Locomotion? - Exploring New Ways to Move With Vive Trackers"
 aliases: [/v/vxyfFHP4UNU/]
-date: 2017-11-29
+date: 2017-11-30
 featured_image: https://i.ytimg.com/vi/vxyfFHP4UNU/mqdefault.jpg
 
 ---

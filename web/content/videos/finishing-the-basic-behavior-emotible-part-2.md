@@ -1,7 +1,7 @@
 ---
 title: "Finishing the Basic Behavior - Emotible - Part 2"
 aliases: [/v/DmkcnGnOZfM/]
-date: 2016-10-05
+date: 2016-10-06
 featured_image: https://i.ytimg.com/vi/DmkcnGnOZfM/mqdefault.jpg
 
 ---

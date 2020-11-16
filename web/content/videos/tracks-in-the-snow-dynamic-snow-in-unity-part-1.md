@@ -1,7 +1,7 @@
 ---
 title: "Tracks in the Snow - Dynamic Snow in Unity - Part 1"
 aliases: [/v/z7kQpUZXXhw/]
-date: 2018-02-05
+date: 2018-02-06
 featured_image: https://i.ytimg.com/vi/z7kQpUZXXhw/mqdefault.jpg
 
 ---

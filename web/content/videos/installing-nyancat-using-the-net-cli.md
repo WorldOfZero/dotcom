@@ -1,7 +1,7 @@
 ---
 title: "Installing Nyancat using the .NET CLI"
 aliases: [/v/uzaFeSxM32k/]
-date: 2020-05-12
+date: 2020-05-13
 featured_image: https://i.ytimg.com/vi/uzaFeSxM32k/mqdefault.jpg
 
 ---

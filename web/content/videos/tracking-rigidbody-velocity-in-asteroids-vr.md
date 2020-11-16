@@ -1,7 +1,7 @@
 ---
 title: "Tracking Rigidbody Velocity in Asteroids VR"
 aliases: [/v/MDT6VV56vNk/]
-date: 2019-07-11
+date: 2019-07-12
 featured_image: https://i.ytimg.com/vi/MDT6VV56vNk/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mission Start - Building a Flat Shader In Unity - Part 1"
 aliases: [/v/vPfRgBgCDdA/]
-date: 2016-08-17
+date: 2016-08-18
 featured_image: https://i.ytimg.com/vi/vPfRgBgCDdA/mqdefault.jpg
 
 ---

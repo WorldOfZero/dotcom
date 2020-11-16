@@ -1,7 +1,7 @@
 ---
 title: "I See Game Objects - Unity Observer - Part 2"
 aliases: [/v/lELHSvmBCVw/]
-date: 2018-05-02
+date: 2018-05-03
 featured_image: https://i.ytimg.com/vi/lELHSvmBCVw/mqdefault.jpg
 
 ---

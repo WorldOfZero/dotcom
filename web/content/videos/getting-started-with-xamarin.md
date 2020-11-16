@@ -1,7 +1,7 @@
 ---
 title: "Getting Started With Xamarin"
 aliases: [/v/NKNk1fNH_bs/]
-date: 2017-03-22
+date: 2017-03-23
 featured_image: https://i.ytimg.com/vi/NKNk1fNH_bs/mqdefault.jpg
 
 ---

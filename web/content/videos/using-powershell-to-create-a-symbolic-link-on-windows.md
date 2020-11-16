@@ -1,7 +1,7 @@
 ---
 title: "Using PowerShell to Create a Symbolic Link on Windows"
 aliases: [/v/_VnONfOgP8M/]
-date: 2020-06-16
+date: 2020-06-17
 featured_image: https://i.ytimg.com/vi/_VnONfOgP8M/mqdefault.jpg
 
 ---

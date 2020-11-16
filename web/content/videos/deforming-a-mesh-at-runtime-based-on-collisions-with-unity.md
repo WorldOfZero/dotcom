@@ -1,7 +1,7 @@
 ---
 title: "Deforming a Mesh at Runtime Based on Collisions with Unity"
 aliases: [/v/l_2uGpjBMl4/]
-date: 2016-12-20
+date: 2016-12-21
 featured_image: https://i.ytimg.com/vi/l_2uGpjBMl4/mqdefault.jpg
 
 ---

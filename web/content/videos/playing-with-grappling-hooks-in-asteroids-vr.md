@@ -1,7 +1,7 @@
 ---
 title: "Playing With Grappling Hooks in Asteroids VR"
 aliases: [/v/St0xXH5utpc/]
-date: 2016-12-12
+date: 2016-12-13
 featured_image: https://i.ytimg.com/vi/St0xXH5utpc/mqdefault.jpg
 
 ---

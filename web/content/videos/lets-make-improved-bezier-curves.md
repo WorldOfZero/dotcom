@@ -1,7 +1,7 @@
 ---
 title: "Lets Make Improved Bezier Curves"
 aliases: [/v/4zizgh2duqY/]
-date: 2017-10-10
+date: 2017-10-11
 featured_image: https://i.ytimg.com/vi/4zizgh2duqY/mqdefault.jpg
 
 ---

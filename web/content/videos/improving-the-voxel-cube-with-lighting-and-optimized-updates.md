@@ -1,7 +1,7 @@
 ---
 title: "Improving the Voxel Cube with Lighting and Optimized Updates"
 aliases: [/v/9_bZn0aNVPQ/]
-date: 2018-07-24
+date: 2018-07-25
 featured_image: https://i.ytimg.com/vi/9_bZn0aNVPQ/mqdefault.jpg
 
 ---

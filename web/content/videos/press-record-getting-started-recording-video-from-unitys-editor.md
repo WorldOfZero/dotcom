@@ -1,7 +1,7 @@
 ---
 title: "Press Record - Getting Started Recording Video From Unity's Editor"
 aliases: [/v/JE4L7JZ-WEI/]
-date: 2017-10-09
+date: 2017-10-10
 featured_image: https://i.ytimg.com/vi/JE4L7JZ-WEI/mqdefault.jpg
 
 ---

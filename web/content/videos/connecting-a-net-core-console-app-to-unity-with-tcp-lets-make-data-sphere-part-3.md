@@ -1,7 +1,7 @@
 ---
 title: "Connecting a .NET Core Console App to Unity with TCP - Lets Make Data Sphere - Part 3"
 aliases: [/v/34_ExFKs_GY/]
-date: 2016-12-28
+date: 2016-12-29
 featured_image: https://i.ytimg.com/vi/34_ExFKs_GY/mqdefault.jpg
 
 ---

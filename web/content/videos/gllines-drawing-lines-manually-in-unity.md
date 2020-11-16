@@ -1,7 +1,7 @@
 ---
 title: "GL.Lines - Drawing Lines Manually in Unity"
 aliases: [/v/s926MfazI50/]
-date: 2017-11-20
+date: 2017-11-21
 featured_image: https://i.ytimg.com/vi/s926MfazI50/mqdefault.jpg
 
 ---

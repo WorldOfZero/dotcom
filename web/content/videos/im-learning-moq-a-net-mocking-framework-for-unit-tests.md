@@ -1,7 +1,7 @@
 ---
 title: "I'm Learning Moq - A .NET Mocking Framework for Unit Tests"
 aliases: [/v/EJZ2xWGfFQw/]
-date: 2020-03-26
+date: 2020-03-27
 featured_image: https://i.ytimg.com/vi/EJZ2xWGfFQw/mqdefault.jpg
 
 ---

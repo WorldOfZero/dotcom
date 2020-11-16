@@ -1,7 +1,7 @@
 ---
 title: "Inline Initializing C# Dictionaries - Quick Tip"
 aliases: [/v/lFsgmxzw7IU/]
-date: 2019-02-08
+date: 2019-02-09
 featured_image: https://i.ytimg.com/vi/lFsgmxzw7IU/mqdefault.jpg
 
 ---

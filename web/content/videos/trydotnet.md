@@ -1,7 +1,7 @@
 ---
 title: "Try.Dot.Net"
 aliases: [/v/VMXqJfr2qNs/]
-date: 2017-12-06
+date: 2017-12-07
 featured_image: https://i.ytimg.com/vi/VMXqJfr2qNs/mqdefault.jpg
 
 ---

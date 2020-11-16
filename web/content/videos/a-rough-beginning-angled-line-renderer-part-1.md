@@ -1,7 +1,7 @@
 ---
 title: "A Rough Beginning - Angled Line Renderer - Part 1"
 aliases: [/v/y5A-2PTKnn0/]
-date: 2017-08-28
+date: 2017-08-29
 featured_image: https://i.ytimg.com/vi/y5A-2PTKnn0/mqdefault.jpg
 
 ---

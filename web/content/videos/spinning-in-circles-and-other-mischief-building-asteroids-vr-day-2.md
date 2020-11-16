@@ -1,7 +1,7 @@
 ---
 title: "Spinning In Circles and Other Mischief - Building Asteroids VR - Day 2"
 aliases: [/v/LeJTbgGmiNc/]
-date: 2019-07-06
+date: 2019-07-07
 featured_image: https://i.ytimg.com/vi/LeJTbgGmiNc/mqdefault.jpg
 
 ---

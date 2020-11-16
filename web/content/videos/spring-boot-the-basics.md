@@ -1,7 +1,7 @@
 ---
 title: "Spring Boot - The Basics"
 aliases: [/v/K8OXyLKjKJg/]
-date: 2017-08-01
+date: 2017-08-02
 featured_image: https://i.ytimg.com/vi/K8OXyLKjKJg/mqdefault.jpg
 
 ---

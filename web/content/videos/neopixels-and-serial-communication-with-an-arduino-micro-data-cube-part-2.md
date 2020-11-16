@@ -1,7 +1,7 @@
 ---
 title: "Neopixel's and Serial Communication With An Arduino Micro - Data Cube - Part 2"
 aliases: [/v/oVe0hbBFCi4/]
-date: 2017-04-01
+date: 2017-04-02
 featured_image: https://i.ytimg.com/vi/oVe0hbBFCi4/mqdefault.jpg
 
 ---

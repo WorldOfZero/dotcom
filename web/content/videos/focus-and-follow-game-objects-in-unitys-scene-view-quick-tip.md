@@ -1,7 +1,7 @@
 ---
 title: "Focus and Follow Game Objects in Unity's Scene View - Quick Tip"
 aliases: [/v/4sUXxaXlYY8/]
-date: 2019-06-05
+date: 2019-06-06
 featured_image: https://i.ytimg.com/vi/4sUXxaXlYY8/mqdefault.jpg
 
 ---
