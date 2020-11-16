@@ -1,5 +1,6 @@
 ---
 title: "Implementing Marching Squares - Lets Make 2D Voxel Terrain - Part 11"
+alias: ["/v/KngA-rV4H9w"]
 date: 2017-03-07
 featured_image: https://i.ytimg.com/vi/KngA-rV4H9w/mqdefault.jpg
 

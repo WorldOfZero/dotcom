@@ -1,5 +1,6 @@
 ---
 title: "Live Coding Handles and Custom Editors in Unity"
+alias: ["/v/3efiobxsurY"]
 date: 2019-05-13
 featured_image: https://i.ytimg.com/vi/3efiobxsurY/mqdefault.jpg
 

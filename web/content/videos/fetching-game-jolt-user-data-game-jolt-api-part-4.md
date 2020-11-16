@@ -1,5 +1,6 @@
 ---
 title: "Fetching Game Jolt User Data - Game Jolt API - Part 4"
+alias: ["/v/H81QVd_c2Z0"]
 date: 2017-03-20
 featured_image: https://i.ytimg.com/vi/H81QVd_c2Z0/mqdefault.jpg
 

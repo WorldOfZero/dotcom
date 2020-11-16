@@ -1,5 +1,6 @@
 ---
 title: "Rigidbody Top-Down Spaceship Controller"
+alias: ["/v/8-UBALp1xQc"]
 date: 2019-03-06
 featured_image: https://i.ytimg.com/vi/8-UBALp1xQc/mqdefault.jpg
 

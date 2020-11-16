@@ -1,5 +1,6 @@
 ---
 title: "Lets Make an Octree in Unity"
+alias: ["/v/m0guE7804to"]
 date: 2016-12-21
 featured_image: https://i.ytimg.com/vi/m0guE7804to/mqdefault.jpg
 

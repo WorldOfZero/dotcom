@@ -1,5 +1,6 @@
 ---
 title: "Hashmap Lookup Fractal Animation - Animated Fractals"
+alias: ["/v/HF3hO5LTWw8"]
 date: 2016-12-06
 featured_image: https://i.ytimg.com/vi/HF3hO5LTWw8/mqdefault.jpg
 

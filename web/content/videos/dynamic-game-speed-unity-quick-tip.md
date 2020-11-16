@@ -1,5 +1,6 @@
 ---
 title: "Dynamic Game Speed - Unity Quick Tip"
+alias: ["/v/6zACdGL10Dc"]
 date: 2020-01-20
 featured_image: https://i.ytimg.com/vi/6zACdGL10Dc/mqdefault.jpg
 

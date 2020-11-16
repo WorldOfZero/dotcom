@@ -1,5 +1,6 @@
 ---
 title: "Creating a Context Menu in Custom Unity Editors"
+alias: ["/v/K0XHwqOmdvc"]
 date: 2019-05-15
 featured_image: https://i.ytimg.com/vi/K0XHwqOmdvc/mqdefault.jpg
 

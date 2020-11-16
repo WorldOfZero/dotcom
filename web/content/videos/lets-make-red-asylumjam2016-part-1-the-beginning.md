@@ -1,5 +1,6 @@
 ---
 title: "Let's Make Red - #AsylumJam2016 - Part 1 - The Beginning"
+alias: ["/v/Xmps4NNRC_k"]
 date: 2016-10-29
 featured_image: https://i.ytimg.com/vi/Xmps4NNRC_k/mqdefault.jpg
 

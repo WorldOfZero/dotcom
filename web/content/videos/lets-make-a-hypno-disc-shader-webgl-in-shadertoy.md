@@ -1,5 +1,6 @@
 ---
 title: "Lets Make a Hypno-Disc Shader - WebGL in Shadertoy"
+alias: ["/v/Y2IADn-wAZM"]
 date: 2017-06-28
 featured_image: https://i.ytimg.com/vi/Y2IADn-wAZM/mqdefault.jpg
 

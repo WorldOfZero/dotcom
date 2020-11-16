@@ -1,5 +1,6 @@
 ---
 title: "Bulk Insertion into a Quadtree - Lets Make 2D Voxel Terrain - Part 7"
+alias: ["/v/6WYm8DT97Kg"]
 date: 2017-02-08
 featured_image: https://i.ytimg.com/vi/6WYm8DT97Kg/mqdefault.jpg
 

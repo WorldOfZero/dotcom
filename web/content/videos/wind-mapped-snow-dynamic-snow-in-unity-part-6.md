@@ -1,5 +1,6 @@
 ---
 title: "Wind Mapped Snow - Dynamic Snow in Unity - Part 6"
+alias: ["/v/xMd_uzV0hPk"]
 date: 2018-03-21
 featured_image: https://i.ytimg.com/vi/xMd_uzV0hPk/mqdefault.jpg
 

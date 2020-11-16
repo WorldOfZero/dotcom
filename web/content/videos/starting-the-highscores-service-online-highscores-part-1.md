@@ -1,5 +1,6 @@
 ---
 title: "Starting the Highscores Service - Online Highscores - Part 1"
+alias: ["/v/U_2u_SeK10k"]
 date: 2020-01-02
 featured_image: https://i.ytimg.com/vi/U_2u_SeK10k/mqdefault.jpg
 

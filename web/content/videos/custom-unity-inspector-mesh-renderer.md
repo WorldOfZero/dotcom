@@ -1,5 +1,6 @@
 ---
 title: "Custom Unity Inspector Mesh Renderer"
+alias: ["/v/TPGFnk8guL8"]
 date: 2017-08-21
 featured_image: https://i.ytimg.com/vi/TPGFnk8guL8/mqdefault.jpg
 

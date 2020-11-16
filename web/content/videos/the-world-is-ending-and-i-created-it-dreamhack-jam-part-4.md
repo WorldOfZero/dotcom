@@ -1,5 +1,6 @@
 ---
 title: "The World Is Ending And I Created It - DreamHack Jam - Part 4"
+alias: ["/v/sVYJCL8drOw"]
 date: 2017-10-01
 featured_image: https://i.ytimg.com/vi/sVYJCL8drOw/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Building the World of Zero Arcade Live"
+alias: ["/v/g4j8WvC1Ct4"]
 date: 2017-04-20
 featured_image: https://i.ytimg.com/vi/g4j8WvC1Ct4/mqdefault.jpg
 

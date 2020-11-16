@@ -1,5 +1,6 @@
 ---
 title: "I Learn How To Build Flowcharts and Signal Diagram's in Mermaid.JS"
+alias: ["/v/7_2IroEs6Is"]
 date: 2018-03-12
 featured_image: https://i.ytimg.com/vi/7_2IroEs6Is/mqdefault.jpg
 

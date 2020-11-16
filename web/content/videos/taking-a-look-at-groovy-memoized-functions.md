@@ -1,5 +1,6 @@
 ---
 title: "Taking a Look at Groovy @Memoized Functions"
+alias: ["/v/90YDpzoeGEk"]
 date: 2018-04-10
 featured_image: https://i.ytimg.com/vi/90YDpzoeGEk/mqdefault.jpg
 

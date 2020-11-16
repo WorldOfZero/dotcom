@@ -1,5 +1,6 @@
 ---
 title: "Disco Planet Ring Shader - Lets Make an Asteroid Belt - Part 1"
+alias: ["/v/vXxiVQ1Yda0"]
 date: 2017-01-19
 featured_image: https://i.ytimg.com/vi/vXxiVQ1Yda0/mqdefault.jpg
 

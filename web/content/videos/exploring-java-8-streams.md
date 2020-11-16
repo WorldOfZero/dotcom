@@ -1,5 +1,6 @@
 ---
 title: "Exploring Java 8 Streams"
+alias: ["/v/L6U6JBC74sA"]
 date: 2017-07-06
 featured_image: https://i.ytimg.com/vi/L6U6JBC74sA/mqdefault.jpg
 

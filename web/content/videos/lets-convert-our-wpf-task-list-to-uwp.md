@@ -1,5 +1,6 @@
 ---
 title: "Lets Convert our WPF Task List to UWP"
+alias: ["/v/P3QF4S-ATUs"]
 date: 2017-06-07
 featured_image: https://i.ytimg.com/vi/P3QF4S-ATUs/mqdefault.jpg
 

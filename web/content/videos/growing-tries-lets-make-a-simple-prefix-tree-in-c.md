@@ -1,5 +1,6 @@
 ---
 title: "Growing Trie's - Lets Make a Simple Prefix Tree in C#"
+alias: ["/v/4nmVXKu6e_Q"]
 date: 2017-09-25
 featured_image: https://i.ytimg.com/vi/4nmVXKu6e_Q/mqdefault.jpg
 

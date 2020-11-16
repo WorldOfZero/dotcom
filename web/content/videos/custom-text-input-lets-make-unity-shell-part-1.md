@@ -1,5 +1,6 @@
 ---
 title: "Custom Text Input - Lets Make Unity Shell - Part 1"
+alias: ["/v/xJi5R3rxzPU"]
 date: 2017-06-25
 featured_image: https://i.ytimg.com/vi/xJi5R3rxzPU/mqdefault.jpg
 

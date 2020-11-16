@@ -1,5 +1,6 @@
 ---
 title: "Working with CSV's in Windows Powershell"
+alias: ["/v/NLw7jgzH3os"]
 date: 2017-09-13
 featured_image: https://i.ytimg.com/vi/NLw7jgzH3os/mqdefault.jpg
 

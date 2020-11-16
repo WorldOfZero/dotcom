@@ -1,5 +1,6 @@
 ---
 title: "Writing Our Own Diffuse Lighting Shader"
+alias: ["/v/4XfXOEDzBx4"]
 date: 2019-07-24
 featured_image: https://i.ytimg.com/vi/4XfXOEDzBx4/mqdefault.jpg
 

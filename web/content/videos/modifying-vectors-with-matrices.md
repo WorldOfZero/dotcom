@@ -1,5 +1,6 @@
 ---
 title: "Modifying Vectors with Matrices"
+alias: ["/v/zpjlL-w3748"]
 date: 2019-04-16
 featured_image: https://i.ytimg.com/vi/zpjlL-w3748/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "The Start of  a Remote Controller - World of Zero Arcade - Part 1"
+alias: ["/v/Lp5Yw9LWEZY"]
 date: 2017-02-21
 featured_image: https://i.ytimg.com/vi/Lp5Yw9LWEZY/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Customize Unity Editor Generated Scripts - Quick Tip"
+alias: ["/v/Q06cjdgWGmg"]
 date: 2020-03-23
 featured_image: https://i.ytimg.com/vi/Q06cjdgWGmg/mqdefault.jpg
 

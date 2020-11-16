@@ -1,5 +1,6 @@
 ---
 title: "Exploring Zenject - Learning how to use Dependency Injection in Unity"
+alias: ["/v/e0KWsizPYAw"]
 date: 2019-09-20
 featured_image: https://i.ytimg.com/vi/e0KWsizPYAw/mqdefault.jpg
 

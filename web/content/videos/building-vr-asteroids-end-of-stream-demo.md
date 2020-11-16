@@ -1,5 +1,6 @@
 ---
 title: "Building VR Asteroids - End of Stream Demo"
+alias: ["/v/yJkio9UTtw8"]
 date: 2016-10-23
 featured_image: https://i.ytimg.com/vi/yJkio9UTtw8/mqdefault.jpg
 

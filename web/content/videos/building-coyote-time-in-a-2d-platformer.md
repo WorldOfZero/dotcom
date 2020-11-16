@@ -1,5 +1,6 @@
 ---
 title: "Building Coyote Time in a 2D Platformer"
+alias: ["/v/8GUKmvzRoMA"]
 date: 2020-03-16
 featured_image: https://i.ytimg.com/vi/8GUKmvzRoMA/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Embedding Shadertoy in Hugo Websites - Custom Hugo Shortcodes"
+alias: ["/v/i100RhwZUnQ"]
 date: 2020-01-06
 featured_image: https://i.ytimg.com/vi/i100RhwZUnQ/mqdefault.jpg
 

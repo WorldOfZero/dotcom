@@ -1,5 +1,6 @@
 ---
 title: "Placing our Health Tracker Component Under Test with Unity Test Runner"
+alias: ["/v/XdlBSXIcMvA"]
 date: 2019-04-03
 featured_image: https://i.ytimg.com/vi/XdlBSXIcMvA/mqdefault.jpg
 

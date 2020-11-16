@@ -1,5 +1,6 @@
 ---
 title: "Simple Force Directed Graph in Unity"
+alias: ["/v/T69V_d_XmUw"]
 date: 2017-12-13
 featured_image: https://i.ytimg.com/vi/T69V_d_XmUw/mqdefault.jpg
 

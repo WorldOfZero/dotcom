@@ -1,5 +1,6 @@
 ---
 title: "Using C#'s Yield Keyword"
+alias: ["/v/bsZjfuTrPSA"]
 date: 2019-08-27
 featured_image: https://i.ytimg.com/vi/bsZjfuTrPSA/mqdefault.jpg
 

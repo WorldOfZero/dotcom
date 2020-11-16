@@ -1,5 +1,6 @@
 ---
 title: "Creating a TCP Client and Server in Unity - Lets Make Data Sphere - Part 2"
+alias: ["/v/WBYRTlaUSsk"]
 date: 2016-12-27
 featured_image: https://i.ytimg.com/vi/WBYRTlaUSsk/mqdefault.jpg
 

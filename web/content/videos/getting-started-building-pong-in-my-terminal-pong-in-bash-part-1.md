@@ -1,5 +1,6 @@
 ---
 title: "Getting Started Building Pong in my Terminal - Pong in Bash - Part 1"
+alias: ["/v/fEtcGFEiuQM"]
 date: 2020-06-22
 featured_image: https://i.ytimg.com/vi/fEtcGFEiuQM/mqdefault.jpg
 

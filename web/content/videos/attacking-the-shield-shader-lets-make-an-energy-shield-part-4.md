@@ -1,5 +1,6 @@
 ---
 title: "Attacking the Shield Shader - Lets Make an Energy Shield - Part 4"
+alias: ["/v/wou-47wEkyQ"]
 date: 2018-01-08
 featured_image: https://i.ytimg.com/vi/wou-47wEkyQ/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Lets Make a Dissolving Shader"
+alias: ["/v/rGt9haUx-aQ"]
 date: 2017-09-14
 featured_image: https://i.ytimg.com/vi/rGt9haUx-aQ/mqdefault.jpg
 

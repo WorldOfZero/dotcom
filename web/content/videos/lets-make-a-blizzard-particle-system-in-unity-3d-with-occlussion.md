@@ -1,5 +1,6 @@
 ---
 title: "Let's Make a Blizzard Particle System in Unity 3D with Occlussion"
+alias: ["/v/ZnVsPvKjgAs"]
 date: 2016-12-16
 featured_image: https://i.ytimg.com/vi/ZnVsPvKjgAs/mqdefault.jpg
 

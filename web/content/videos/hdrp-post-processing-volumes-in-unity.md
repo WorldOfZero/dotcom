@@ -1,5 +1,6 @@
 ---
 title: "HDRP Post Processing Volumes in Unity"
+alias: ["/v/uzpUYBNsdb0"]
 date: 2019-05-28
 featured_image: https://i.ytimg.com/vi/uzpUYBNsdb0/mqdefault.jpg
 

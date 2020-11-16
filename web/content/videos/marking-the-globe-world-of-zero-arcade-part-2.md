@@ -1,5 +1,6 @@
 ---
 title: "Marking the Globe - World of Zero Arcade- Part 2"
+alias: ["/v/QHdTUyIOvVg"]
 date: 2017-02-22
 featured_image: https://i.ytimg.com/vi/QHdTUyIOvVg/mqdefault.jpg
 

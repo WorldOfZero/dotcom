@@ -1,5 +1,6 @@
 ---
 title: "Creating a Array Based Quadtree - Lets Make 2D Voxel Terrain - Part 10"
+alias: ["/v/yWXyBgegm2U"]
 date: 2017-03-06
 featured_image: https://i.ytimg.com/vi/yWXyBgegm2U/mqdefault.jpg
 

@@ -1,5 +1,6 @@
 ---
 title: "Bezier Curve Line Renderer"
+alias: ["/v/tgCFzoG_BJM"]
 date: 2017-09-06
 featured_image: https://i.ytimg.com/vi/tgCFzoG_BJM/mqdefault.jpg
 

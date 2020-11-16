@@ -1,5 +1,6 @@
 ---
 title: "Building a Custom Unity Terrain Shader"
+alias: ["/v/9rSP-ozPs0A"]
 date: 2018-04-26
 featured_image: https://i.ytimg.com/vi/9rSP-ozPs0A/mqdefault.jpg
 

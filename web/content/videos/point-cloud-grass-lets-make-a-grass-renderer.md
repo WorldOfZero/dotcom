@@ -1,5 +1,6 @@
 ---
 title: "Point Cloud Grass - Lets Make a Grass Renderer"
+alias: ["/v/b2AlyCNbYmY"]
 date: 2017-05-09
 featured_image: https://i.ytimg.com/vi/b2AlyCNbYmY/mqdefault.jpg
 

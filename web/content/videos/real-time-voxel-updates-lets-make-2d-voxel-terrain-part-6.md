@@ -1,5 +1,6 @@
 ---
 title: "Real Time Voxel Updates - Lets Make 2D Voxel Terrain - Part 6"
+alias: ["/v/YSIN1HZsgAk"]
 date: 2017-02-07
 featured_image: https://i.ytimg.com/vi/YSIN1HZsgAk/mqdefault.jpg
 

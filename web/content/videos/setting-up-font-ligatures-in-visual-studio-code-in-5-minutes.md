@@ -1,5 +1,6 @@
 ---
 title: "Setting Up Font Ligatures in Visual Studio Code in 5 Minutes"
+alias: ["/v/PRMQ7bFK3L4"]
 date: 2017-09-27
 featured_image: https://i.ytimg.com/vi/PRMQ7bFK3L4/mqdefault.jpg
 

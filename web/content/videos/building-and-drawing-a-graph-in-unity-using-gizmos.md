@@ -1,5 +1,6 @@
 ---
 title: "Building and Drawing a Graph in Unity using Gizmos"
+alias: ["/v/zdHvM6XU4rY"]
 date: 2019-05-06
 featured_image: https://i.ytimg.com/vi/zdHvM6XU4rY/mqdefault.jpg
 

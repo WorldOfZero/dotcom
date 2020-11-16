@@ -1,5 +1,6 @@
 ---
 title: "Better Projectiles with Gravity and Trajectory Prediction"
+alias: ["/v/d7pwmO6IS2I"]
 date: 2017-09-11
 featured_image: https://i.ytimg.com/vi/d7pwmO6IS2I/mqdefault.jpg
 

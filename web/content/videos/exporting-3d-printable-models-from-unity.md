@@ -1,5 +1,6 @@
 ---
 title: "Exporting 3D Printable Models From Unity"
+alias: ["/v/EWpQCg8L5_Q"]
 date: 2017-08-23
 featured_image: https://i.ytimg.com/vi/EWpQCg8L5_Q/mqdefault.jpg
 
