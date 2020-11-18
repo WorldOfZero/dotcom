@@ -1,7 +1,7 @@
 ---
 title: "Creating Custom GitHub Issue Templates"
 aliases: [/v/nKvvdoAjqG4/]
-date: 2020-11-16
+date: 2020-10-03
 featured_image: https://i.ytimg.com/vi/nKvvdoAjqG4/mqdefault.jpg
 
 ---
