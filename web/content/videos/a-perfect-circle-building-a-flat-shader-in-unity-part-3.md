@@ -1,7 +1,7 @@
 ---
 title: "A Perfect Circle - Building a Flat Shader in Unity - Part 3"
 aliases: [/v/Ww1GbfnBH_Q/]
-date: 2016-10-19
+date: 2016-10-20
 featured_image: https://i.ytimg.com/vi/Ww1GbfnBH_Q/mqdefault.jpg
 
 ---

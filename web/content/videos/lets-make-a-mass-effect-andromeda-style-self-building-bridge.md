@@ -1,7 +1,7 @@
 ---
 title: "Lets Make a Mass Effect: Andromeda Style Self Building Bridge"
 aliases: [/v/GaQBLD7bGCM/]
-date: 2017-03-21
+date: 2017-03-22
 featured_image: https://i.ytimg.com/vi/GaQBLD7bGCM/mqdefault.jpg
 
 ---

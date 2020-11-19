@@ -1,7 +1,7 @@
 ---
 title: "Red: A Post Mortem - #AsylumJam2016"
 aliases: [/v/WONqm9LTXoQ/]
-date: 2016-11-14
+date: 2016-11-15
 featured_image: https://i.ytimg.com/vi/WONqm9LTXoQ/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Snow in the Wind - Dynamic Snow in Unity - Part 5"
 aliases: [/v/V5trpRR4UMc/]
-date: 2018-03-19
+date: 2018-03-20
 featured_image: https://i.ytimg.com/vi/V5trpRR4UMc/mqdefault.jpg
 
 ---

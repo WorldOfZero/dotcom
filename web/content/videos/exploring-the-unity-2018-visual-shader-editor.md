@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Unity 2018 Visual Shader Editor"
 aliases: [/v/1mW3T-Oritw/]
-date: 2018-01-10
+date: 2018-01-11
 featured_image: https://i.ytimg.com/vi/1mW3T-Oritw/mqdefault.jpg
 
 ---

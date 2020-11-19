@@ -1,7 +1,7 @@
 ---
 title: "Procedural Mesh Generation in Unity 3D"
 aliases: [/v/iwsZAg7dReM/]
-date: 2016-12-19
+date: 2016-12-20
 featured_image: https://i.ytimg.com/vi/iwsZAg7dReM/mqdefault.jpg
 
 ---

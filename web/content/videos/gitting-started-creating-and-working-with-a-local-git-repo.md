@@ -1,7 +1,7 @@
 ---
 title: "Gitting Started - Creating and Working With A Local Git Repo"
 aliases: [/v/sk5UCZxNjBk/]
-date: 2018-02-06
+date: 2018-02-07
 featured_image: https://i.ytimg.com/vi/sk5UCZxNjBk/mqdefault.jpg
 
 ---

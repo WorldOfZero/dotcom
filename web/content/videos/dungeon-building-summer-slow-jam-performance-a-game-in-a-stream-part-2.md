@@ -1,7 +1,7 @@
 ---
 title: "Dungeon Building  - Summer Slow Jam - Performance, A Game In A Stream - Part 2"
 aliases: [/v/t0yf7cRDdkw/]
-date: 2017-07-18
+date: 2017-07-19
 featured_image: https://i.ytimg.com/vi/t0yf7cRDdkw/mqdefault.jpg
 
 ---

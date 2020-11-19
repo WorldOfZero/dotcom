@@ -1,7 +1,7 @@
 ---
 title: "Lets Make a Task List in WPF"
 aliases: [/v/O69Dt67UdMI/]
-date: 2017-06-05
+date: 2017-06-06
 featured_image: https://i.ytimg.com/vi/O69Dt67UdMI/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Creating a Subchunk Spawner for Asteroids VR"
 aliases: [/v/VaGI6j_4e7Y/]
-date: 2019-06-05
+date: 2019-06-06
 featured_image: https://i.ytimg.com/vi/VaGI6j_4e7Y/mqdefault.jpg
 
 ---

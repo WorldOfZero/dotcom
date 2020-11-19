@@ -1,7 +1,7 @@
 ---
 title: "Building a Custom Node in Unity's Shader Graph"
 aliases: [/v/FeL4uWGdtUY/]
-date: 2018-12-03
+date: 2018-12-04
 featured_image: https://i.ytimg.com/vi/FeL4uWGdtUY/mqdefault.jpg
 
 ---

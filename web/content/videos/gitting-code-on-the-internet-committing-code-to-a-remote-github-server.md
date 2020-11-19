@@ -1,7 +1,7 @@
 ---
 title: "Gitting Code On The Internet - Committing Code to a Remote GitHub Server"
 aliases: [/v/EhNEncLZuyo/]
-date: 2018-02-13
+date: 2018-02-14
 featured_image: https://i.ytimg.com/vi/EhNEncLZuyo/mqdefault.jpg
 
 ---

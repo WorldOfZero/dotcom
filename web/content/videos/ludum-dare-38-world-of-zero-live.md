@@ -1,7 +1,7 @@
 ---
 title: "Ludum Dare 38 - World of Zero Live!"
 aliases: [/v/z0J-g4v0SE4/]
-date: 2017-04-21
+date: 2017-04-22
 featured_image: https://i.ytimg.com/vi/z0J-g4v0SE4/mqdefault.jpg
 
 ---

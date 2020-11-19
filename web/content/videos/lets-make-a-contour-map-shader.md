@@ -1,7 +1,7 @@
 ---
 title: "Lets Make a Contour Map Shader"
 aliases: [/v/AK8oV4BzrW4/]
-date: 2017-05-01
+date: 2017-05-02
 featured_image: https://i.ytimg.com/vi/AK8oV4BzrW4/mqdefault.jpg
 
 ---

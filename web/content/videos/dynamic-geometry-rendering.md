@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Geometry Rendering"
 aliases: [/v/IBKNQVdV2FE/]
-date: 2017-04-06
+date: 2017-04-07
 featured_image: https://i.ytimg.com/vi/IBKNQVdV2FE/mqdefault.jpg
 
 ---

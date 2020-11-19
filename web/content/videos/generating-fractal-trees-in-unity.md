@@ -1,7 +1,7 @@
 ---
 title: "Generating Fractal Trees in Unity"
 aliases: [/v/VXegg-HGT0s/]
-date: 2016-09-26
+date: 2016-09-27
 featured_image: https://i.ytimg.com/vi/VXegg-HGT0s/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Building 3D Models with Windows 10's Creators Update  for Unity"
 aliases: [/v/zULUcJyyjx0/]
-date: 2017-02-10
+date: 2017-02-11
 featured_image: https://i.ytimg.com/vi/zULUcJyyjx0/mqdefault.jpg
 
 ---

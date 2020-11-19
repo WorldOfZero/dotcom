@@ -1,7 +1,7 @@
 ---
 title: "Open Source Contributions and Other Projects"
 aliases: [/v/POVJ-QIyygE/]
-date: 2017-12-20
+date: 2017-12-21
 featured_image: https://i.ytimg.com/vi/POVJ-QIyygE/mqdefault.jpg
 
 ---

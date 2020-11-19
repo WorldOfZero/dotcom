@@ -1,7 +1,7 @@
 ---
 title: "Lets Make Conway's Game of Life with Compute Shaders"
 aliases: [/v/ItPTBSeGjdM/]
-date: 2017-05-17
+date: 2017-05-18
 featured_image: https://i.ytimg.com/vi/ItPTBSeGjdM/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Exploring a World of Sound - Twinkle - Mid Jam Sample"
 aliases: [/v/jQVKU37Vzk0/]
-date: 2016-08-30
+date: 2016-08-31
 featured_image: https://i.ytimg.com/vi/jQVKU37Vzk0/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Introducing Xamarin Workbooks"
 aliases: [/v/PGK4jfFYgek/]
-date: 2017-07-10
+date: 2017-07-11
 featured_image: https://i.ytimg.com/vi/PGK4jfFYgek/mqdefault.jpg
 
 ---

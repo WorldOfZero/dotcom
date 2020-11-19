@@ -1,7 +1,7 @@
 ---
 title: "Prototyping the Sand Table - Sand Table - Part 1"
 aliases: [/v/B4MU1_Ijo4k/]
-date: 2020-01-09
+date: 2020-01-10
 featured_image: https://i.ytimg.com/vi/B4MU1_Ijo4k/mqdefault.jpg
 
 ---

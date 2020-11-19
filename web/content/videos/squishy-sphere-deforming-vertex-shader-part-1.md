@@ -1,7 +1,7 @@
 ---
 title: "Squishy Sphere - Deforming Vertex Shader - Part 1"
 aliases: [/v/VZbCYJZNCQw/]
-date: 2016-11-22
+date: 2016-11-23
 featured_image: https://i.ytimg.com/vi/VZbCYJZNCQw/mqdefault.jpg
 
 ---

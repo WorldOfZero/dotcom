@@ -1,7 +1,7 @@
 ---
 title: "Exploring Reflection - Unity Observer - Part 3"
 aliases: [/v/CSPxKW8ntas/]
-date: 2018-05-22
+date: 2018-05-23
 featured_image: https://i.ytimg.com/vi/CSPxKW8ntas/mqdefault.jpg
 
 ---

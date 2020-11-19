@@ -1,7 +1,7 @@
 ---
 title: "Calculating Dice Sides From A Mesh's Normals"
 aliases: [/v/0Rnj7YQJfrc/]
-date: 2020-01-21
+date: 2020-01-22
 featured_image: https://i.ytimg.com/vi/0Rnj7YQJfrc/mqdefault.jpg
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Summer Slow Jam - Performance, A Game In A Stream - Part 1"
 aliases: [/v/lAU457ltT7A/]
-date: 2017-06-28
+date: 2017-06-29
 featured_image: https://i.ytimg.com/vi/lAU457ltT7A/mqdefault.jpg
 
 ---
