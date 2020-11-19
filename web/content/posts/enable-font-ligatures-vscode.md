@@ -28,7 +28,7 @@ Some free fonts that support ligatures are:
 
 To enable font ligatures in Visual Studio Code you will need to edit the `settings.json` file. To do this open the VS Code settings (File -> Preferences -> Settings) select the Text Editor group and Font settings. Replace the name of the font with the font you would like to use. For example if you would like to use Cascadia Code then replace the font with `Cascadia Code`. You may include fallback fonts that will be used if the first font is not available. `Cascadia Code, Fira Code` will prioritize Cascadia Code but use Fira Code if Cascadia Code isn't available on the current machine.
 
-Once you've configured the font you'll need to explictly enable ligatures. This is a separate option and requires you to modify the `settings.json` file directly. You will need to add the `"editor.fontLigatures"` setting to your `settings.json` settings file. Once this is done your settings should include two lines that look something like this:
+Once you've configured the font you'll need to explicitly enable ligatures. This is a separate option and requires you to modify the `settings.json` file directly. You will need to add the `"editor.fontLigatures"` setting to your `settings.json` settings file. Once this is done your settings should include two lines that look something like this:
 
 ```json
 {
