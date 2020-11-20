@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   # Run daily
   schedule:
-  - cron: "0 0 * * *"
+  - cron: "0 8 * * *"
 
 jobs:
   video-file-generation-job:
