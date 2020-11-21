@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace WorldOfZero.DotCom.Generator.VideoExporter
@@ -38,6 +39,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             var name = NameGenerator.GetName(playlistItem.Snippet.Title);
             var path = Path.Join(directory, name + ".md");
             var currentContents = await TestFile(path);
+            playlistItem.Snippet.Description = UpdateDescription(playlistItem.Snippet.Description);
             var expectedContents = BuildContents(playlistItem);
             // There isn't a point to writing if the contents will not change
             if (currentContents != expectedContents)
@@ -51,7 +53,22 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             return path;
         }
 
-        private string BuildContents(PlaylistItem playlistItem)
+    private string UpdateDescription(string description)
+    {
+        var replacements = new Dictionary<String, String>() {
+            {"˂", "<"},
+            {"˃", ">"},
+            {"^Note:", "> Note"}
+        };
+        var result = description;
+        foreach(var replacement in replacements) {
+            result = Regex.Replace(result,
+                replacement.Key, replacement.Value, RegexOptions.Multiline);
+        }
+        return result;
+    }
+
+    private string BuildContents(PlaylistItem playlistItem)
         {
             return template.Run(playlistItem);
         }
