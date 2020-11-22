@@ -58,7 +58,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
         var replacements = new Dictionary<String, String>() {
             {"˂", "<"},
             {"˃", ">"},
-            {"^Note:", "> Note"}
+            {"^Note:", "> Note:"}
         };
         var result = description;
         foreach(var replacement in replacements) {
