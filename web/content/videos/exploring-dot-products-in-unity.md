@@ -27,7 +27,7 @@ The formula for dot products is the sum of the product of each axis. For example
 * In 4D space: `(A.x * B.x) + (A.y * B.y) + (A.z * B.z) + (A.w * B.w)`
 * This formula can be expanded as the dimensions continues to increase if you need it to.
 
-Note: Because of this formula the length of the Vectors being compared in the dot product *does* matter!
+> Note: Because of this formula the length of the Vectors being compared in the dot product *does* matter!
 
 ***
 

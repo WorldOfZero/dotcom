@@ -39,7 +39,7 @@ MyCommandExecutor command = new MyCommandExecutor ();
 this.getCommand("commandName").setExecutor(command);
 ```
 
-Note: `commandName` should match your `commandName` from the `plugin.yml` above.
+> Note: `commandName` should match your `commandName` from the `plugin.yml` above.
 
 ##  `MyCommandExecutor.java`
 

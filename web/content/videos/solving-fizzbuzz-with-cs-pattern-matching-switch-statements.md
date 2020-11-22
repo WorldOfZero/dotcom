@@ -30,7 +30,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        for(int i = 0; i ˂ 20; ++i) {
+        for(int i = 0; i < 20; ++i) {
             Console.WriteLine(GetOutputString(i));
         }
     }
@@ -38,10 +38,10 @@ class Program
     static string GetOutputString(int i) {
         return (i%3, i%5) switch
         {
-            (0, 0) =˃ "FizzBuzz",
-            (0, _) =˃ "Fizz",
-            (_, 0) =˃ "Buzz",
-            _ =˃ i.ToString()
+            (0, 0) => "FizzBuzz",
+            (0, _) => "Fizz",
+            (_, 0) => "Buzz",
+            _ => i.ToString()
         };
     }
 }

@@ -15,12 +15,12 @@ When used in a function or property which returns an `IEnumerable`, yield will p
 Using these concepts we can create a function which returns all positive integers between 1 and a max value.
 
 ```csharp
-// Note: you'll need to replace the IEnumerable{int} with correct syntax as well as the ≥ symbol.
-public static IEnumerable{int} PositiveInts(int max) {
+// Note: you'll need to replace the IEnumerable<int> with correct syntax as well as the >= symbol
+public static IEnumerable<int> PositiveInts(int max) {
     int i = 1;
     while(true) {
         yield return i++;
-        if (i ≥ max) {
+        if (i >= max) {
             yield break;
         }
     }

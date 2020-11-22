@@ -29,7 +29,7 @@ assignees:
 Please describe what is happening
 ```
 
-Note: GitHub lists templates in alphabetical order based on file name so if you would like to create a specific order for templates you may start the file names with numbers. For example `1_tutorial.md` and `2_question.md`.
+> Note: GitHub lists templates in alphabetical order based on file name so if you would like to create a specific order for templates you may start the file names with numbers. For example `1_tutorial.md` and `2_question.md`.
 
 GitHub also allows you to configure Issue's using the `.github/ISSUE_TEMPLATE/config.yml` file. This file allows you to specify if blank issues are allowed and makes it possible to provide a series of contact links to external resources (project documentation, website, forum etc)
 

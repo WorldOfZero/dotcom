@@ -14,7 +14,7 @@ The most powerful feature of the Raymarching Toolkit is its powerful abstraction
 
 Getting started with the Raymarching Toolkit is also extremely easily. Add the asset to your project and then add a Raymarched Object Game Object to your scene, this creates everything you need to get started and begin working with the Raymarching Toolkit.
 
-Note: I am running this on a Nvidia 1080Ti. Raymarching can be expensive and performance may suffer on slower cards.
+> Note: I am running this on a Nvidia 1080Ti. Raymarching can be expensive and performance may suffer on slower cards.
 
 You can learn more about the Unity Raymarching Toolkit here including additional examples and guides: https://kev.town/raymarching/
 
