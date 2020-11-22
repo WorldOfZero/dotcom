@@ -49,7 +49,7 @@ while true; do
 done
 ```
 
-Note: not mentioned in the video, but I've included a `trap` to restore the cursor to its normal visibility when you exit the script (more on this in a future video).
+> Note: not mentioned in the video, but I've included a `trap` to restore the cursor to its normal visibility when you exit the script (more on this in a future video).
 
 If you're looking for a deeper dive into tput linuxcommand.org has put together a great resource with a number of examples demonstrating many of the features of tput: http://www.linuxcommand.org/lc3_adv_tput.php
 
