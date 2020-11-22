@@ -6,28 +6,37 @@ Build information on [Actions](https://github.com/WorldOfZero/dotcom/actions) ta
 
 ## Building
 
-Build all files locally via the included docker-compose or individually
+### Publishing
 
-To use Docker Compose first you must supply an environment variable for the compose file to use. This is a requirement of the backend in order for it to connect to YouTube's API.
+Publish the website with Hugo using `hugo --minify --source ./web`. Currently the project uses [Netlify](https://netlify.com) to host worldofzero.com.
 
-This can be done on powershell like:
+When run locally, published files may be found in the generated `public` directory.
 
-```ps1
-$env:YOUTUBE_API_KEY = "THIS_IS_A_KEY"
+### Running a Local Development Site
+
+You may start a local development environment by running `hugo server --buildFuture --source ./web`. This will watch the `./web` directory for new content and automatically regenerate webpage source files if changes are detected.
+
+If you have Make available you may also use `make dev` to start the local dev environment.
+
+### Generating Video Content
+
+To generate videos run the generate-files-dotnet app. You will need to provide two environment variables:
+
+* `CHANNEL_ID`: This is the ID of the YouTube channel to retrieve content from. World of Zero's Channel ID is `UCJKLCjeujQj-d3JjsbVtkJw`.
+* `YOUTUBE_API_KEY`: You will need a valid YouTube API Key to interact with the YouTube API. This key may be created in the [Google Developer Console](https://console.developers.google.com/).
+
+```sh
+dotnet run --project actions/generator/generate-files-dotnet -- --youtube-apikey=$env:YOUTUBE_API_KEY --channel=$env:CHANNEL_ID --output=./web/content/videos --template=./actions/generator/generate-files-dotnet/video.md.template
 ```
 
-Or on Linux with bash:
+You may get help with the file generation project by running:
 
-```bash
-YOUTUBE_API_KEY="THIS_IS_A_KEY"
+```
+dotnet run --project actions/generator/generate-files-dotnet -- --help
 ```
 
-Once the variable is configured, in the same shell run
+#### Automation
 
-```bash
-docker-compose up
-```
+The process of generating videos is automated and you do not need to rerun the commands manually to get new content. A [periodic cron job is scheduled in GitHub Actions](./.github/workflows/automated-video-pages.yml) that automatically reruns this file generation project and opens a Pull Request against the repository if any changes are made (new videos published, description/titles updated).
 
-This starts all 3 required services and networks them automatically. For development, including the `--build` flag will ensure changes trigger rebuilding of images.
-
-> Docker Compose is not ideal for development (iteration is slow) so this isn't great for new feature work.
+> Note: Description changes will modify the generated file name which could result in duplicate published files. These currently require manual action to address.
