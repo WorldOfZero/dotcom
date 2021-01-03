@@ -55,7 +55,11 @@ tags:
   - name: "kubernetes"
     synonyms:
     - "k8s"
+    - "kubectl"
+    - "kpt"
+    - "kustomize"
     - "helm"
+    - "prow"
     - "anthos"
     - "aks"
     - "gke"
