@@ -4,6 +4,7 @@ using Google.Apis.YouTube.v3.Data;
 using Serilog;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace WorldOfZero.DotCom.Generator.VideoExporter
@@ -62,7 +63,9 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
                 vidTask.Id = playlistItem.ContentDetails.VideoId;
                 var videoList = await vidTask.ExecuteAsync();
                 foreach(var video in videoList.Items) {
-                    Log.Debug($"Found playlist item: {playlistItem.Snippet.ResourceId.VideoId} - {playlistItem.Snippet.Title} with {video.Snippet.Tags.Count} tags");
+                    Log.Debug($"Found playlist item: {video.Id} - {video.Snippet.Title} - {video.Snippet.Tags.Count} tags");
+                    // Quote tags to prevent errors in yaml encoding
+                    video.Snippet.Tags = video.Snippet.Tags.Select(t => $"\"{t}\"").ToList();
                     discovered.Add(video);
                 }
             }

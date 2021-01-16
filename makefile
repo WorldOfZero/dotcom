@@ -8,10 +8,7 @@ CHANNEL_ID = "UUJKLCjeujQj-d3JjsbVtkJw"
 
 # Run video generation
 generate-videos:
-	py ${GENERATE_VIDEO}/${GENERATE_VIDEO_FILE} --output ${VIDEO_CONTENT_OUT_DIR} --template ${VIDEO_TEMPLATE} --tagfile ${TAG_REFERENCE_FILE} --channel ${CHANNEL_ID}
-
-init-generate-videos:
-	pip install -r ${GENERATE_VIDEO}/requirements.txt
+	dotnet run --project .\actions\generator\generate-files-dotnet\ -- --tags=./tags.yaml --youtube-apikey=${YOUTUBE_API_KEY} --channel=${CHANNEL_ID} --output=./web/content/videos --template=./actions/generator/generate-files-dotnet/video.md.template
 
 # Build optimized site
 build: generate-videos
