@@ -34,7 +34,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             }
         }
 
-        public async Task<string> Write(string directory, PlaylistItem playlistItem)
+        public async Task<string> Write(string directory, Video playlistItem)
         {
             var name = NameGenerator.GetName(playlistItem.Snippet.Title);
             var path = Path.Join(directory, name + ".md");
@@ -68,7 +68,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
         return result;
     }
 
-    private string BuildContents(PlaylistItem playlistItem)
+    private string BuildContents(Video playlistItem)
         {
             return template.Run(playlistItem);
         }
