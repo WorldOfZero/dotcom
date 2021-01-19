@@ -3,6 +3,7 @@ title: "Coding with Blocks in Google Blockly"
 aliases: [/v/XpfN_rN9gZM/]
 date: 2016-10-04
 featured_image: https://i.ytimg.com/vi/XpfN_rN9gZM/mqdefault.jpg
+tags: [ tutorial,typescript,web ]
 
 ---
 

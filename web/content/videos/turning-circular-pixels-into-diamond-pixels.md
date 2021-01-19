@@ -3,6 +3,7 @@ title: "Turning Circular Pixels Into Diamond Pixels"
 aliases: [/v/u5PGfxHjYo0/]
 date: 2019-07-02
 featured_image: https://i.ytimg.com/vi/u5PGfxHjYo0/mqdefault.jpg
+tags: [ shader,unity3d,opensource,git,tutorial ]
 
 ---
 

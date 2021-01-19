@@ -3,6 +3,7 @@ title: "I Built A New Website"
 aliases: [/v/BnhiqddQpVo/]
 date: 2019-04-23
 featured_image: https://i.ytimg.com/vi/BnhiqddQpVo/mqdefault.jpg
+tags: [ demo,typescript,web,dotnet,asp.net,opensource,test,codehealth,containers ]
 
 ---
 

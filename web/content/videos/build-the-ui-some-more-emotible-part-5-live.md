@@ -1,8 +1,9 @@
 ---
 title: "Build the UI Some More - Emotible - Part 5 Live!"
 aliases: [/v/Af9OQuWiFbw/]
-date: 2016-10-12
+date: 2016-10-13
 featured_image: https://i.ytimg.com/vi/Af9OQuWiFbw/mqdefault.jpg
+tags: [ uwp,livestream,tutorial,csharp,dotnet ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Exporting A Minecraft Build to Unity 3D"
 aliases: [/v/dRcDtFcKG28/]
 date: 2017-10-17
 featured_image: https://i.ytimg.com/vi/dRcDtFcKG28/mqdefault.jpg
+tags: [ unity3d,tutorial ]
 
 ---
 

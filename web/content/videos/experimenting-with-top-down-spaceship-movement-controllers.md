@@ -1,8 +1,9 @@
 ---
 title: "Experimenting With Top Down Spaceship Movement Controllers"
 aliases: [/v/TUIHY-5MvWQ/]
-date: 2019-01-20
+date: 2019-01-21
 featured_image: https://i.ytimg.com/vi/TUIHY-5MvWQ/mqdefault.jpg
+tags: [ unity3d,livecode,tutorial,csharp,dotnet ]
 
 ---
 

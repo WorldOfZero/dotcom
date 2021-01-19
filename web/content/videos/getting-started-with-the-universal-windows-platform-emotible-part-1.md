@@ -3,6 +3,7 @@ title: "Getting Started with the Universal Windows Platform - Emotible - Part 1"
 aliases: [/v/G2dqexxnKxg/]
 date: 2016-10-05
 featured_image: https://i.ytimg.com/vi/G2dqexxnKxg/mqdefault.jpg
+tags: [ uwp,csharp,dotnet ]
 
 ---
 

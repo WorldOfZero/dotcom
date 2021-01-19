@@ -3,6 +3,7 @@ title: "Vertex Displacement Tessellation - Mesh Displacement - Part 3"
 aliases: [/v/FNT6nHoml3Q/]
 date: 2017-01-11
 featured_image: https://i.ytimg.com/vi/FNT6nHoml3Q/mqdefault.jpg
+tags: [ shader ]
 
 ---
 

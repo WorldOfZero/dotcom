@@ -3,6 +3,7 @@ title: "Getting Started with Pathfinding using Dijkstra's Algorithm"
 aliases: [/v/KGUY2BpC72c/]
 date: 2020-06-24
 featured_image: https://i.ytimg.com/vi/KGUY2BpC72c/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tutorial ]
 
 ---
 

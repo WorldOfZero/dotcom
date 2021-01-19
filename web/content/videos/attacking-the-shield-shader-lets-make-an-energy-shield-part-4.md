@@ -3,6 +3,7 @@ title: "Attacking the Shield Shader - Lets Make an Energy Shield - Part 4"
 aliases: [/v/wou-47wEkyQ/]
 date: 2018-01-09
 featured_image: https://i.ytimg.com/vi/wou-47wEkyQ/mqdefault.jpg
+tags: [ shader,unity3d,csharp,dotnet,tutorial ]
 
 ---
 

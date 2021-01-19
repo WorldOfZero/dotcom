@@ -3,6 +3,7 @@ title: "Growing Trie's - Lets Make a Simple Prefix Tree in C#"
 aliases: [/v/4nmVXKu6e_Q/]
 date: 2017-09-26
 featured_image: https://i.ytimg.com/vi/4nmVXKu6e_Q/mqdefault.jpg
+tags: [ csharp,dotnet,test ]
 
 ---
 

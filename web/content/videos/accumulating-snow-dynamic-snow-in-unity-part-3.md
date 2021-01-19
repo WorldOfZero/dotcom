@@ -1,8 +1,9 @@
 ---
 title: "Accumulating Snow - Dynamic Snow in Unity - Part 3"
 aliases: [/v/YbtJyi0ODi8/]
-date: 2018-02-27
+date: 2018-02-28
 featured_image: https://i.ytimg.com/vi/YbtJyi0ODi8/mqdefault.jpg
+tags: [ csharp,dotnet,unity3d,debugging ]
 
 ---
 

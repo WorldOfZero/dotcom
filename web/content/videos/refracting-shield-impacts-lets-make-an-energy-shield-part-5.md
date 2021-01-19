@@ -3,6 +3,7 @@ title: "Refracting Shield Impacts - Lets Make an Energy Shield - Part 5"
 aliases: [/v/qCiFHHAEjAM/]
 date: 2018-02-16
 featured_image: https://i.ytimg.com/vi/qCiFHHAEjAM/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

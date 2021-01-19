@@ -1,8 +1,9 @@
 ---
 title: "Exploring Dot Products in Unity"
 aliases: [/v/8cZo-c-f1yc/]
-date: 2019-01-16
+date: 2019-01-19
 featured_image: https://i.ytimg.com/vi/8cZo-c-f1yc/mqdefault.jpg
+tags: [ game,tutorial,unity3d,csharp,dotnet ]
 
 ---
 

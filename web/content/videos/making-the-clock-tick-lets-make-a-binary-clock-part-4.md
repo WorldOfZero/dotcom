@@ -3,6 +3,7 @@ title: "Making the Clock Tick - Lets Make a Binary Clock - Part 4"
 aliases: [/v/z1K37aEjI4k/]
 date: 2017-01-16
 featured_image: https://i.ytimg.com/vi/z1K37aEjI4k/mqdefault.jpg
+tags: [ uwp ]
 
 ---
 

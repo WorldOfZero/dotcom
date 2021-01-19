@@ -1,8 +1,9 @@
 ---
 title: "Sticky Bombs - Lets Make Asteroids VR"
 aliases: [/v/FF-Sgo6WS64/]
-date: 2016-11-27
+date: 2016-11-28
 featured_image: https://i.ytimg.com/vi/FF-Sgo6WS64/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

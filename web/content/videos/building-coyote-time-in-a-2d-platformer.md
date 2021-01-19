@@ -3,6 +3,7 @@ title: "Building Coyote Time in a 2D Platformer"
 aliases: [/v/8GUKmvzRoMA/]
 date: 2020-03-17
 featured_image: https://i.ytimg.com/vi/8GUKmvzRoMA/mqdefault.jpg
+tags: [ unity3d,livecode,debugging,csharp,dotnet ]
 
 ---
 

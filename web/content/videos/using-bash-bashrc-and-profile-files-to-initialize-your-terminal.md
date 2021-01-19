@@ -1,8 +1,9 @@
 ---
 title: "Using Bash .bashrc and .profile Files to Initialize Your Terminal"
 aliases: [/v/HjxokBDacOM/]
-date: 2019-10-02
+date: 2019-10-04
 featured_image: https://i.ytimg.com/vi/HjxokBDacOM/mqdefault.jpg
+tags: [ bash,shell,livecode ]
 
 ---
 

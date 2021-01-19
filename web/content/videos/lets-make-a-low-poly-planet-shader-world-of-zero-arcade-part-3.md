@@ -3,6 +3,7 @@ title: "Lets Make a Low Poly Planet Shader - World of Zero Arcade - Part 3"
 aliases: [/v/i5zwDoYXH5c/]
 date: 2017-02-28
 featured_image: https://i.ytimg.com/vi/i5zwDoYXH5c/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

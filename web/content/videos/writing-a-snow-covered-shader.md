@@ -3,6 +3,7 @@ title: "Writing a Snow Covered Shader"
 aliases: [/v/bY7r6blL1K8/]
 date: 2019-10-04
 featured_image: https://i.ytimg.com/vi/bY7r6blL1K8/mqdefault.jpg
+tags: [ shader,unity3d,livecode ]
 
 ---
 

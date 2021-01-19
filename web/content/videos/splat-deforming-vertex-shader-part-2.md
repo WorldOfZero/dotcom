@@ -3,6 +3,7 @@ title: "Splat! - Deforming Vertex Shader - Part 2"
 aliases: [/v/mPgODeBDyIw/]
 date: 2016-11-24
 featured_image: https://i.ytimg.com/vi/mPgODeBDyIw/mqdefault.jpg
+tags: [ shader ]
 
 ---
 

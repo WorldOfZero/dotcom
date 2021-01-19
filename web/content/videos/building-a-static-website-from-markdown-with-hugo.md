@@ -3,6 +3,7 @@ title: "Building a Static Website from Markdown with Hugo"
 aliases: [/v/A6xpOpKBZ2k/]
 date: 2018-03-24
 featured_image: https://i.ytimg.com/vi/A6xpOpKBZ2k/mqdefault.jpg
+tags: [ hugo,web ]
 
 ---
 

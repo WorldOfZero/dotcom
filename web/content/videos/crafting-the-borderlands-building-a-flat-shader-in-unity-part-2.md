@@ -3,6 +3,7 @@ title: "Crafting the Borderlands  - Building a Flat Shader In Unity - Part 2"
 aliases: [/v/-7bHSp2SPIk/]
 date: 2016-08-23
 featured_image: https://i.ytimg.com/vi/-7bHSp2SPIk/mqdefault.jpg
+tags: [ unity3d,shader ]
 
 ---
 

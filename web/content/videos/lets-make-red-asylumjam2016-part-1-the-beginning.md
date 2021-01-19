@@ -1,8 +1,9 @@
 ---
 title: "Let's Make Red - #AsylumJam2016 - Part 1 - The Beginning"
 aliases: [/v/Xmps4NNRC_k/]
-date: 2016-10-29
+date: 2016-11-12
 featured_image: https://i.ytimg.com/vi/Xmps4NNRC_k/mqdefault.jpg
+tags: [ hackathon,livestream,unity3d ]
 
 ---
 

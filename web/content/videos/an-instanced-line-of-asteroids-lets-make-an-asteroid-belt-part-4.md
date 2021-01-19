@@ -1,8 +1,9 @@
 ---
 title: "An Instanced Line of Asteroids - Lets Make an Asteroid Belt - Part 4"
 aliases: [/v/rUkwvUujL0w/]
-date: 2017-02-20
+date: 2017-02-21
 featured_image: https://i.ytimg.com/vi/rUkwvUujL0w/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

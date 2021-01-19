@@ -3,6 +3,7 @@ title: "Dependency Injection in Spring"
 aliases: [/v/EsbMbg34CpQ/]
 date: 2018-04-12
 featured_image: https://i.ytimg.com/vi/EsbMbg34CpQ/mqdefault.jpg
+tags: [ spring,java ]
 
 ---
 

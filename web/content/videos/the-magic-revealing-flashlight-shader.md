@@ -3,6 +3,7 @@ title: "The Magic Revealing Flashlight Shader"
 aliases: [/v/b4utgRuIekk/]
 date: 2017-04-01
 featured_image: https://i.ytimg.com/vi/b4utgRuIekk/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

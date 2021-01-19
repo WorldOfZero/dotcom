@@ -1,8 +1,9 @@
 ---
 title: "Live Coding Event Based GameObject Health in Unity"
 aliases: [/v/unRBfHyYgJ8/]
-date: 2019-03-28
+date: 2019-04-03
 featured_image: https://i.ytimg.com/vi/unRBfHyYgJ8/mqdefault.jpg
+tags: [ csharp,dotnet,unity3d,livecode ]
 
 ---
 

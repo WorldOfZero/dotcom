@@ -3,6 +3,7 @@ title: "Marking the Globe - World of Zero Arcade- Part 2"
 aliases: [/v/QHdTUyIOvVg/]
 date: 2017-02-23
 featured_image: https://i.ytimg.com/vi/QHdTUyIOvVg/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

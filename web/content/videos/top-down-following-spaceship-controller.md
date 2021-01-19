@@ -1,8 +1,9 @@
 ---
 title: "Top Down Following Spaceship Controller"
 aliases: [/v/xYl5qRgOw_M/]
-date: 2019-02-01
+date: 2019-02-06
 featured_image: https://i.ytimg.com/vi/xYl5qRgOw_M/mqdefault.jpg
+tags: [ unity3d,livecode,csharp,dotnet,tutorial ]
 
 ---
 

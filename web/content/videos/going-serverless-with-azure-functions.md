@@ -3,6 +3,7 @@ title: "Going #Serverless with Azure Functions"
 aliases: [/v/ZeVlKYNqCJM/]
 date: 2017-09-06
 featured_image: https://i.ytimg.com/vi/ZeVlKYNqCJM/mqdefault.jpg
+tags: [ cloud ]
 
 ---
 

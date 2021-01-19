@@ -1,8 +1,9 @@
 ---
 title: "Tracking Twitter Data in Real Time - Let's Make Data Sphere - Part 4"
 aliases: [/v/EkeJ2trQPwg/]
-date: 2017-01-01
+date: 2017-01-11
 featured_image: https://i.ytimg.com/vi/EkeJ2trQPwg/mqdefault.jpg
+tags: [  ]
 
 ---
 

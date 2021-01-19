@@ -3,6 +3,7 @@ title: "Working with CSV's in Windows Powershell"
 aliases: [/v/NLw7jgzH3os/]
 date: 2017-09-14
 featured_image: https://i.ytimg.com/vi/NLw7jgzH3os/mqdefault.jpg
+tags: [ powershell,tools ]
 
 ---
 

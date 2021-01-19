@@ -3,6 +3,7 @@ title: "Introducing Testing into our Platformer"
 aliases: [/v/MVllsatsW5A/]
 date: 2020-03-25
 featured_image: https://i.ytimg.com/vi/MVllsatsW5A/mqdefault.jpg
+tags: [ test,unity3d,dotnet ]
 
 ---
 

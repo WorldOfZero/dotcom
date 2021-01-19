@@ -1,8 +1,9 @@
 ---
 title: "Counting Characters in a Bash String - Quick Tip"
 aliases: [/v/mK7hutk2yCE/]
-date: 2020-01-28
+date: 2020-01-29
 featured_image: https://i.ytimg.com/vi/mK7hutk2yCE/mqdefault.jpg
+tags: [ tip,bash,shell,linux ]
 
 ---
 

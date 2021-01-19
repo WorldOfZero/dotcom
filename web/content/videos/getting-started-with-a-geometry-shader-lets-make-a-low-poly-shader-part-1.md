@@ -3,6 +3,7 @@ title: "Getting Started with a Geometry Shader - Lets Make a Low Poly Shader - P
 aliases: [/v/HY6qFbmbij8/]
 date: 2017-02-16
 featured_image: https://i.ytimg.com/vi/HY6qFbmbij8/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

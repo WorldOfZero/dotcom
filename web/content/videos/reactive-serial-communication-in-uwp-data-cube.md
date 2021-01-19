@@ -3,6 +3,7 @@ title: "Reactive Serial Communication in UWP - Data Cube"
 aliases: [/v/fHQk_vwEOiM/]
 date: 2017-09-20
 featured_image: https://i.ytimg.com/vi/fHQk_vwEOiM/mqdefault.jpg
+tags: [ uwp,arduino ]
 
 ---
 

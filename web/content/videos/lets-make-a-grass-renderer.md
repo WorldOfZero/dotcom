@@ -1,8 +1,9 @@
 ---
 title: "Lets Make a Grass Renderer"
 aliases: [/v/0H1FVOphmIo/]
-date: 2017-05-08
+date: 2017-05-09
 featured_image: https://i.ytimg.com/vi/0H1FVOphmIo/mqdefault.jpg
+tags: [ unity3d,tutorial,csharp,dotnet,shader ]
 
 ---
 

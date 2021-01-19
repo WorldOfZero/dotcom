@@ -1,8 +1,9 @@
 ---
 title: "Lets Make a Discord Bot - Data Cube and Discord"
 aliases: [/v/8k9neARn5o4/]
-date: 2017-10-27
+date: 2017-10-29
 featured_image: https://i.ytimg.com/vi/8k9neARn5o4/mqdefault.jpg
+tags: [  ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Hex Parser in Data Cube Discord Bot"
 aliases: [/v/bhUTjt0BOEs/]
 date: 2018-01-10
 featured_image: https://i.ytimg.com/vi/bhUTjt0BOEs/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

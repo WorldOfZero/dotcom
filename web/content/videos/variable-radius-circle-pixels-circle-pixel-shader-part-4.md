@@ -3,6 +3,7 @@ title: "Variable Radius Circle Pixels -  Circle Pixel Shader - Part 4"
 aliases: [/v/u-RXmILAmxs/]
 date: 2019-06-26
 featured_image: https://i.ytimg.com/vi/u-RXmILAmxs/mqdefault.jpg
+tags: [ shader,unity3d,livecode ]
 
 ---
 

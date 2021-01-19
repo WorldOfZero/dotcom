@@ -3,6 +3,7 @@ title: "Lets Make an Octree in Unity"
 aliases: [/v/m0guE7804to/]
 date: 2016-12-22
 featured_image: https://i.ytimg.com/vi/m0guE7804to/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

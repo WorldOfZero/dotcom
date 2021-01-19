@@ -3,6 +3,7 @@ title: "Ludum Dare 38 - World of Zero Live! - Day 3"
 aliases: [/v/CAh2qwyxEMM/]
 date: 2017-04-23
 featured_image: https://i.ytimg.com/vi/CAh2qwyxEMM/mqdefault.jpg
+tags: [ hackathon,livestream,unity3d,csharp,dotnet ]
 
 ---
 

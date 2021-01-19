@@ -1,8 +1,9 @@
 ---
 title: "Summer Slow Jam - Performance, A Game In A Stream - Part 1"
 aliases: [/v/lAU457ltT7A/]
-date: 2017-06-29
+date: 2017-07-19
 featured_image: https://i.ytimg.com/vi/lAU457ltT7A/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,livestream,hackathon,livecode ]
 
 ---
 

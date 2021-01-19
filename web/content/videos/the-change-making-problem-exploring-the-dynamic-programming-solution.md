@@ -3,6 +3,7 @@ title: "The Change-Making Problem - Exploring The Dynamic Programming Solution"
 aliases: [/v/tTUqVtznjag/]
 date: 2017-01-24
 featured_image: https://i.ytimg.com/vi/tTUqVtznjag/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Lets Make a Dissolving Shader"
 aliases: [/v/rGt9haUx-aQ/]
 date: 2017-09-15
 featured_image: https://i.ytimg.com/vi/rGt9haUx-aQ/mqdefault.jpg
+tags: [ unity3d,tutorial,shader ]
 
 ---
 

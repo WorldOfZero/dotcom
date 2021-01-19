@@ -3,6 +3,7 @@ title: "Better Projectiles with Gravity and Trajectory Prediction"
 aliases: [/v/d7pwmO6IS2I/]
 date: 2017-09-12
 featured_image: https://i.ytimg.com/vi/d7pwmO6IS2I/mqdefault.jpg
+tags: [ unity3d ]
 
 ---
 

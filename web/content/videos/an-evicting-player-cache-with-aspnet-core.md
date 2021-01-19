@@ -3,6 +3,7 @@ title: "An Evicting Player Cache with ASP.NET Core"
 aliases: [/v/yK2y2dpvZpI/]
 date: 2017-04-12
 featured_image: https://i.ytimg.com/vi/yK2y2dpvZpI/mqdefault.jpg
+tags: [ asp.net,dotnet ]
 
 ---
 

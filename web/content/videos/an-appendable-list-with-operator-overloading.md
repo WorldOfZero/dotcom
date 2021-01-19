@@ -1,8 +1,9 @@
 ---
 title: "An Appendable List with Operator Overloading"
 aliases: [/v/vavFf1Qiz20/]
-date: 2020-04-07
+date: 2020-04-09
 featured_image: https://i.ytimg.com/vi/vavFf1Qiz20/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

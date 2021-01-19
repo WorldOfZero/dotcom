@@ -1,8 +1,9 @@
 ---
 title: "Reflection Soup - Lets Make Unity Shell - Part 3"
 aliases: [/v/jDk0wYWFMXU/]
-date: 2017-07-28
+date: 2017-08-02
 featured_image: https://i.ytimg.com/vi/jDk0wYWFMXU/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tutorial ]
 
 ---
 

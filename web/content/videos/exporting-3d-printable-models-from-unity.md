@@ -3,6 +3,7 @@ title: "Exporting 3D Printable Models From Unity"
 aliases: [/v/EWpQCg8L5_Q/]
 date: 2017-08-24
 featured_image: https://i.ytimg.com/vi/EWpQCg8L5_Q/mqdefault.jpg
+tags: [ 3d printing,unity3d,csharp,dotnet ]
 
 ---
 

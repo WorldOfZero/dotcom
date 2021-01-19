@@ -1,8 +1,9 @@
 ---
 title: "Learning to Deserialize YAML in C# with YamlDotNET"
 aliases: [/v/KXj5pAzmka8/]
-date: 2021-01-03
+date: 2021-01-05
 featured_image: https://i.ytimg.com/vi/KXj5pAzmka8/mqdefault.jpg
+tags: [ csharp,dotnet,tutorial,livecode ]
 
 ---
 

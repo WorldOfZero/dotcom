@@ -3,6 +3,7 @@ title: "Getting Started With MonoGame"
 aliases: [/v/N6r87rGDFV8/]
 date: 2017-06-10
 featured_image: https://i.ytimg.com/vi/N6r87rGDFV8/mqdefault.jpg
+tags: [ monogame,csharp,dotnet ]
 
 ---
 

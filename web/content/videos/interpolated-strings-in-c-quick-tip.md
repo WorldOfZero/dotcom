@@ -3,6 +3,7 @@ title: "Interpolated Strings in C# - Quick Tip"
 aliases: [/v/xQYmSVbacG4/]
 date: 2019-02-08
 featured_image: https://i.ytimg.com/vi/xQYmSVbacG4/mqdefault.jpg
+tags: [ dotnet,csharp,tip,tutorial ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Struggling with Magnetometers"
 aliases: [/v/Am-7PSA8b40/]
 date: 2017-12-21
 featured_image: https://i.ytimg.com/vi/Am-7PSA8b40/mqdefault.jpg
+tags: [ arduino,tutorial ]
 
 ---
 

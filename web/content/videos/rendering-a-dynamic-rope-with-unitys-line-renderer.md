@@ -3,6 +3,7 @@ title: "Rendering a Dynamic Rope with Unity's Line Renderer"
 aliases: [/v/ej5mt4v9UKs/]
 date: 2016-12-09
 featured_image: https://i.ytimg.com/vi/ej5mt4v9UKs/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Hello Electron"
 aliases: [/v/GUuFfWrNFS0/]
 date: 2017-11-07
 featured_image: https://i.ytimg.com/vi/GUuFfWrNFS0/mqdefault.jpg
+tags: [ typescript,web ]
 
 ---
 

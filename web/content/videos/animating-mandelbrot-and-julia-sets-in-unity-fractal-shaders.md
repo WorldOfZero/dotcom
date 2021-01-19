@@ -3,6 +3,7 @@ title: "Animating Mandelbrot and Julia Sets in Unity - Fractal Shaders"
 aliases: [/v/njbJZZklyJc/]
 date: 2016-10-14
 featured_image: https://i.ytimg.com/vi/njbJZZklyJc/mqdefault.jpg
+tags: [ shader,csharp,dotnet,unity3d ]
 
 ---
 

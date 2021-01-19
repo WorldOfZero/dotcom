@@ -3,6 +3,7 @@ title: "Custom Lighting and Planet Shadows - Lets Make an Asteroid Belt- Part 3"
 aliases: [/v/gULMIk3zr4o/]
 date: 2017-02-02
 featured_image: https://i.ytimg.com/vi/gULMIk3zr4o/mqdefault.jpg
+tags: [ shader,tutorial ]
 
 ---
 

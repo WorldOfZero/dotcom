@@ -1,8 +1,9 @@
 ---
 title: "Rigidbody Top-Down Spaceship Controller"
 aliases: [/v/8-UBALp1xQc/]
-date: 2019-03-06
+date: 2019-03-07
 featured_image: https://i.ytimg.com/vi/8-UBALp1xQc/mqdefault.jpg
+tags: [ csharp,dotnet,unity3d,tutorial ]
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Can You Hear Me Now - Trying and Failing to Use Unity's Microphone"
 aliases: [/v/fOPJLeDI9ms/]
-date: 2018-08-03
+date: 2018-08-08
 featured_image: https://i.ytimg.com/vi/fOPJLeDI9ms/mqdefault.jpg
+tags: [ debugging,csharp,dotnet,unity3d ]
 
 ---
 

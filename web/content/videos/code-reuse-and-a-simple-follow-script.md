@@ -3,6 +3,7 @@ title: "Code Reuse and a Simple Follow Script"
 aliases: [/v/k9LxJarqHhE/]
 date: 2017-08-11
 featured_image: https://i.ytimg.com/vi/k9LxJarqHhE/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tutorial ]
 
 ---
 

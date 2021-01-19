@@ -3,6 +3,7 @@ title: "Experimenting With Rotated Pixels - Circle Pixel Shader - Part 5"
 aliases: [/v/-UIeB7OCw10/]
 date: 2019-06-28
 featured_image: https://i.ytimg.com/vi/-UIeB7OCw10/mqdefault.jpg
+tags: [ shader,livecode,debugging,opensource ]
 
 ---
 

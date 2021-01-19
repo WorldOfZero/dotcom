@@ -3,6 +3,7 @@ title: "What's the Time? - Game Jolt API - Part 3"
 aliases: [/v/5nzr6HqxFEU/]
 date: 2016-11-11
 featured_image: https://i.ytimg.com/vi/5nzr6HqxFEU/mqdefault.jpg
+tags: [ tutorial ]
 
 ---
 

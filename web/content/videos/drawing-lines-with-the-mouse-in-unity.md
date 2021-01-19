@@ -3,6 +3,7 @@ title: "Drawing Lines With The Mouse in Unity"
 aliases: [/v/km_kU-j7mcw/]
 date: 2018-02-22
 featured_image: https://i.ytimg.com/vi/km_kU-j7mcw/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,debugging ]
 
 ---
 

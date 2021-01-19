@@ -3,6 +3,7 @@ title: "Building and Drawing a Graph in Unity using Gizmos"
 aliases: [/v/zdHvM6XU4rY/]
 date: 2019-05-07
 featured_image: https://i.ytimg.com/vi/zdHvM6XU4rY/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tutorial ]
 
 ---
 

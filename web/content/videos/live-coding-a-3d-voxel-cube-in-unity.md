@@ -1,8 +1,9 @@
 ---
 title: "Live Coding a 3D Voxel Cube in Unity"
 aliases: [/v/laBPpyXfBWo/]
-date: 2018-07-11
+date: 2018-07-12
 featured_image: https://i.ytimg.com/vi/laBPpyXfBWo/mqdefault.jpg
+tags: [ livecode,csharp,unity3d,tutorial ]
 
 ---
 

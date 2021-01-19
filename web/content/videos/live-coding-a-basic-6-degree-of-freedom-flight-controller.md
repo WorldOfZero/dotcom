@@ -3,6 +3,7 @@ title: "Live Coding a Basic 6 Degree of Freedom Flight Controller"
 aliases: [/v/sCSnitP6xPo/]
 date: 2021-01-15
 featured_image: https://i.ytimg.com/vi/sCSnitP6xPo/mqdefault.jpg
+tags: [ csharp,dotnet,livecode,unity3d ]
 
 ---
 

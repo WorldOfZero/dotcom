@@ -1,8 +1,9 @@
 ---
 title: "Using Python and Argparse to Build Quick Scripts"
 aliases: [/v/cR1I2zYveRI/]
-date: 2018-05-24
+date: 2018-05-25
 featured_image: https://i.ytimg.com/vi/cR1I2zYveRI/mqdefault.jpg
+tags: [ shell ]
 
 ---
 

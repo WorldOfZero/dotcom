@@ -3,6 +3,7 @@ title: "Adding an Accent to our Contrast Shader - Lets Make a Side Scrolling Sho
 aliases: [/v/gu_bFoI2fIg/]
 date: 2018-07-05
 featured_image: https://i.ytimg.com/vi/gu_bFoI2fIg/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Lets Make a Pixelated Image Effect"
 aliases: [/v/9bTFVaKGIIQ/]
 date: 2017-04-18
 featured_image: https://i.ytimg.com/vi/9bTFVaKGIIQ/mqdefault.jpg
+tags: [ csharp,dotnet,unity3d,tutorial ]
 
 ---
 

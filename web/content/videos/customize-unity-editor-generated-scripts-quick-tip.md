@@ -3,6 +3,7 @@ title: "Customize Unity Editor Generated Scripts - Quick Tip"
 aliases: [/v/Q06cjdgWGmg/]
 date: 2020-03-24
 featured_image: https://i.ytimg.com/vi/Q06cjdgWGmg/mqdefault.jpg
+tags: [ tip,csharp,dotnet,unity3d ]
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Building Asteroids VR - Day 1"
 aliases: [/v/XGOL0aZB66Y/]
-date: 2019-06-03
+date: 2019-07-08
 featured_image: https://i.ytimg.com/vi/XGOL0aZB66Y/mqdefault.jpg
+tags: [ livestream,unity3d,csharp,dotnet,vr,xr,livecode ]
 
 ---
 

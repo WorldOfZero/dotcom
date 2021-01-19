@@ -1,8 +1,9 @@
 ---
 title: "Search Your Workspace in Visual Studio Code - Quick Tip"
 aliases: [/v/mhgdhfftBSc/]
-date: 2019-06-06
+date: 2019-06-17
 featured_image: https://i.ytimg.com/vi/mhgdhfftBSc/mqdefault.jpg
+tags: [ tip,tools ]
 
 ---
 

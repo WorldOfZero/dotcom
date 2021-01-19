@@ -3,6 +3,7 @@ title: "Manuel Particle Emission in Unity - Lets Make Data Sphere - Part 1"
 aliases: [/v/7ZGJlSCcp1c/]
 date: 2016-12-27
 featured_image: https://i.ytimg.com/vi/7ZGJlSCcp1c/mqdefault.jpg
+tags: [  ]
 
 ---
 

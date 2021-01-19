@@ -3,6 +3,7 @@ title: "Building GLSL Shaders in a Real Time Shader Editor - KodeLife"
 aliases: [/v/wHT5qdJYVe4/]
 date: 2018-03-30
 featured_image: https://i.ytimg.com/vi/wHT5qdJYVe4/mqdefault.jpg
+tags: [ shader,livecode,tools ]
 
 ---
 

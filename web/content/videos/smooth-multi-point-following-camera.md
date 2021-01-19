@@ -1,8 +1,9 @@
 ---
 title: "Smooth Multi-Point Following Camera"
 aliases: [/v/iccMGaIlE5o/]
-date: 2017-07-16
+date: 2017-07-17
 featured_image: https://i.ytimg.com/vi/iccMGaIlE5o/mqdefault.jpg
+tags: [ unity3d,tutorial,hackathon ]
 
 ---
 
