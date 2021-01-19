@@ -47,18 +47,21 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
         }
 
         public IEnumerable<string> Get(string key) {
-            if (synonymMap.ContainsKey(key)) {
-                return synonymMap[key];
+            var lowerKey = key.ToLowerInvariant();
+            if (synonymMap.ContainsKey(lowerKey)) {
+                return synonymMap[lowerKey];
             } else {
                 return new List<string>();
             }
         }
 
         private void AddElement(string key, string value) {
-            if (synonymMap.ContainsKey(key)) {
-                synonymMap[key].Add(value);
+            // Note: tag keys are stored in lowercase to avoid matching errors
+            var lowerKey = key.ToLowerInvariant();
+            if (synonymMap.ContainsKey(lowerKey)) {
+                synonymMap[lowerKey].Add(value);
             } else {
-                synonymMap.Add(key, new List<string>() { value });
+                synonymMap.Add(lowerKey, new List<string>() { value });
             }
         }
     }
