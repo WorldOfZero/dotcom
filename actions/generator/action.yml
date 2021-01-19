@@ -14,6 +14,9 @@ inputs:
   output:
     description: "Output Directory for generated files"
     required: true
+  tag-file:
+    description: "The path to the tag mapping yaml file"
+    required: true
 outputs:
   generated-videos-count: # id of output
     description: 'The number of videos generated from the script'
@@ -25,3 +28,4 @@ runs:
     - ${{ inputs.template-file }}
     - ${{ inputs.channel-id }}
     - ${{ inputs.output }}
+    - ${{ tag-file }}

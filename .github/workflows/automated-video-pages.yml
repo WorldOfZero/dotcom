@@ -20,6 +20,7 @@ jobs:
         template-file: ./actions/generator/generate-files-dotnet/video.md.template
         channel-id: "UCJKLCjeujQj-d3JjsbVtkJw"
         output: "./web/content/videos"
+        tag-file: ./tags.yaml
     # output generation results as separate task.
     - name: Generated Videos Results
       run: 'ls ./web/content/videos; echo "Total Videos generated: ${{ steps.generator.outputs.generated-videos-count }}"'
