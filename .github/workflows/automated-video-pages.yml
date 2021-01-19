@@ -1,3 +1,4 @@
+name: "Generate Content [YouTube]"
 on:
   # Used for manually triggering jobs
   workflow_dispatch:
@@ -35,6 +36,7 @@ jobs:
         branch: automated-video-update-patches
         delete-branch: true
         title: '[Automated] Update Video Files'
+        labels: "automation"
         body: |
           Updates video files with the generate-files command
           
