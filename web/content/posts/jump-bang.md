@@ -1,7 +1,7 @@
 ---
 title: Jump, Bang! on GameJolt
-draft: true
-description: 'Play Jump, Bang! on GameJolt'
+draft: false
+description: 'Play Jump, Bang! on GameJolt - split-screen competitive climbing with explosives.'
 date: 2017-09-01
 tags:
 - game

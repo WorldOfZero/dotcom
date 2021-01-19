@@ -55,7 +55,11 @@ tags:
   - name: "kubernetes"
     synonyms:
     - "k8s"
+    - "kubectl"
+    - "kpt"
+    - "kustomize"
     - "helm"
+    - "prow"
     - "anthos"
     - "aks"
     - "gke"
@@ -192,7 +196,6 @@ tags:
     synonyms:
     - "live"
     - "live stream"
-    - "livestream"
   - name: "design"
     synonyms:
     - "system design"

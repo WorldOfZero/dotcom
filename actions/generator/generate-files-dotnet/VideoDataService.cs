@@ -4,6 +4,7 @@ using Google.Apis.YouTube.v3.Data;
 using Serilog;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace WorldOfZero.DotCom.Generator.VideoExporter
@@ -21,7 +22,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             });
         }
 
-        public async Task<IEnumerable<PlaylistItem>> GetAll(string channelId)
+        public async Task<IEnumerable<Video>> GetAll(string channelId)
         {
             var channelsListRequest = youtubeService.Channels.List("contentDetails");
             channelsListRequest.Id = channelId;
@@ -29,7 +30,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             // Retrieve the contentDetails part of the channel resource for the authenticated user's channel.
             var channelsListResponse = await channelsListRequest.ExecuteAsync();
 
-            var discoveredPlaylists = new List<PlaylistItem>();
+            var discoveredPlaylists = new List<Video>();
             foreach (var channel in channelsListResponse.Items)
             {
                 // From the API response, extract the playlist ID that identifies the list
@@ -46,9 +47,9 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             return discoveredPlaylists;
         }
 
-        private async Task<string> FetchPartialPlaylistVideos(YouTubeService youtubeService, List<PlaylistItem> discovered, string uploadsListId, string nextPageToken)
+        private async Task<string> FetchPartialPlaylistVideos(YouTubeService youtubeService, List<Video> discovered, string uploadsListId, string nextPageToken)
         {
-            var playlistItemsListRequest = youtubeService.PlaylistItems.List("contentDetails,snippet");
+            var playlistItemsListRequest = youtubeService.PlaylistItems.List("contentDetails");
             playlistItemsListRequest.PlaylistId = uploadsListId;
             playlistItemsListRequest.MaxResults = 50;
             playlistItemsListRequest.PageToken = nextPageToken;
@@ -58,8 +59,15 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
 
             foreach (var playlistItem in playlistItemsListResponse.Items)
             {
-                Log.Debug($"Found playlist item: {playlistItem.Snippet.ResourceId.VideoId} - {playlistItem.Snippet.Title}");
-                discovered.Add(playlistItem);
+                var vidTask = youtubeService.Videos.List("snippet,contentDetails");
+                vidTask.Id = playlistItem.ContentDetails.VideoId;
+                var videoList = await vidTask.ExecuteAsync();
+                foreach(var video in videoList.Items) {
+                    Log.Debug($"Found playlist item: {video.Id} - {video.Snippet.Title} - {video.Snippet.Tags.Count} tags");
+                    // Quote tags to prevent errors in yaml encoding
+                    video.Snippet.Tags = video.Snippet.Tags.Select(t => $"\"{t}\"").ToList();
+                    discovered.Add(video);
+                }
             }
 
             nextPageToken = playlistItemsListResponse.NextPageToken;
