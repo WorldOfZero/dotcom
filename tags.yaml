@@ -11,11 +11,22 @@ tags:
     synonyms:
     - "godot (game engine)"
     - "godot engine"
-  - name: "c#"
+  - name: "unreal"
     synonyms:
-    - "csharp"
+    - "udk"
+    - "unreal engine"
+    - "unreal (game engine)"
+  - name: "csharp"
+    synonyms:
+    - "c#"
+  - name: "dotnet"
+    synonyms:
+    - "c#"
+    - "f#"
+    - "visual basic"
     - "dotnet"
     - ".net"
+    - ".net core"
     - ".net framework"
   - name: "typescript"
     synonyms:
@@ -146,9 +157,6 @@ tags:
     - "digital ocean"
     - "netlify"
     - "cloud-native"
-  - name: "kubernetes"
-    synonyms:
-    - "k8s"
   - name: "game"
   - name: "app"
   - name: "tip"
