@@ -43,6 +43,14 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             var videos = await videoService.GetAll(ChannelId);
 
             Log.Information($"Retrieved {videos.Count()} videos for {ChannelId}");
+
+            // Replace Video Tags
+            var tagSet = await TagConstructor.ParseTagSetFromFile(TagFile);
+            var searchableTagSet = new SearchableTagSet(tagSet);
+            foreach(var video in videos) {
+                video.Snippet.Tags = new List<string>(TagConstructor.ExpandTags(video.Snippet.Tags, searchableTagSet).Distinct());
+            }
+
             // Write files in a async batch - there is a risk here:
             // - Two videos may generate the same name, this would create a race condition
             var fileGenerator = new FileGenerator(Template);
@@ -51,7 +59,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             var fileTaskList = new List<Task<string>>();
             foreach (var video in videos)
             {
-                 fileTaskList.Add(fileGenerator.Write(OutputLocation, video));
+                fileTaskList.Add(fileGenerator.Write(OutputLocation, video));
             }
             Task.WaitAll(fileTaskList.ToArray());
             Log.Information($"Batch has completed.");
