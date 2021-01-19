@@ -1,8 +1,9 @@
 ---
 title: "Lets Make VR Asteroids"
 aliases: [/v/v1D8kVHcZhI/]
-date: 2016-10-22
+date: 2016-10-24
 featured_image: https://i.ytimg.com/vi/v1D8kVHcZhI/mqdefault.jpg
+tags: [ vr,xr,livestream,unity3d,tutorial ]
 
 ---
 

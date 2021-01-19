@@ -1,8 +1,9 @@
 ---
 title: "Skateboard Locomotion? - Exploring New Ways to Move With Vive Trackers"
 aliases: [/v/vxyfFHP4UNU/]
-date: 2017-11-30
+date: 2017-12-01
 featured_image: https://i.ytimg.com/vi/vxyfFHP4UNU/mqdefault.jpg
+tags: [ vr,xr,unity3d,csharp,dotnet,livecode ]
 
 ---
 

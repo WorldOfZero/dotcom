@@ -3,6 +3,7 @@ title: "Building a Basic Flight Controller - Lets Make a Side Scrolling Shooter 
 aliases: [/v/xO2LTbAMFNQ/]
 date: 2018-06-15
 featured_image: https://i.ytimg.com/vi/xO2LTbAMFNQ/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

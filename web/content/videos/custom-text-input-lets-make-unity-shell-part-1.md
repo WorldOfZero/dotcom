@@ -1,8 +1,9 @@
 ---
 title: "Custom Text Input - Lets Make Unity Shell - Part 1"
 aliases: [/v/xJi5R3rxzPU/]
-date: 2017-06-25
+date: 2017-06-26
 featured_image: https://i.ytimg.com/vi/xJi5R3rxzPU/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

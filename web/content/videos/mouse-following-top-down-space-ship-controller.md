@@ -3,6 +3,7 @@ title: "Mouse Following Top-Down Space Ship Controller"
 aliases: [/v/yOnth9uTLlA/]
 date: 2019-03-26
 featured_image: https://i.ytimg.com/vi/yOnth9uTLlA/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tutorial ]
 
 ---
 

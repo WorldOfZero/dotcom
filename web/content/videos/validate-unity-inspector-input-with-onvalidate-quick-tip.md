@@ -1,8 +1,9 @@
 ---
 title: "Validate Unity Inspector Input with OnValidate - Quick Tip"
 aliases: [/v/Jrqu7clRpec/]
-date: 2019-04-15
+date: 2019-04-16
 featured_image: https://i.ytimg.com/vi/Jrqu7clRpec/mqdefault.jpg
+tags: [ unity3d,tip,tutorial ]
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Experimenting with Obstacle Avoidance in Unity 3D"
 aliases: [/v/SVazwHyfB7g/]
-date: 2020-09-24
+date: 2020-09-25
 featured_image: https://i.ytimg.com/vi/SVazwHyfB7g/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tutorial ]
 
 ---
 

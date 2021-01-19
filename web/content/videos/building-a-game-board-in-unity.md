@@ -1,8 +1,9 @@
 ---
 title: "Building a Game Board in Unity"
 aliases: [/v/SIsMR5OYM8c/]
-date: 2018-06-14
+date: 2018-06-23
 featured_image: https://i.ytimg.com/vi/SIsMR5OYM8c/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,game ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Solving FizzBuzz with C#'s Pattern Matching Switch Statements"
 aliases: [/v/68ko-chyM2E/]
 date: 2020-03-31
 featured_image: https://i.ytimg.com/vi/68ko-chyM2E/mqdefault.jpg
+tags: [ csharp,dotnet,livecode ]
 
 ---
 

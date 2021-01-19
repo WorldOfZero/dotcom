@@ -3,6 +3,7 @@ title: "Fetching Game Jolt User Data - Game Jolt API - Part 4"
 aliases: [/v/H81QVd_c2Z0/]
 date: 2017-03-21
 featured_image: https://i.ytimg.com/vi/H81QVd_c2Z0/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

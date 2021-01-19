@@ -1,8 +1,9 @@
 ---
 title: "An Abstraction of our Character Controller"
 aliases: [/v/emzftWxwS1c/]
-date: 2020-03-21
+date: 2020-03-24
 featured_image: https://i.ytimg.com/vi/emzftWxwS1c/mqdefault.jpg
+tags: [ unity3d,test,codehealth,csharp,dotnet,livecode ]
 
 ---
 

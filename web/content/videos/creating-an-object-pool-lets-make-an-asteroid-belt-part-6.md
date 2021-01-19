@@ -3,6 +3,7 @@ title: "Creating an Object Pool - Lets Make an Asteroid Belt- Part 6"
 aliases: [/v/X9Tqng-g2DQ/]
 date: 2017-03-02
 featured_image: https://i.ytimg.com/vi/X9Tqng-g2DQ/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

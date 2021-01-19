@@ -3,6 +3,7 @@ title: "Implementing C# Extension Methods"
 aliases: [/v/nxyabkSlQW4/]
 date: 2020-11-20
 featured_image: https://i.ytimg.com/vi/nxyabkSlQW4/mqdefault.jpg
+tags: [ csharp,dotnet,tutorial ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Bulk Insertion into a Quadtree - Lets Make 2D Voxel Terrain - Part 7"
 aliases: [/v/6WYm8DT97Kg/]
 date: 2017-02-09
 featured_image: https://i.ytimg.com/vi/6WYm8DT97Kg/mqdefault.jpg
+tags: [ tutorial,unity3d ]
 
 ---
 

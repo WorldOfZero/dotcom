@@ -3,6 +3,7 @@ title: "Lets Make Spawning Objects with Raycasts and Keyboard Events"
 aliases: [/v/9W5f0BirXjI/]
 date: 2017-06-17
 featured_image: https://i.ytimg.com/vi/9W5f0BirXjI/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

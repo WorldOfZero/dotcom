@@ -3,6 +3,7 @@ title: "Exploring a Trochoidal Wave Shader"
 aliases: [/v/moR3wly4S5Y/]
 date: 2020-03-20
 featured_image: https://i.ytimg.com/vi/moR3wly4S5Y/mqdefault.jpg
+tags: [ shader,unity3d,tutorial,livecode ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Runtime C# Scripting - Embedding the .NET Roslyn Compiler in Unity"
 aliases: [/v/YtzYkoWhrTk/]
 date: 2020-02-21
 featured_image: https://i.ytimg.com/vi/YtzYkoWhrTk/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet ]
 
 ---
 

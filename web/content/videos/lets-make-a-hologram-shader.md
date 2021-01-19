@@ -3,6 +3,7 @@ title: "Lets Make a Hologram Shader"
 aliases: [/v/vlYGmVC_Qzg/]
 date: 2017-08-17
 featured_image: https://i.ytimg.com/vi/vlYGmVC_Qzg/mqdefault.jpg
+tags: [ unity3d,shader ]
 
 ---
 

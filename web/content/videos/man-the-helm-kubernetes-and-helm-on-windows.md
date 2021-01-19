@@ -1,8 +1,9 @@
 ---
 title: "Man the Helm! - Kubernetes and Helm on Windows"
 aliases: [/v/U7H6KpCmckI/]
-date: 2017-11-26
+date: 2017-11-27
 featured_image: https://i.ytimg.com/vi/U7H6KpCmckI/mqdefault.jpg
+tags: [ kubernetes,powershell ]
 
 ---
 

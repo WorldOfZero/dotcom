@@ -3,6 +3,7 @@ title: "Enumerable Parsing - Lets Make Unity Shell - Part 4"
 aliases: [/v/2NQ2qTrxnCE/]
 date: 2017-08-03
 featured_image: https://i.ytimg.com/vi/2NQ2qTrxnCE/mqdefault.jpg
+tags: [ unity3d,tutorial ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Exploring Gui.cs - Custom Terminal UI's in .NET"
 aliases: [/v/sVYiDboAe_E/]
 date: 2020-02-20
 featured_image: https://i.ytimg.com/vi/sVYiDboAe_E/mqdefault.jpg
+tags: [ csharp,dotnet,shell,tutorial ]
 
 ---
 

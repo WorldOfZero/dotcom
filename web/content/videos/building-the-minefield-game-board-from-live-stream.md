@@ -1,8 +1,9 @@
 ---
 title: "Building The Minefield Game Board - From Live Stream"
 aliases: [/v/CBFVvpzEcwY/]
-date: 2020-05-13
+date: 2020-05-17
 featured_image: https://i.ytimg.com/vi/CBFVvpzEcwY/mqdefault.jpg
+tags: [ livestream,livecode,unity3d,test,codehealth,csharp,dotnet ]
 
 ---
 

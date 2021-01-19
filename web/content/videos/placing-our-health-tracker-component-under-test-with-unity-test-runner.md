@@ -1,8 +1,9 @@
 ---
 title: "Placing our Health Tracker Component Under Test with Unity Test Runner"
 aliases: [/v/XdlBSXIcMvA/]
-date: 2019-04-03
+date: 2019-04-09
 featured_image: https://i.ytimg.com/vi/XdlBSXIcMvA/mqdefault.jpg
+tags: [ unity3d,livecode,test,codehealth ]
 
 ---
 

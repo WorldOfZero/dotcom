@@ -3,6 +3,7 @@ title: "Dynamic Game Speed - Unity Quick Tip"
 aliases: [/v/6zACdGL10Dc/]
 date: 2020-01-21
 featured_image: https://i.ytimg.com/vi/6zACdGL10Dc/mqdefault.jpg
+tags: [ tip,tutorial,unity3d,csharp,dotnet ]
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Getting Started With Compute Shaders in Unity"
 aliases: [/v/4Wh8GRrz7WA/]
-date: 2017-04-26
+date: 2017-04-27
 featured_image: https://i.ytimg.com/vi/4Wh8GRrz7WA/mqdefault.jpg
+tags: [ unity3d ]
 
 ---
 

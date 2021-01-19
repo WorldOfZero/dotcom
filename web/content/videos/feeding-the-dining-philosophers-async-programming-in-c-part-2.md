@@ -3,6 +3,7 @@ title: "Feeding the Dining Philosophers - Async Programming in C# - Part 2"
 aliases: [/v/wD9nM7IoabA/]
 date: 2016-12-23
 featured_image: https://i.ytimg.com/vi/wD9nM7IoabA/mqdefault.jpg
+tags: [  ]
 
 ---
 

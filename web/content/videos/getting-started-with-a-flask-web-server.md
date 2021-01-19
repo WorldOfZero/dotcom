@@ -3,6 +3,7 @@ title: "Getting Started With a Flask Web Server"
 aliases: [/v/9rWVDuzyaX0/]
 date: 2017-11-15
 featured_image: https://i.ytimg.com/vi/9rWVDuzyaX0/mqdefault.jpg
+tags: [ tutorial ]
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "3D Printing a Sticky Note Holder in 3D Builder"
 aliases: [/v/j1i68gUqIQg/]
-date: 2017-09-26
+date: 2017-09-27
 featured_image: https://i.ytimg.com/vi/j1i68gUqIQg/mqdefault.jpg
+tags: [ 3d printing ]
 
 ---
 

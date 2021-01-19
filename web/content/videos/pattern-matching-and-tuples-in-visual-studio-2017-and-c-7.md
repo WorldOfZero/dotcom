@@ -3,6 +3,7 @@ title: "Pattern Matching and Tuples in Visual Studio 2017 and C# 7"
 aliases: [/v/PQucU3VFiBA/]
 date: 2017-03-09
 featured_image: https://i.ytimg.com/vi/PQucU3VFiBA/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

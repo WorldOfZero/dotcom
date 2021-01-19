@@ -3,6 +3,7 @@ title: "Connecting a .NET Core Console App to Unity with TCP - Lets Make Data Sp
 aliases: [/v/34_ExFKs_GY/]
 date: 2016-12-29
 featured_image: https://i.ytimg.com/vi/34_ExFKs_GY/mqdefault.jpg
+tags: [  ]
 
 ---
 

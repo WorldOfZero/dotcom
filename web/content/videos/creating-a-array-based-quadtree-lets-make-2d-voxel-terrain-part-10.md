@@ -3,6 +3,7 @@ title: "Creating a Array Based Quadtree - Lets Make 2D Voxel Terrain - Part 10"
 aliases: [/v/yWXyBgegm2U/]
 date: 2017-03-07
 featured_image: https://i.ytimg.com/vi/yWXyBgegm2U/mqdefault.jpg
+tags: [ tutorial,unity3d ]
 
 ---
 

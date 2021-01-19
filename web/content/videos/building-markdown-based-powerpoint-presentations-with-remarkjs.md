@@ -1,8 +1,9 @@
 ---
 title: "Building Markdown Based Powerpoint Presentations with Remark.JS"
 aliases: [/v/khyn-f1hvBo/]
-date: 2018-05-30
+date: 2018-05-31
 featured_image: https://i.ytimg.com/vi/khyn-f1hvBo/mqdefault.jpg
+tags: [ typescript,web,livecode ]
 
 ---
 

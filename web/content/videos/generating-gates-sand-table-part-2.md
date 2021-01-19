@@ -3,6 +3,7 @@ title: "Generating Gates - Sand Table - Part 2"
 aliases: [/v/YHNhL5lfur0/]
 date: 2020-03-13
 featured_image: https://i.ytimg.com/vi/YHNhL5lfur0/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,livecode ]
 
 ---
 

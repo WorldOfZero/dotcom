@@ -3,6 +3,7 @@ title: "An Intro to Unity - Flappy Cube Tutorial - Part 1"
 aliases: [/v/X7UZYAdgKvI/]
 date: 2016-11-17
 featured_image: https://i.ytimg.com/vi/X7UZYAdgKvI/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

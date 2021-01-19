@@ -1,8 +1,9 @@
 ---
 title: "THE QUEST FOR FUN - #MeatlyJam LIVE STREAM"
 aliases: [/v/rQICGAbSPtY/]
-date: 2016-08-16
+date: 2016-09-24
 featured_image: https://i.ytimg.com/vi/rQICGAbSPtY/mqdefault.jpg
+tags: [ hackathon,unity3d,livestream ]
 
 ---
 

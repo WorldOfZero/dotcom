@@ -3,6 +3,7 @@ title: "Filling the Quadtree - Let's Make 2D Voxel Terrain - Part 3"
 aliases: [/v/I_h3VaRVSZc/]
 date: 2017-01-31
 featured_image: https://i.ytimg.com/vi/I_h3VaRVSZc/mqdefault.jpg
+tags: [ csharp,dotnet,unity3d ]
 
 ---
 

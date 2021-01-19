@@ -3,6 +3,7 @@ title: "Unit Testing in Unity Using the Unity Test Runner"
 aliases: [/v/4hwMmdbnH90/]
 date: 2018-02-20
 featured_image: https://i.ytimg.com/vi/4hwMmdbnH90/mqdefault.jpg
+tags: [ unity3d,test,codehealth,csharp,dotnet ]
 
 ---
 

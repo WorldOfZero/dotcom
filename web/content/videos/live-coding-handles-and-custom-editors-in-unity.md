@@ -1,8 +1,9 @@
 ---
 title: "Live Coding Handles and Custom Editors in Unity"
 aliases: [/v/3efiobxsurY/]
-date: 2019-05-13
+date: 2019-05-14
 featured_image: https://i.ytimg.com/vi/3efiobxsurY/mqdefault.jpg
+tags: [ unity3d,livecode ]
 
 ---
 

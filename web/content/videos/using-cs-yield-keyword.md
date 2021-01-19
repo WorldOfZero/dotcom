@@ -3,6 +3,7 @@ title: "Using C#'s Yield Keyword"
 aliases: [/v/bsZjfuTrPSA/]
 date: 2019-08-28
 featured_image: https://i.ytimg.com/vi/bsZjfuTrPSA/mqdefault.jpg
+tags: [ csharp,dotnet,tutorial ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Sending Array's To Shaders - Lets Make an Energy Shield - Part 1"
 aliases: [/v/NeZcAYJdkv4/]
 date: 2017-09-29
 featured_image: https://i.ytimg.com/vi/NeZcAYJdkv4/mqdefault.jpg
+tags: [ unity3d,shader ]
 
 ---
 

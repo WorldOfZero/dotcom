@@ -1,8 +1,9 @@
 ---
 title: "Learning Unity's XR Input System"
 aliases: [/v/_H0sYjDx4U0/]
-date: 2019-07-12
+date: 2019-07-18
 featured_image: https://i.ytimg.com/vi/_H0sYjDx4U0/mqdefault.jpg
+tags: [ vr,xr,livecode,unity3d,csharp,dotnet ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "A Dynamically Changing Background and a Firm Foundation - Lets Make a Bi
 aliases: [/v/c5DcxhTqKjw/]
 date: 2017-01-11
 featured_image: https://i.ytimg.com/vi/c5DcxhTqKjw/mqdefault.jpg
+tags: [ uwp,csharp,dotnet ]
 
 ---
 

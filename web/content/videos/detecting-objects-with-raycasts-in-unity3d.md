@@ -1,8 +1,9 @@
 ---
 title: "Detecting Objects with Raycasts in Unity3D"
 aliases: [/v/vqc9f7HU-Vc/]
-date: 2020-11-25
+date: 2020-12-04
 featured_image: https://i.ytimg.com/vi/vqc9f7HU-Vc/mqdefault.jpg
+tags: [ unity3d,tutorial,csharp,dotnet ]
 
 ---
 

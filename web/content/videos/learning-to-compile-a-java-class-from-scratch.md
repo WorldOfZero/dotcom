@@ -1,8 +1,9 @@
 ---
 title: "Learning to Compile a Java Class From Scratch"
 aliases: [/v/6O9QEh924h8/]
-date: 2019-08-12
+date: 2019-08-13
 featured_image: https://i.ytimg.com/vi/6O9QEh924h8/mqdefault.jpg
+tags: [ java ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Collaborative Coding with Visual Studio Live Share"
 aliases: [/v/7luOiKKZa-w/]
 date: 2018-06-19
 featured_image: https://i.ytimg.com/vi/7luOiKKZa-w/mqdefault.jpg
+tags: [ dotnet ]
 
 ---
 

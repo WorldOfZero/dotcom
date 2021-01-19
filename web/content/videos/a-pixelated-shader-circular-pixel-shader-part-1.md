@@ -1,8 +1,9 @@
 ---
 title: "A Pixelated Shader - Circular Pixel Shader - Part 1"
 aliases: [/v/mNyZKyVfPeU/]
-date: 2019-06-20
+date: 2019-06-21
 featured_image: https://i.ytimg.com/vi/mNyZKyVfPeU/mqdefault.jpg
+tags: [ shader,unity3d,opensource,livecode ]
 
 ---
 

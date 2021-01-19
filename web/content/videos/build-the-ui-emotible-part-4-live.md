@@ -1,8 +1,9 @@
 ---
 title: "Build the UI - Emotible - Part 4 Live!"
 aliases: [/v/9CdN01o7JSE/]
-date: 2016-10-04
+date: 2016-10-12
 featured_image: https://i.ytimg.com/vi/9CdN01o7JSE/mqdefault.jpg
+tags: [ livestream,uwp ]
 
 ---
 

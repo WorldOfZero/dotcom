@@ -1,8 +1,9 @@
 ---
 title: "Inline Initializing C# Lists - Quick Tip"
 aliases: [/v/F11BhVjmyd0/]
-date: 2019-02-09
+date: 2019-02-12
 featured_image: https://i.ytimg.com/vi/F11BhVjmyd0/mqdefault.jpg
+tags: [ tip,dotnet,csharp,tutorial ]
 
 ---
 

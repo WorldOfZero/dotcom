@@ -1,8 +1,9 @@
 ---
 title: "Exploring Zenject - Learning how to use Dependency Injection in Unity"
 aliases: [/v/e0KWsizPYAw/]
-date: 2019-09-20
+date: 2019-09-24
 featured_image: https://i.ytimg.com/vi/e0KWsizPYAw/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,opensource ]
 
 ---
 

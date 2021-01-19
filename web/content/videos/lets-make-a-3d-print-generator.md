@@ -3,6 +3,7 @@ title: "Lets Make a 3D Print Generator"
 aliases: [/v/M6nHIAK83vQ/]
 date: 2017-06-01
 featured_image: https://i.ytimg.com/vi/M6nHIAK83vQ/mqdefault.jpg
+tags: [ 3d printing,csharp,dotnet ]
 
 ---
 

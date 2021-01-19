@@ -3,6 +3,7 @@ title: "A Portal To Space - Writing A Transparent Portal Shader in Unity"
 aliases: [/v/wkIxM4dmPCM/]
 date: 2016-11-02
 featured_image: https://i.ytimg.com/vi/wkIxM4dmPCM/mqdefault.jpg
+tags: [ shader,tutorial ]
 
 ---
 

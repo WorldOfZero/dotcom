@@ -3,6 +3,7 @@ title: "Combining Refraction and Energy Shield - Lets Make an Energy Shield - Pa
 aliases: [/v/SzDsrollcxs/]
 date: 2018-01-03
 featured_image: https://i.ytimg.com/vi/SzDsrollcxs/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

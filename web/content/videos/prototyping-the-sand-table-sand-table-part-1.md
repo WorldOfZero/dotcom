@@ -1,8 +1,9 @@
 ---
 title: "Prototyping the Sand Table - Sand Table - Part 1"
 aliases: [/v/B4MU1_Ijo4k/]
-date: 2020-01-10
+date: 2020-01-17
 featured_image: https://i.ytimg.com/vi/B4MU1_Ijo4k/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,livecode ]
 
 ---
 

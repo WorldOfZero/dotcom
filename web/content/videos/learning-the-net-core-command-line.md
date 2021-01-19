@@ -3,6 +3,7 @@ title: "Learning The .NET Core Command Line"
 aliases: [/v/YkguKCDY6h8/]
 date: 2019-06-24
 featured_image: https://i.ytimg.com/vi/YkguKCDY6h8/mqdefault.jpg
+tags: [ dotnet,livecode,shell,powershell,tools,csharp,tutorial ]
 
 ---
 

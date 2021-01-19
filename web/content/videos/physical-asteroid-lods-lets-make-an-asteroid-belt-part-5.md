@@ -3,6 +3,7 @@ title: "Physical Asteroid LODs - Lets Make an Asteroid Belt - Part 5"
 aliases: [/v/zZmo0Az0SVg/]
 date: 2017-03-01
 featured_image: https://i.ytimg.com/vi/zZmo0Az0SVg/mqdefault.jpg
+tags: [ unity3d,tutorial ]
 
 ---
 

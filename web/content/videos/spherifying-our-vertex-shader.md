@@ -3,6 +3,7 @@ title: "Spherifying Our Vertex Shader"
 aliases: [/v/sb51BFBdz_M/]
 date: 2017-07-14
 featured_image: https://i.ytimg.com/vi/sb51BFBdz_M/mqdefault.jpg
+tags: [ unity3d,shader,tutorial ]
 
 ---
 

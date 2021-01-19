@@ -1,8 +1,9 @@
 ---
 title: "Lets Make Jetpacking in Virtual Reality!"
 aliases: [/v/bhm8obuJyd0/]
-date: 2016-10-13
+date: 2016-10-22
 featured_image: https://i.ytimg.com/vi/bhm8obuJyd0/mqdefault.jpg
+tags: [ vr,xr,livestream,unity3d,tutorial ]
 
 ---
 

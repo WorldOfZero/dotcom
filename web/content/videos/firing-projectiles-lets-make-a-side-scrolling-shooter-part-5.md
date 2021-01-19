@@ -1,8 +1,9 @@
 ---
 title: "Firing Projectiles - Lets Make a Side Scrolling Shooter - Part 5"
 aliases: [/v/7FXrK8-7sP4/]
-date: 2018-07-10
+date: 2018-07-11
 featured_image: https://i.ytimg.com/vi/7FXrK8-7sP4/mqdefault.jpg
+tags: [ unity3d,csharp ]
 
 ---
 

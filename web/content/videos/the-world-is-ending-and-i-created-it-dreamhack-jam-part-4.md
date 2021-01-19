@@ -1,8 +1,9 @@
 ---
 title: "The World Is Ending And I Created It - DreamHack Jam - Part 4"
 aliases: [/v/sVYJCL8drOw/]
-date: 2017-10-01
+date: 2017-10-02
 featured_image: https://i.ytimg.com/vi/sVYJCL8drOw/mqdefault.jpg
+tags: [ hackathon,livestream,unity3d,csharp,dotnet ]
 
 ---
 

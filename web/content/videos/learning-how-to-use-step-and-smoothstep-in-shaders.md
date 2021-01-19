@@ -1,8 +1,9 @@
 ---
 title: "Learning How To Use Step and Smoothstep in Shaders"
 aliases: [/v/-vGNd8pnbYs/]
-date: 2018-11-16
+date: 2018-11-17
 featured_image: https://i.ytimg.com/vi/-vGNd8pnbYs/mqdefault.jpg
+tags: [ shader,unity3d,tutorial ]
 
 ---
 

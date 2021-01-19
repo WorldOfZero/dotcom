@@ -1,8 +1,9 @@
 ---
 title: "Writing Our Own Diffuse Lighting Shader"
 aliases: [/v/4XfXOEDzBx4/]
-date: 2019-07-24
+date: 2019-07-26
 featured_image: https://i.ytimg.com/vi/4XfXOEDzBx4/mqdefault.jpg
+tags: [ shader,livecode ]
 
 ---
 

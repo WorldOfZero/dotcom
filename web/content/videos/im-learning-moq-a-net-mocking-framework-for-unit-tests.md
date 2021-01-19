@@ -1,8 +1,9 @@
 ---
 title: "I'm Learning Moq - A .NET Mocking Framework for Unit Tests"
 aliases: [/v/EJZ2xWGfFQw/]
-date: 2020-03-27
+date: 2020-04-02
 featured_image: https://i.ytimg.com/vi/EJZ2xWGfFQw/mqdefault.jpg
+tags: [ csharp,dotnet,test,codehealth,livecode ]
 
 ---
 

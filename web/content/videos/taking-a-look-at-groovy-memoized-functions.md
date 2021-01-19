@@ -3,6 +3,7 @@ title: "Taking a Look at Groovy @Memoized Functions"
 aliases: [/v/90YDpzoeGEk/]
 date: 2018-04-11
 featured_image: https://i.ytimg.com/vi/90YDpzoeGEk/mqdefault.jpg
+tags: [ livecode ]
 
 ---
 

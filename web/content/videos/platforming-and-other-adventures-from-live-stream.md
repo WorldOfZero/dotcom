@@ -1,8 +1,9 @@
 ---
 title: "Platforming and Other Adventures from Live Stream"
 aliases: [/v/Z5WREogznj8/]
-date: 2019-07-15
+date: 2019-10-15
 featured_image: https://i.ytimg.com/vi/Z5WREogznj8/mqdefault.jpg
+tags: [ livestream,unity3d,csharp,dotnet,livecode ]
 
 ---
 

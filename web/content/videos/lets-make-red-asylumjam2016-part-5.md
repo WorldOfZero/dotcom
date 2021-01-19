@@ -3,6 +3,7 @@ title: "Let's Make Red - #AsylumJam2016  - Part 5"
 aliases: [/v/nzPIQwaM0yc/]
 date: 2016-11-13
 featured_image: https://i.ytimg.com/vi/nzPIQwaM0yc/mqdefault.jpg
+tags: [ hackathon,livestream,unity3d ]
 
 ---
 

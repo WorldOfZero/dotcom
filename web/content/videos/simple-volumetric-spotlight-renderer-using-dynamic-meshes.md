@@ -3,6 +3,7 @@ title: "Simple Volumetric Spotlight Renderer Using Dynamic Meshes"
 aliases: [/v/nX682vFtT6I/]
 date: 2017-10-04
 featured_image: https://i.ytimg.com/vi/nX682vFtT6I/mqdefault.jpg
+tags: [ unity3d,tutorial,csharp,dotnet ]
 
 ---
 

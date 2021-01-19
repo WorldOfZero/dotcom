@@ -1,8 +1,9 @@
 ---
 title: "Walls In The Snow - Dynamic Snow in Unity - Part 2"
 aliases: [/v/ksgUOfHP5do/]
-date: 2018-02-07
+date: 2018-02-08
 featured_image: https://i.ytimg.com/vi/ksgUOfHP5do/mqdefault.jpg
+tags: [ unity3d ]
 
 ---
 

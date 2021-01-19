@@ -3,6 +3,7 @@ title: "Rotation Math Tricks - Using Unity's Quaternion Operators"
 aliases: [/v/O4qPd5kdjgc/]
 date: 2021-01-12
 featured_image: https://i.ytimg.com/vi/O4qPd5kdjgc/mqdefault.jpg
+tags: [ unity3d,csharp,dotnet,tip ]
 
 ---
 

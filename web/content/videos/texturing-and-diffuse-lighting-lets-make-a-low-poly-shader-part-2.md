@@ -3,6 +3,7 @@ title: "Texturing and Diffuse Lighting  - Lets Make a Low Poly Shader  - Part 2"
 aliases: [/v/SDH9GBc1D9M/]
 date: 2017-02-16
 featured_image: https://i.ytimg.com/vi/SDH9GBc1D9M/mqdefault.jpg
+tags: [  ]
 
 ---
 

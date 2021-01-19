@@ -3,6 +3,7 @@ title: "My .STL Generator Breaks in Germany (and other countries), Lets Fix That
 aliases: [/v/3GQdDiym1V0/]
 date: 2020-05-13
 featured_image: https://i.ytimg.com/vi/3GQdDiym1V0/mqdefault.jpg
+tags: [ csharp,dotnet,livecode,debugging,opensource,3d printing,unity3d ]
 
 ---
 

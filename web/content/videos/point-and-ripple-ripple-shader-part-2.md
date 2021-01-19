@@ -1,8 +1,9 @@
 ---
 title: "Point and Ripple - Ripple Shader - Part 2"
 aliases: [/v/UVdXUXv3Bw8/]
-date: 2018-10-02
+date: 2018-10-03
 featured_image: https://i.ytimg.com/vi/UVdXUXv3Bw8/mqdefault.jpg
+tags: [ shader,unity3d ]
 
 ---
 

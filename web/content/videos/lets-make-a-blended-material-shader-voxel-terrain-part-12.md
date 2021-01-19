@@ -3,6 +3,7 @@ title: "Lets Make a Blended Material Shader - Voxel Terrain - Part 12"
 aliases: [/v/btOs50kk9IA/]
 date: 2017-06-23
 featured_image: https://i.ytimg.com/vi/btOs50kk9IA/mqdefault.jpg
+tags: [ shader,unity3d,tutorial ]
 
 ---
 

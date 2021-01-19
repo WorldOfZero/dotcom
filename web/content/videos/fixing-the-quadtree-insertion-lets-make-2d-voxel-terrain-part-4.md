@@ -3,6 +3,7 @@ title: "Fixing the Quadtree Insertion  - Lets Make 2D Voxel Terrain - Part 4"
 aliases: [/v/GAf_LmI0PkE/]
 date: 2017-02-01
 featured_image: https://i.ytimg.com/vi/GAf_LmI0PkE/mqdefault.jpg
+tags: [ debugging ]
 
 ---
 

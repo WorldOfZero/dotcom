@@ -1,8 +1,9 @@
 ---
 title: "Ludum Dare 38 - World of Zero Live! - Day 2.2"
 aliases: [/v/Q2s98eNhJ1k/]
-date: 2017-04-22
+date: 2017-04-23
 featured_image: https://i.ytimg.com/vi/Q2s98eNhJ1k/mqdefault.jpg
+tags: [ hackathon,livestream,unity3d,csharp,dotnet ]
 
 ---
 

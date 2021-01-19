@@ -3,6 +3,7 @@ title: "Live Coding a UWP Task List"
 aliases: [/v/VXFS0C8ZMNY/]
 date: 2018-04-13
 featured_image: https://i.ytimg.com/vi/VXFS0C8ZMNY/mqdefault.jpg
+tags: [ uwp,livecode,csharp,dotnet ]
 
 ---
 

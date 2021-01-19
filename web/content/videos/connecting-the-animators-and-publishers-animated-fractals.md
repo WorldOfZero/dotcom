@@ -3,6 +3,7 @@ title: "Connecting the Animators and Publishers - Animated Fractals"
 aliases: [/v/DmpHp0lOnQ4/]
 date: 2016-12-06
 featured_image: https://i.ytimg.com/vi/DmpHp0lOnQ4/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

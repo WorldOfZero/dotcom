@@ -3,6 +3,7 @@ title: "Lets Make a Dice Roller with Dot Products"
 aliases: [/v/hmDF9PvMDVw/]
 date: 2017-05-24
 featured_image: https://i.ytimg.com/vi/hmDF9PvMDVw/mqdefault.jpg
+tags: [ unity3d ]
 
 ---
 

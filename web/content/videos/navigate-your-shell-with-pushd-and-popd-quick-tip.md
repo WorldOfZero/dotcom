@@ -3,6 +3,7 @@ title: "Navigate Your Shell With pushd and popd - Quick Tip"
 aliases: [/v/UDD7EyGr8fU/]
 date: 2019-11-22
 featured_image: https://i.ytimg.com/vi/UDD7EyGr8fU/mqdefault.jpg
+tags: [ tip,ci/cd,shell,linux,powershell,bash ]
 
 ---
 

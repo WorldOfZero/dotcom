@@ -1,8 +1,9 @@
 ---
 title: "Lets Make An Expanding Pipe Shader"
 aliases: [/v/2Br1nS59PLU/]
-date: 2018-06-20
+date: 2018-06-21
 featured_image: https://i.ytimg.com/vi/2Br1nS59PLU/mqdefault.jpg
+tags: [ shader,unity3d,tutorial,game ]
 
 ---
 

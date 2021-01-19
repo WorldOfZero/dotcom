@@ -1,8 +1,9 @@
 ---
 title: "Rendering 3D Objects in your UI Using Multiple Cameras"
 aliases: [/v/tACRIWcCzK8/]
-date: 2018-12-04
+date: 2018-12-11
 featured_image: https://i.ytimg.com/vi/tACRIWcCzK8/mqdefault.jpg
+tags: [ unity3d,tutorial ]
 
 ---
 

@@ -3,6 +3,7 @@ title: "Building worldofzero.com - Improved Video Descriptions"
 aliases: [/v/NxQv5N91bQg/]
 date: 2020-11-21
 featured_image: https://i.ytimg.com/vi/NxQv5N91bQg/mqdefault.jpg
+tags: [ csharp,dotnet,livecode ]
 
 ---
 

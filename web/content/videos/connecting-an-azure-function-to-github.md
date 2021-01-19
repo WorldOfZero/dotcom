@@ -1,8 +1,9 @@
 ---
 title: "Connecting an Azure Function to GitHub"
 aliases: [/v/VK8zhoMKa7w/]
-date: 2018-03-09
+date: 2018-03-12
 featured_image: https://i.ytimg.com/vi/VK8zhoMKa7w/mqdefault.jpg
+tags: [ cloud,csharp,dotnet,git ]
 
 ---
 

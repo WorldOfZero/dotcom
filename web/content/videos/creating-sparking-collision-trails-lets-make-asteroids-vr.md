@@ -1,8 +1,9 @@
 ---
 title: "Creating Sparking Collision Trails - Lets Make Asteroids VR"
 aliases: [/v/AswGgqyrF-I/]
-date: 2016-11-28
+date: 2016-11-29
 featured_image: https://i.ytimg.com/vi/AswGgqyrF-I/mqdefault.jpg
+tags: [ csharp,dotnet ]
 
 ---
 

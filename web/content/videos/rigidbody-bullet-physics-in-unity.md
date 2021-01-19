@@ -1,8 +1,9 @@
 ---
 title: "Rigidbody Bullet Physics in Unity"
 aliases: [/v/kltFh0nMLII/]
-date: 2016-11-20
+date: 2017-01-07
 featured_image: https://i.ytimg.com/vi/kltFh0nMLII/mqdefault.jpg
+tags: [  ]
 
 ---
 

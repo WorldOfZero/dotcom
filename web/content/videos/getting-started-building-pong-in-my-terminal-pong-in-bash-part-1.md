@@ -1,8 +1,9 @@
 ---
 title: "Getting Started Building Pong in my Terminal - Pong in Bash - Part 1"
 aliases: [/v/fEtcGFEiuQM/]
-date: 2020-06-23
+date: 2020-06-24
 featured_image: https://i.ytimg.com/vi/fEtcGFEiuQM/mqdefault.jpg
+tags: [ bash,shell,tutorial ]
 
 ---
 

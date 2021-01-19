@@ -1,8 +1,9 @@
 ---
 title: "Building the Idea Wheel Prototype - OBS Overlay - From Live Stream"
 aliases: [/v/CBNO-8OS3wU/]
-date: 2020-06-12
+date: 2020-06-17
 featured_image: https://i.ytimg.com/vi/CBNO-8OS3wU/mqdefault.jpg
+tags: [ livestream,livecode,unity3d,csharp,dotnet ]
 
 ---
 

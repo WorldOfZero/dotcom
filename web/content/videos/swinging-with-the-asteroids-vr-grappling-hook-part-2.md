@@ -3,6 +3,7 @@ title: "Swinging with the Asteroids VR Grappling Hook - Part 2"
 aliases: [/v/GRnALgoI8-4/]
 date: 2018-05-31
 featured_image: https://i.ytimg.com/vi/GRnALgoI8-4/mqdefault.jpg
+tags: [ vr,xr,unity3d,csharp,dotnet ]
 
 ---
 
