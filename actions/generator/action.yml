@@ -28,4 +28,4 @@ runs:
     - ${{ inputs.template-file }}
     - ${{ inputs.channel-id }}
     - ${{ inputs.output }}
-    - ${{ tag-file }}
+    - ${{ inputs.tag-file }}
