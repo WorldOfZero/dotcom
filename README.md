@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/12203603-6aef-4169-a1f2-066fd72f654f/deploy-status)](https://app.netlify.com/sites/worldofzero/deploys)
 
-Build information on [Actions](https://github.com/WorldOfZero/dotcom/actions) tab
+[![Generate Content [YouTube]](https://github.com/WorldOfZero/dotcom/workflows/Generate%20Content%20%5BYouTube%5D/badge.svg)](https://github.com/WorldOfZero/dotcom/actions)
 
 ## Building
 
