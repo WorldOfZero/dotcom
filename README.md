@@ -26,7 +26,7 @@ To generate videos run the generate-files-dotnet app. You will need to provide t
 * `YOUTUBE_API_KEY`: You will need a valid YouTube API Key to interact with the YouTube API. This key may be created in the [Google Developer Console](https://console.developers.google.com/).
 
 ```sh
-dotnet run --project actions/generator/generate-files-dotnet -- --youtube-apikey=$env:YOUTUBE_API_KEY --channel=$env:CHANNEL_ID --output=./web/content/videos --template=./actions/generator/generate-files-dotnet/video.md.template
+dotnet run --project actions/generator/generate-files-dotnet -- --youtube-apikey=$env:YOUTUBE_API_KEY --channel=$env:CHANNEL_ID --output=./web/content/videos --template=./actions/generator/generate-files-dotnet/video.md.template --tags=./tags.yaml
 ```
 
 You may get help with the file generation project by running:
