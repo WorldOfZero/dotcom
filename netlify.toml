@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "./web/public"
 command = "hugo --gc --minify --source ./web"
 
 [context.production]
