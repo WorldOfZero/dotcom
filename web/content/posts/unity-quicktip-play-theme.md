@@ -4,8 +4,8 @@ date: 2020-01-06
 draft: true
 tags:
 - unity3d
-series:
-- quicktips
+- tip
+- tools
 featured_image: "images/posts/shadertoy/reduced-color-range.jpg"
 ---
 
