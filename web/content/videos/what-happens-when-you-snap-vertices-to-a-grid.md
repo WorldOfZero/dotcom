@@ -17,7 +17,7 @@ When this grid snapping is applied against a mesh there are a few additional dec
 
 The vertex shader code that snaps to a grid looks like this (this is the surface shader implementation):
 
-```hlsl
+```shader
 void vert(inout appdata_full v) {
     v.vertex /= _GridSize;
     v.vertex = round(v.vertex);
@@ -26,6 +26,8 @@ void vert(inout appdata_full v) {
 ```
 
 > Note: the syntax is slightly different between the Surface Shader and Vertex Shader implementations however the principals are the same. Both implementations are demonstrated in the video.
+
+You can view the entire playlist of implementing this effect here: https://www.youtube.com/playlist?list=PLEwYhelKHmiixWR3Tn5dYt1iUlSCL6OFq
 
 ***
 
