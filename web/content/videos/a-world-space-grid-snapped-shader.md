@@ -18,9 +18,9 @@ Compared to the previous grid snapped shader we need to add two lines. One to mo
 ```diff
   void vert(inout appdata_full v) {
 +    v.vertex = mul(unity_ObjectToWorld, v.vertex);
-      v.vertex /= _GridSize;
-      v.vertex = round(v.vertex);
-      v.vertex *= _GridSize;
+     v.vertex /= _GridSize;
+     v.vertex = round(v.vertex);
+     v.vertex *= _GridSize;
 +    v.vertex = mul(unity_WorldToObject, v.vertex);
   }
 ```
