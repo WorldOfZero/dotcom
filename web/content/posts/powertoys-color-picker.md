@@ -14,11 +14,11 @@ PowerToys adds a series of useful tools to your Windows computer including a col
 
 The default hotkey to access the PowerToys Color Picker is `Win`+`Shift`+`C`. You can customize this hotkey in the PowerToys settings.
 
-![Select a color by using the hotkey and moving your cursor over the color you'd like more information about](/images/posts/powertoys/color-picker-results.png)
+![Select a color by using the hotkey and moving your cursor over the color you'd like more information about](/images/posts/powertoys/color-picker-selection.png)
 
 Once you've pressed the hotkey just move your mouse over the color you'd like to inspect and click. This will bring up a dialogue box that shows the results in a range of different encodings and color combinations.
 
-![The results are displayed in a dialogue where you can copy results to your clipboard](/images/posts/powertoys/color-picker-selection.png)
+![The results are displayed in a dialogue where you can copy results to your clipboard](/images/posts/powertoys/color-picker-results.png)
 
 You can control the color codes displayed in the Color Picker from the Color Picker settings in PowerToys. This will increase or decrease the potential formats of color to copy including things like RGB, CMYK, HEX and HSB.
 
