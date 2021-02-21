@@ -4,6 +4,7 @@ aliases: [/v/VC-v874C5xQ/]
 date: 2021-02-20
 featured_image: https://i.ytimg.com/vi/VC-v874C5xQ/mqdefault.jpg
 tags: [ shader,livecode,unity3d,tutorial ]
+libraries: [ mermaid ]
 
 ---
 
