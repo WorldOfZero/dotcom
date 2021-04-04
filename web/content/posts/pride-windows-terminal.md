@@ -84,7 +84,7 @@ This includes inputs from the Terminal (`shaderTexture` etc) and a `main` functi
 
 What we're trying to do is render a flag from multiple horizontal bars. To approach that we'll use what I'm calling a "stepped" gradient. A transition between a set of colors with hard edges between each color. This can be built using a set of `lerp` and `step` functions in your shader.
 
-### Using `lerp` and `step`
+### Using lerp and step
 
 `lerp` accepts three values. A left hand side and right hand side value and then a transition value between 0 and 1. Lerp will linearly interpolate between the two values based on the transition value.
 
