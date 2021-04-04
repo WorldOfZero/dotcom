@@ -286,6 +286,8 @@ could use these definitions. The shader supports 12 different segments.
 #define COLOR12 float4(0.33,0.8,0.95,1.0)
 ```
 
+![Example Results with the Trans Pride Color Replacement](/images/posts/shadertoy/trans-pride-shader.png)
+
 ### In Terminal Example
 
 Here's an example of what using this might look like in a terminal:
