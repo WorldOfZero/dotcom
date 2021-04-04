@@ -8,6 +8,7 @@ tags:
 - tip
 - shell
 - shader
+feature_image: /images/posts/shadertoy/terminal-shader-compile-error.png
 ---
 
 Flags! But in your Terminal with Shaders.
@@ -18,13 +19,9 @@ Flags! But in your Terminal with Shaders.
 
 ### Enabling Shaders in Your Terminal
 
-There is currently an experimental feature in the Windows Terminal that
-allows you to assign a HLSL shader to your terminal to customize its appearance.
-I've been exploring this a bit and wanted to share a quick flag example
-that you can use or modify with the terminal.
+There is currently an experimental feature in the Windows Terminal that allows you to assign a HLSL shader to your terminal to customize its appearance. I've been exploring this a bit and wanted to share a quick flag example that you can use or modify with the terminal.
 
-To use this feature you'll need to point your Terminal's settings towards
-the HLSL shader you'd like to use.
+To use this feature you'll need to point your Terminal's settings towards the HLSL shader you'd like to use.
 
 ```json
 {
@@ -38,9 +35,7 @@ the HLSL shader you'd like to use.
 ```
 
 Then enable Shader's in your terminal. This can be done by either
-pressing `ctrl` + `shift` + `p` and "Toggle terminal visual effects". Or
-you can edit your Terminals keybindings with a Toggle Shader Effects
-hotkey to make this easier:
+pressing `ctrl` + `shift` + `p` and "Toggle terminal visual effects". Or you can edit your Terminals keybindings with a Toggle Shader Effects hotkey to make this easier:
 
 ```json
 {
@@ -79,9 +74,7 @@ float4 main(float4 pos : SV_POSITION, float2 tex : TEXCOORD) : SV_TARGET
 }
 ```
 
-This includes inputs from the Terminal (`shaderTexture` etc) and a `main`
-function. The results of your `main` function is the Red, Green, Blue and
-Alpha that will be rendered.
+This includes inputs from the Terminal (`shaderTexture` etc) and a `main` function. The results of your `main` function is the Red, Green, Blue and Alpha that will be rendered.
 
 > Note: This will be rendered on top of your Terminals background if you have
 > one enabled. Your Terminal background will not render if your shader returns
@@ -89,24 +82,15 @@ Alpha that will be rendered.
 
 ## Core Shader Functions - Building the Gradient
 
-What we're trying to do is render a flag from multiple horizontal bars.
-To approach that we'll use what I'm calling a "stepped" gradient. A
-transition between a set of colors with hard edges between each color.
-This can be built using a set of `lerp` and `step` functions in your shader.
+What we're trying to do is render a flag from multiple horizontal bars. To approach that we'll use what I'm calling a "stepped" gradient. A transition between a set of colors with hard edges between each color. This can be built using a set of `lerp` and `step` functions in your shader.
 
 ### Using `lerp` and `step`
 
-`lerp` accepts three values. A left hand side and right hand side value and
-then a transition value between 0 and 1. Lerp will linearly interpolate between
-the two values based on the transition value.
+`lerp` accepts three values. A left hand side and right hand side value and then a transition value between 0 and 1. Lerp will linearly interpolate between the two values based on the transition value.
 
-`step` takes two values. It will return 1 if the second argument is greater than
-the first argument. Otherwise it will return 0. By using this as the
-transition value in our `lerp` function we can move between a set of options.
+`step` takes two values. It will return 1 if the second argument is greater than the first argument. Otherwise it will return 0. By using this as the transition value in our `lerp` function we can move between a set of options.
 
-For example in this WebGL shader on [shadertoy](https://shadertoy.com) we can
-move between red, green and blue over the screen by dividing the screen into
-sections and using the vertical height as our transition value.
+For example in this WebGL shader on [shadertoy](https://shadertoy.com) we can move between red, green and blue over the screen by dividing the screen into sections and using the vertical height as our transition value.
 
 {{< shader id="Ndj3RG" >}}
 
@@ -126,9 +110,7 @@ float4 gradient(float pos)
 
 ### Shader Inputs
 
-Now that we have the function for creating a gradient lets explore the inputs we can
-use to create this effect. There are a few inputs provided to your shader code from
-the terminal:
+Now that we have the function for creating a gradient lets explore the inputs we can use to create this effect. There are a few inputs provided to your shader code from the terminal:
 
 ```hlsl
 Texture2D shaderTexture;
@@ -142,35 +124,21 @@ cbuffer PixelShaderSettings {
 };
 ```
 
-The important ones for us are the `shaderTexture` and `samplerState` which includes
-information about the text rendered to the screen. Without this input we would not
-render any text to the screen. You can see what happens by replacing the main method
-with `return float4(0,0,0,1);`. Your terminal will render as a black screen!
+The important ones for us are the `shaderTexture` and `samplerState` which includes information about the text rendered to the screen. Without this input we would not render any text to the screen. You can see what happens by replacing the main method with `return float4(0,0,0,1);`. Your terminal will render as a black screen!
 
-We will also take advantage of `Time` and `Resolution` as well. The `Time` parameter will
-allow us to inject an animated waving effect into our flag and the `Resolution` can
-be used to handle changing Terminal window sizes.
+We will also take advantage of `Time` and `Resolution` as well. The `Time` parameter will allow us to inject an animated waving effect into our flag and the `Resolution` can be used to handle changing Terminal window sizes.
 
 ### The Flag Waving Animation
 
-To create the waving animation on the flag we'll apply a set of sin waves that modulate
-the screen height we pass into our gradient color function. By using multiple passes of
-sin waves we can use [fourier transforms](https://en.wikipedia.org/wiki/Fourier_transform)
-to create more complex patterns than just moving up and down. This can help us achieve
-the "moving in the wind" effect we're trying to create.
+To create the waving animation on the flag we'll apply a set of sin waves that modulate the screen height we pass into our gradient color function. By using multiple passes of sin waves we can use [fourier transforms](https://en.wikipedia.org/wiki/Fourier_transform) to create more complex patterns than just moving up and down. This can help us achieve the "moving in the wind" effect we're trying to create.
 
-I've parameterized the frequency (`PERIOD#TIME`) and phase (`PERIOD#POSITION`) and also
-provided a scalar value (`PERIOD#STRENGTH`) that can effect the two waves used in the
-effect. Depending on what you would like to accomplish modifying or adding to these
-formula can dramatically change the effect.
+I've parameterized the frequency (`PERIOD#TIME`) and phase (`PERIOD#POSITION`) and also provided a scalar value (`PERIOD#STRENGTH`) that can effect the two waves used in the effect. Depending on what you would like to accomplish modifying or adding to these formula can dramatically change the effect.
 
-> Note: Right now this shader is not written to ignore aspect ratios. This means that your
-> waves will stretch or compress as you change the size and ratio of your terminal window.
+> Note: Right now this shader is not written to ignore aspect ratios. This means that your waves will stretch or compress as you change the size and ratio of your terminal window.
 
 ## The Terminal Shader
 
-Putting these concepts together we can build our flag. While there is a lot of code here
-a lot of it is doing the same or similar things.
+Putting these concepts together we can build our flag. While there is a lot of code here a lot of it is doing the same or similar things.
 
 > If your unsure what something is doing I've included a number of `#define` lines.
 > These control a number of things with the shader and you can change them to alter the
@@ -267,9 +235,7 @@ float4 main(float4 pos : SV_POSITION, float2 tex : TEXCOORD) : SV_TARGET
 
 ### Alternative Color Schemes
 
-The colors in the shader may be configured by replacing the definitions.
-If you'd like to change the flag into a Trans Pride flag for example you
-could use these definitions. The shader supports 12 different segments.
+The colors in the shader may be configured by replacing the definitions. If you'd like to change the flag into a Trans Pride flag for example you could use these definitions. The shader supports 12 different segments.
 
 ```hlsl
 #define COLOR1 float4(0.33,0.8,0.95,1.0)
@@ -302,15 +268,10 @@ Right now if your shader does not work you will see an error message:
 
 ![Warning: Unable to compile the specified pixel shader message](/images/posts/shadertoy/terminal-shader-compile-error.png)
 
-If you see this double check your shader code to ensure that you haven't missed
-a semicolon or other symbol. If you are copying your code from somewhere make sure
-to confirm that the shader your using is for the correct platform.
+If you see this double check your shader code to ensure that you haven't missed a semicolon or other symbol. If you are copying your code from somewhere make sure to confirm that the shader your using is for the correct platform.
 
-These shaders are written for DirectX in HLSL (High Level Shader Language). If
-you're pulling code from ShaderToy or another OpenGL based shader then your
-going to need to convert the shader before you can use it here.
+These shaders are written for DirectX in HLSL (High Level Shader Language). If you're pulling code from ShaderToy or another OpenGL based shader then your going to need to convert the shader before you can use it here.
 
 ***
 
-You can learn more about using Pixel Shaders in the Terminal
-[here](https://github.com/microsoft/terminal/blob/main/samples/PixelShaders/README.md).
+You can learn more about using Pixel Shaders in the Terminal [here](https://github.com/microsoft/terminal/blob/main/samples/PixelShaders/README.md).
