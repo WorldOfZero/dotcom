@@ -27,12 +27,14 @@ To use this feature you'll need to point your Terminal's settings towards
 the HLSL shader you'd like to use.
 
 ```json
-...
-"profiles": {
-  "defaults": {
-    "experimental.pixelShaderPath": "The Path to Your Shader.hlsl"
+{
+  ...
+  "profiles": {
+    "defaults": {
+      "experimental.pixelShaderPath": "The Path to Your Shader.hlsl"
+    },
   },
-},
+}
 ```
 
 Then enable Shader's in your terminal. This can be done by either
@@ -41,15 +43,17 @@ you can edit your Terminals keybindings with a Toggle Shader Effects
 hotkey to make this easier:
 
 ```json
-...
-"keybindings":
-[
+{
   ...
-  {
-    "command": "toggleShaderEffects",
-    "keys": "shift+f10"
-  }
-]
+  "keybindings":
+  [
+    ...
+    {
+      "command": "toggleShaderEffects",
+      "keys": "shift+f10"
+    }
+  ]
+}
 ```
 
 ### The Basic's of a Terminal Shader
