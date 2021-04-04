@@ -8,7 +8,7 @@ tags:
 - tip
 - shell
 - shader
-feature_image: /images/posts/shadertoy/terminal-shader-compile-error.png
+feature_image: "images/posts/shadertoy/terminal-shader-compile-error.png"
 ---
 
 Flags! But in your Terminal with Shaders.
