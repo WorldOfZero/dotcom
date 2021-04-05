@@ -2,7 +2,7 @@
 title: 'Building a Flag Shader for the Windows Terminal'
 description: "You can build custom shaders for your terminal. Lets build a quick flag shader and see what we can learn."
 date: 2021-04-04
-featured_image: "images/posts/shadertoy/terminal-shader-compile-error.png"
+featured_image: "images/posts/shadertoy/trans-pride-shader.png"
 tags:
 - windows
 - tools
