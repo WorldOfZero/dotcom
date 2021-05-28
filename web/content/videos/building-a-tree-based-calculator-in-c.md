@@ -57,7 +57,7 @@ var calc = new Calculation() {
         RightHandValue = new Calculation() { CurrentValue = 5 },
         Function = (left, right) => left + right
     },
-    Function = (left, right) => (int)Math.Pow(left, right)
+    Function = (left, right) => left * right
 };
 var result = Solve(calc);
 Console.WriteLine($"2 * (3 + 5) = {result}!");
