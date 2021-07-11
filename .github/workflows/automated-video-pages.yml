@@ -13,6 +13,8 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v2
+    - name: Clean Generated Content
+      run: rm -rf ./web/content/videos
     - name: Generate YouTube Video Files
       id: generator
       uses: ./actions/generator
