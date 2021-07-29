@@ -9,7 +9,7 @@ tags: [ shader,unity3d,tutorial ]
 
 {{% youtube id="_CNfrFk7r98" %}}
 
-Let's build a stepped gradient in Unity! This a form of gradient with hard transitions between the different keyframes in the gradient which creates clear blocks of color like you might see on a flag or logo. To do this we'll take advantage of the `lerp` and `step` function.
+Let's build a stepped gradient in Unity! This is a form of gradient with hard transitions between the different keyframes in the gradient which creates clear blocks of color like you might see on a flag or logo. To do this we'll take advantage of the `lerp` and `step` function.
 
 The `lerp(x, y, s)` function takes 3 arguments and standards for linear interpolation. This means a constant transition occurs between the left-hand side (`x`) and right-hand side (`y`) as the value (`s`) moves between 0 and 1. For example: `lerp(0, 10, 0.5)` will return `5`.
 
