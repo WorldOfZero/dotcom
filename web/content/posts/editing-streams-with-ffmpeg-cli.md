@@ -31,4 +31,6 @@ Lets break down what these different flags mean:
 
 `FFmpeg` is available for macOS, Windows and Linux distributions.
 
+> If you would like to remove audio from a video you can use the `-an` flag to disable audio in the output file. This is useful if you need to remove white noise from a video or otherwise want it silent.
+
 You can find out more about using `FFmpeg` at the [official `FFmpeg.org` site](https://ffmpeg.org/).
