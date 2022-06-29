@@ -45,7 +45,7 @@ Here is a collection of a few ways you could apply raycasts from my previous pro
 Unity includes a set of functions that can be used in place of raycasts that use different shapes such as spheres or boxes to detect collisions. These function similarly to raycasts for the most part besides having a different shape.
 
 #### [`SphereCast`](https://docs.unity3d.com/ScriptReference/Physics.SphereCast.html)
-`SphereCast` projects a sphere along a ray effectively allowing your raycast to have a radius around itself when detecting objects. This has a few uses but one of the most common is in the development of third person cameras to prevent them from clipping into level geometry and ensure they behave more cleanly in tight corners.
+`SphereCast` projects a sphere along a ray effectively allowing your raycast to have a radius around itself when detecting objects. This has a few uses but one of the most common is in the development of [third person cameras](https://youtu.be/Cfcr7FtbYQo) to prevent them from clipping into level geometry and ensure they behave more cleanly in tight corners.
 
 #### [`BoxCast`](https://docs.unity3d.com/ScriptReference/Physics.BoxCast.html)
 `Boxcast` projects a box along the ray and allow you to test if a box may move without colliding with an object.
