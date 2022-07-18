@@ -1,13 +1,13 @@
 ---
 title: "Ludum Dare 38 - World of Zero Live! - Day 3"
-aliases: [/v/A6RyOo4_Ytg/]
+aliases: [/v/CAh2qwyxEMM/]
 date: 2017-04-23
-featured_image: https://i.ytimg.com/vi/A6RyOo4_Ytg/mqdefault_live.jpg
+featured_image: https://i.ytimg.com/vi/CAh2qwyxEMM/mqdefault.jpg
 tags: [ hackathon,livestream,unity3d,csharp,dotnet ]
 
 ---
 
-{{% youtube id="A6RyOo4_Ytg" %}}
+{{% youtube id="CAh2qwyxEMM" %}}
 
 It's time for Ludum Dare 38! Come hang out as we build... something. Something awesome!
 
