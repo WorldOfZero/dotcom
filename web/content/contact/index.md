@@ -15,4 +15,6 @@ Hi! Lets connect.
 
 {{< button href="https://www.linkedin.com/in/sam-wronski-7235513b/" width="100%" height="72px" color="primary" >}} ![](/svgs/contact/linkedin-brands.svg)LinkedIn{{< /button >}}
 
+{{< button href="https://github.com/runewake2" width="100%" height="72px" color="primary" >}} ![](/svgs/contact/github-brands.svg)GitHub{{< /button >}}
+
 {{< button href="mailto:contact@worldofzero.com" width="100%" height="72px" color="primary" >}} ![](/svgs/contact/at-solid.svg)contact AT worldofzero.com{{< /button >}}
