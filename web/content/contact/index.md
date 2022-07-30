@@ -5,4 +5,6 @@ description: More about World of Zero
 type: contact
 ---
 
-Test, v2
+{{< button href="https://..." >}}button{{< /button >}}
+{{< button href="https://..." >}}button 2{{< /button >}}
+{{< button href="https://..." >}}button 3{{< /button >}}
