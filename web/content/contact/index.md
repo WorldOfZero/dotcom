@@ -7,8 +7,8 @@ type: contact
 
 Hi! Lets connect.
 
-{{< button href="https://twitter.com/runewake2" width="50%" color="primary" >}}Twitter{{< /button >}}
+{{< button href="https://twitter.com/runewake2" width="100%" color="primary" >}}Twitter{{< /button >}}
 
-{{< button href="https://youtube.com/WorldOfZeroDevelopment" width="50%" color="secondary" text-align="center">}}World of Zero - YouTube{{< /button >}}
+{{< button href="https://youtube.com/WorldOfZeroDevelopment" width="100%" color="primary" >}}World of Zero - YouTube{{< /button >}}
 
-{{< button href="https://twitch.tv/worldofzerodev" width="50%" color="primary">}}World of Zero - Twitch{{< /button >}}
+{{< button href="https://twitch.tv/worldofzerodev" width="100%" color="primary" >}}World of Zero - Twitch{{< /button >}}
