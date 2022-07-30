@@ -15,4 +15,4 @@ Hi! Lets connect.
 
 {{< button href="https://www.linkedin.com/in/sam-wronski-7235513b/" width="100%" color="primary" >}}LinkedIn{{< /button >}}
 
-{{< button href="mailto:contact@worldofzero.com" width="100%" color="primary" >}}contact@worldofzero.com{{< /button >}}
+{{< button href="mailto:contact@worldofzero.com" width="100%" color="primary" >}}contact AT worldofzero.com{{< /button >}}
