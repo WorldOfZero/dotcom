@@ -5,6 +5,4 @@ description: More about World of Zero
 type: contact
 ---
 
-{{% center %}}
-Does this work?
-{{% /center %}}
+Test, v2
