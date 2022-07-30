@@ -11,7 +11,7 @@ Hi! Lets connect.
 
 {{< button href="https://twitch.tv/worldofzerodev" width="100%" color="primary" >}}World of Zero - Twitch{{< /button >}}
 
-{{< button href="https://twitter.com/runewake2" width="100%" color="primary" >}}<i class="fa-brands fa-twitter"></i> Twitter{{< /button >}}
+{{< button href="https://twitter.com/runewake2" width="100%" color="primary" >}}![](/svgs/contact/twitter-brands.svg) Twitter{{< /button >}}
 
 {{< button href="https://www.linkedin.com/in/sam-wronski-7235513b/" width="100%" color="primary" >}}LinkedIn{{< /button >}}
 
