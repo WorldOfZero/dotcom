@@ -1,10 +1,14 @@
 ---
-title: "About World of Zero"
+title: "Contact Me"
 date: 2020-01-04T23:58:33+09:00
-description: More about World of Zero
+description: Lets Connect!
 type: contact
 ---
 
-{{< button href="https://..." >}}button{{< /button >}}
-{{< button href="https://..." >}}button 2{{< /button >}}
-{{< button href="https://..." >}}button 3{{< /button >}}
+Hi! Lets connect.
+
+{{< button href="https://twitter.com/runewake2" >}}Twitter{{< /button >}}
+
+{{< button href="https://youtube.com/WorldOfZeroDevelopment" >}}World of Zero - YouTube{{< /button >}}
+
+{{< button href="https://twitch.tv/worldofzerodev" >}}World of Zero - Twitch{{< /button >}}
