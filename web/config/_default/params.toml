@@ -127,7 +127,7 @@ commento = false
   csdn = ""
   zhihu = ""
   gitlab = ""
-  mastodon = "@runewake2@hachyderm.io"
+  mastodon = "https://hachyderm.io/web/@runewake2"
   jianshu = ""
 
 [donationOptions] 
