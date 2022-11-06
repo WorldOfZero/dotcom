@@ -1,6 +1,7 @@
 ---
 title: Renaming a Local Git Branch
 draft: false
+date: 2022-11-06
 libraries:
 - git
 - tip
