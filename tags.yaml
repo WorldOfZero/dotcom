@@ -231,3 +231,7 @@ tags:
     - "3d print"
     - "3d prints"
     - "3d printer"
+  - name: "godot"
+    synonyms:
+    - "godot (game engine)"
+    - "gdscript"
