@@ -3,7 +3,7 @@ title: "Building a Cloud Game w/ @MicrosoftReactor -  Day 1"
 aliases: [/v/OLGFrDxWNaU/]
 date: 2022-12-28
 featured_image: https://i.ytimg.com/vi/OLGFrDxWNaU/mqdefault.jpg
-tags: [ hackathon,cloud,csharp,dotnet,unity3d,livecode ]
+tags: [ hackathon,microsoft reactor,cloud,csharp,dotnet,unity3d,livecode ]
 
 ---
 
