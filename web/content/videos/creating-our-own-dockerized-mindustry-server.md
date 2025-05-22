@@ -41,6 +41,8 @@ We are basing our `Dockerfile` on the `openjdk` images. You can find them on Doc
 
 If you'd like to see how we can apply similar ideas to hosting our own Minecraft Server, you can check out our containerized Minecraft server here: https://youtu.be/JtKIpGjtLzw
 
+The current version of this container is available on GitHub at https://github.com/WorldOfZero/mindustry-server
+
 ***
 
 Mindustry is available on Itch or Steam for desktop players or you can get a copy for your mobile phones:
