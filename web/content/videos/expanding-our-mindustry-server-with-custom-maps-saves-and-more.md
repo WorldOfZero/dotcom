@@ -50,6 +50,8 @@ docker run -it -p 6567:6567 -p 6567:6567/udp -v ${pwd}/config:/config -v ${pwd}/
 
 This command runs a new `Veins` map including our maps and config settings for persistence using volumes.
 
+The current version of this container is available on GitHub at https://github.com/WorldOfZero/mindustry-server
+
 ***
 
 Mindustry is available on Itch or Steam for desktop players or you can get a copy for your mobile phones:
