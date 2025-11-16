@@ -238,3 +238,17 @@ tags:
   - name: "microsoft reactor"
     synonyms:
     - "microsoftreactor"
+  - name: "board games"
+    synonyms:
+    - "boardgame"
+    - "board game"
+    - "tabletop game"
+  - name: "ttrpg"
+    synonyms:
+    - "rollplaying game"
+    - "roll-playing game"
+    - "tabletop "roll-playing game"
+  - name: "project"
+    synonyms:
+    - "projects"
+    - "maker"
