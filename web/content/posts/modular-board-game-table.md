@@ -13,6 +13,14 @@ I've been working on building a modular gaming table. Something that can easily 
 
 > Note: a few parts of this project are still a work-in-progress and have been marked as a stub. Designs for them don't exist yet and may change. If you added your own custom bits, lmk and I can list it here as well for others to find and use.
 
+## Why 2'x4'?
+
+A 2'x4' table allows 6 people to fit quiet tightly together around the table or 4 people to fit comfortably (2 along each long side or 1 along all 4 sides). This also provides ample space for most chairs to fit under the table comfortably.
+
+For wargaming tables typically will want to be 4'x6' which this table can provide by combining 3 tables side by side (it's actually oversized for this purpose).
+
+Furthermore, a number of standard tabletops and countertops are available in these dimensions. This means that tabletops can be sourced from typical hardwood countertop or workbench stores and used on this table without modification or the requirement of woodworking tools.
+
 ## Components
 
 ### 2'x4' Modular Gaming Table
@@ -47,6 +55,7 @@ I use my gaming tables also as workbenches but you don't have to. This means tha
 | ---- | -------- | ----- | ------- | ---- |
 | Kreg Doghole Bench Top | Hardwood | 1 1/2" | Butchers block style hardwood table with dogholes. | https://www.kregtool.com/shop/workspace/bench-system-components/hardwood-bench-top-with-dog-holes/HWBT-DH.html |
 | Kreg Bench Top | Hardwood | 1 1/2" | Butchers block style solid hardwood table. | https://www.kregtool.com/shop/workspace/bench-system-components/hardwood-bench-top/HWBT.html |
+| Woodpecker Track Clamp Bench Top | Birch Ply | 1" | Provides dogholes and tracks for workbench. Adds a slight lip to prevent dice etc from spilling onto floor (*NOTE*: undersized by 1/2" in both dimensions) | https://www.woodpeck.com/track-clamp-bench-tops.html |
 
 Tabletops in this design are held in by trianglular mounting plates that provide 3" of support on both lengths. |abletops aren't fastened to the table in any way so warped tabletops may rock. **This design also makes the tabletops a pinch hazard** as they are quiet heavy and fit tightly into the extrusions. Please be careful when adding a tabletop or swapping to a different one.
 
@@ -140,6 +149,8 @@ A few places sell T-Slot Cleaners. These are tools that can be slotted into your
 
 ## Making All This a Bit Cheaper
 
-You can reduce the cost of this table by removing the black anodization from most of the components. Many aluminum extrusion sellers sell black components at a higher cost than the silver options. If you make the table in silver it will be cheaper.
+One of the main ways I've reduced cost here is by making the table modular. You can build a single [2x4 table](#2x4-modular-gaming-table) to start with and add onto it over time making a larger and larger playing surface as you go. Because the components are all made from aluminum extrusion a number of additional pieces can be added onto the table at almost any time.
 
-Additionally some components may be able to be swapped out for the light versions which use thinner and lighter-weight pieces. These are typically cheaper - however may have less structural strength. If those components fit your table will depend on what you intend to use it for, but if you can use them they will reduce the cost further.
+You can also reduce the cost of this table by removing the black anodization from most of the components. Many aluminum extrusion sellers sell black components at a higher cost than the silver options. If you make the table in silver it will be cheaper.
+
+Additionally some components may be able to be swapped out for the light versions which use thinner walls and lighter-weight pieces. These are typically cheaper - however may have less structural strength. Whether those components fit your table will depend on what you intend to use it for and the structural requirements that entails, but if you can use them they will reduce the cost further. I elected not to use light extrusions because my tables also double as worktops.
