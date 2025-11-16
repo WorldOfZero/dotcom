@@ -9,18 +9,24 @@ tags:
 featured_image: "images/posts/shadertoy/reduced-color-range.jpg"
 ---
 
-You can change the background color of the Unity editor when you're in Play Mode. This can be a handy feature to make it a bit more obvious so you don't make and then lose changes you've made during Play Mode.
+I've been working on building a modular gaming table. Something that can easily be connected and disconnected in different ways in order to create a table that fits my needs. It needed to be something I could build projects on, expand over time and get out of the way when I wanted to utilize a more open space in my room between gaming sessions. I built a custom table using aluminum extrusions that has solved most of that for me. providing easy to use worktops in a size that can be easily expanded and contracted using common parts. Here's how to build your own as well as a large list of custom components you can use to expand upon the basic table.
 
-> Note: a few parts of this project are still a work-in-progress and have been marked as a stub. Designs for them don't exist yet and may change.
+> Note: a few parts of this project are still a work-in-progress and have been marked as a stub. Designs for them don't exist yet and may change. If you added your own custom bits, lmk and I can list it here as well for others to find and use.
 
 ## Components
 
 ### 2'x4' Modular Gaming Table
 
+> TODO: insert a picture of the table
+
 | Item | Machining | Use | Amount | Link |
 | ---- | --------- | --- | ------ | ---- |
 
+> TODO: insert a picture of multiple tables connected together.
+
 ### 2'x4' Modular Storage Table
+
+> TODO: insert a picture of the storage table
 
 Designed to fit and utilize the same tabletop's as the [Modular Gaming Table](#2x4-modular-gaming-table) these storage tables slide in under the gaming table so you can add two shelves beneath your table for storage.
 
@@ -54,6 +60,8 @@ This is a collection of vendors that provide gaming mats that can fit these tabl
 
 ### Modular Connectors
 
+> TODO: insert a picture of the modular connector
+
 While not required these will attach two tables together so they move together.
 
 | Item | Use | Amount | Link |
@@ -73,6 +81,8 @@ They can be used vertically to attach panels to the top of the table or attached
 
 #### Cupholders
 
+> TODO: insert a picture of the cupholder
+
 Both 8020 and TNutz sell nylon cupholders that can be attached to the [Roll-In Connectors](#roll-in-connectors). You can combine these to make easily adjustable cupholders to hold your drinks away from the table so you're less likely to spill drinks onto your games or tabletop.
 
 Here's a few Cupholder options:
@@ -81,6 +91,8 @@ Here's a few Cupholder options:
 - 8020: https://8020.net/2287.html
 
 #### Dice Trays
+
+> TODO: insert a picture of the custom dice trays
 
 ### Channel Guards and Crumb Protection
 
@@ -100,6 +112,8 @@ This allows you to add a drawer with cabinet slides beneath your table for stori
 
 ### Extrusion Attached Power Strip
 
+> TODO: insert an image of the power strip and cables.
+
 This adds a power strip to the bottom of one of your tables with a bunch of outlets to charge phones, laptops or tablets during a D&D game. If you're using the table as a worktop it provides plenty of options for tools and more to connect.
 
 A few options are available and you can modify home power strips to attach to your table as well. My table uses the outlet's sold by McMaster-Carr: https://www.mcmaster.com/catalog/131/2246/3136N933
@@ -112,6 +126,12 @@ A number of cable holders are available for t-slot. I use these to manage cablin
 
 - 1 Opening Cable Holder: https://www.mcmaster.com/47065T388/
 - 2 Opening Cable Holder: https://www.mcmaster.com/47065T6/
+
+### TV-Tabletop
+
+> Stub - I haven't made this yet but am working on it.
+
+The size of these tables should fit a 50 inch TV without the stand. Thin 50 inch TV's are less than the thickness of the tabletop of 1 1/2". Show how to mount the TV as a tabletop for virtual tabletop and digital gaming tables.
 
 ## Making All This a Bit Cheaper
 
