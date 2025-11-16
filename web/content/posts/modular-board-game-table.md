@@ -48,6 +48,8 @@ I use my gaming tables also as workbenches but you don't have to. This means tha
 | Kreg Doghole Bench Top | Hardwood | 1 1/2" | Butchers block style hardwood table with dogholes. | https://www.kregtool.com/shop/workspace/bench-system-components/hardwood-bench-top-with-dog-holes/HWBT-DH.html |
 | Kreg Bench Top | Hardwood | 1 1/2" | Butchers block style solid hardwood table. | https://www.kregtool.com/shop/workspace/bench-system-components/hardwood-bench-top/HWBT.html |
 
+Tabletops in this design are held in by trianglular mounting plates that provide 3" of support on both lengths. |abletops aren't fastened to the table in any way so warped tabletops may rock. **This design also makes the tabletops a pinch hazard** as they are quiet heavy and fit tightly into the extrusions. Please be careful when adding a tabletop or swapping to a different one.
+
 #### Tabletop Gaming Mat Covers
 
 This is a collection of vendors that provide gaming mats that can fit these tables well. *I've collected a few options here but want to note that I have not purchased all of these*!
@@ -132,6 +134,9 @@ A number of cable holders are available for t-slot. I use these to manage cablin
 > Stub - I haven't made this yet but am working on it.
 
 The size of these tables should fit a 50 inch TV without the stand. Thin 50 inch TV's are less than the thickness of the tabletop of 1 1/2". Show how to mount the TV as a tabletop for virtual tabletop and digital gaming tables.
+### T-Slot Cleaner
+
+A few places sell T-Slot Cleaners. These are tools that can be slotted into your extrusions and used to push material out of the channels. If you're not using [Channel Guards](#channel-guards-and-crumb-protection) this can be a really helpful way to clean pieces your vacuum may not reach. However it may not work on integral components that don't have a way to remove the material from the end of the extrusion.
 
 ## Making All This a Bit Cheaper
 
