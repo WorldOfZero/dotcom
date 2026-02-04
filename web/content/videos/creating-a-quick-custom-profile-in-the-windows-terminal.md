@@ -2,6 +2,7 @@
 title: "Creating a Quick Custom Profile in the Windows Terminal"
 aliases: [/v/DGNG9FYkkFE/]
 date: 2021-10-06
+watch_time: 19 minutes
 featured_image: https://i.ytimg.com/vi/DGNG9FYkkFE/mqdefault.jpg
 tags: [ tip,windows,powershell,shell ]
 
