@@ -2,7 +2,7 @@
 title: "Setting Up A Minecraft Server"
 aliases: [/v/lhKTtceyWHs/]
 date: 2019-12-29
-featured_image: https://i.ytimg.com/vi/lhKTtceyWHs/mqdefault_live.jpg
+featured_image: https://i.ytimg.com/vi/lhKTtceyWHs/mqdefault.jpg?v=5e080b7e
 tags: [ livestream,containers ]
 
 ---
