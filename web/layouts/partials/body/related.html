@@ -1,4 +1,5 @@
-{{/* Overrides the theme: adds inferred multi-part series navigation before the related list. */}}
+{{/* Overrides the theme: adds a cheat sheet (if the page has one) and inferred multi-part series navigation before the related list. */}}
+{{ partial "cheatsheet.html" . }}
 {{ $seriesPermalinks := slice }}
 {{ $series := partial "series/key.html" . }}
 {{ if $series.key }}

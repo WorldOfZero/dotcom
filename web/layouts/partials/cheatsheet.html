@@ -1,0 +1,45 @@
+{{/* Renders data/cheatsheets/<page file name>.yaml, if there is one, as a color-coded cheat sheet: a command or snippet
+     with one explanation line per colored part. It is real HTML, so the text is indexable. Videos are generated from
+     YouTube and can't hold shortcodes, which is why sheets are matched to the page by file name instead.
+
+     title:    heading
+     intro:    optional sentence under the heading
+     command:  list of {code, note}; the codes are joined as written, "\n" starts a new line. Parts with a note get the
+               next color and a line in the list below; parts without one are shown uncolored (punctuation, spacing).
+     more:     optional "Also useful" list of {code, note}
+     link:     optional {url, text} */}}
+{{ with .File }}{{ with $.Site.Data.cheatsheets }}{{ with index . $.File.ContentBaseName }}
+{{ $sheet := . }}
+<style>
+  .cheatsheet { margin: 2rem 0; padding: 1rem 1.25rem; border: 1px solid rgba(128, 128, 128, .35); border-radius: 6px; }
+  .cheatsheet h3 { margin: 0 0 .5rem; }
+  .cheatsheet__command { margin: 1rem 0; padding: .75rem 1rem; overflow-x: auto; background: rgba(128, 128, 128, .14); border-radius: 4px; }
+  .cheatsheet dl { margin: 0 0 1rem; }
+  .cheatsheet dt { margin-top: .6rem; font-family: monospace; white-space: pre-wrap; }
+  .cheatsheet dd { margin: 0 0 0 1rem; }
+  .cheatsheet .cs-c0 { color: #2b8be6; } .cheatsheet .cs-c1 { color: #2e9e4d; } .cheatsheet .cs-c2 { color: #c78a00; }
+  .cheatsheet .cs-c3 { color: #a455e0; } .cheatsheet .cs-c4 { color: #e0457b; } .cheatsheet .cs-c5 { color: #d9622b; }
+</style>
+<section class="cheatsheet">
+  <h3>{{ $sheet.title }}</h3>
+  {{ with $sheet.intro }}<p>{{ . }}</p>{{ end }}
+  {{ $n := 0 }}
+  <pre class="cheatsheet__command"><code>{{- range $sheet.command -}}
+    {{- if .note -}}<span class="cs-c{{ mod $n 6 }}">{{ .code }}</span>{{ $n = add $n 1 }}{{- else -}}{{ .code }}{{- end -}}
+  {{- end -}}</code></pre>
+  <dl>
+    {{ $n = 0 }}
+    {{ range $sheet.command }}{{ if .note }}
+    <dt class="cs-c{{ mod $n 6 }}">{{ trim .code "\n " }}</dt><dd>{{ .note }}</dd>
+    {{ $n = add $n 1 }}
+    {{ end }}{{ end }}
+  </dl>
+  {{ with $sheet.more }}
+  <h4>Also useful</h4>
+  <dl>
+    {{ range . }}<dt>{{ .code }}</dt><dd>{{ .note }}</dd>{{ end }}
+  </dl>
+  {{ end }}
+  {{ with $sheet.link }}<p><a href="{{ .url }}">{{ .text }}</a></p>{{ end }}
+</section>
+{{ end }}{{ end }}{{ end }}
