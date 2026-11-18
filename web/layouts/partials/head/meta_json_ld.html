@@ -1,0 +1,57 @@
+{{/* Overrides the theme's JSON-LD. Emits one @graph: the page's main entity plus a BreadcrumbList. */}}
+{{ $site := .Site }}
+{{ $author := dict "@type" "Person" "name" $site.Params.myname "url" $site.BaseURL }}
+{{ $description := .Params.description | default (.Summary | plainify | replaceRE `\s+` " " | truncate 160 | htmlUnescape | htmlUnescape) }}
+{{ $dateFormat := "2006-01-02T15:04:05Z07:00" }}
+{{ $graph := slice }}
+
+{{ if .IsHome }}
+  {{ $sameAs := slice $site.Params.link "https://hachyderm.io/@runewake2" "https://discord.gg/hU5Kq2u" }}
+  {{ $person := merge $author (dict "@id" (print $site.BaseURL "#person") "sameAs" $sameAs) }}
+  {{ $graph = $graph | append $person }}
+  {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (print $site.BaseURL "#website") "url" $site.BaseURL "name" $site.Title "description" $site.Params.description "inLanguage" $site.Language.Lang "publisher" (dict "@id" (print $site.BaseURL "#person"))) }}
+{{ else if .IsPage }}
+  {{ $videoId := "" }}
+  {{ if eq .Section "videos" }}
+    {{ with findRE `youtube id="[^"]+"` .RawContent 1 }}{{ $videoId = replaceRE `^.*"(.+)"$` "$1" (index . 0) }}{{ end }}
+  {{ end }}
+  {{ $image := "" }}
+  {{ with .Params.featured_image }}
+    {{ if findRE `/vi/[^/]+/` . 1 }}{{ $image = printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" (replaceRE `^.*/vi/([^/]+)/.*$` "$1" .) }}{{ else }}{{ $image = . | absURL }}{{ end }}
+  {{ end }}
+  {{ if $videoId }}
+    {{ $video := dict "@type" "VideoObject" "name" .Title "description" $description "thumbnailUrl" (slice (printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $videoId)) "uploadDate" (.Date.Format $dateFormat) "embedUrl" (print "https://www.youtube.com/embed/" $videoId) "url" .Permalink "inLanguage" $site.Language.Lang "publisher" (dict "@type" "Organization" "name" $site.Title "url" $site.BaseURL) }}
+    {{ $graph = $graph | append $video }}
+  {{ else if eq .Section "posts" }}
+    {{ $post := dict "@type" "BlogPosting" "headline" .Title "description" $description "datePublished" (.Date.Format $dateFormat) "dateModified" (.Lastmod.Format $dateFormat) "url" .Permalink "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink) "author" $author "publisher" (dict "@type" "Organization" "name" $site.Title "url" $site.BaseURL) }}
+    {{ with $image }}{{ $post = merge $post (dict "image" .) }}{{ end }}
+    {{ with .Params.tags }}{{ $post = merge $post (dict "keywords" (delimit . ", ")) }}{{ end }}
+    {{ $graph = $graph | append $post }}
+  {{ else }}
+    {{ $graph = $graph | append (dict "@type" "WebPage" "name" .Title "description" $description "url" .Permalink "datePublished" (.Date.Format $dateFormat) "dateModified" (.Lastmod.Format $dateFormat)) }}
+  {{ end }}
+{{ else }}
+  {{ $graph = $graph | append (dict "@type" "CollectionPage" "name" .Title "url" .Permalink "description" ($.Param "description")) }}
+{{ end }}
+
+{{ if not .IsHome }}
+  {{ $crumbs := slice }}
+  {{ $position := 0 }}
+  {{/* .Ancestors is unavailable in Hugo 0.75, so walk .Parent (nearest first) and emit it reversed. */}}
+  {{ $chain := slice }}
+  {{ $ancestor := .Parent }}
+  {{ range seq 5 }}
+    {{ if $ancestor }}{{ $chain = $chain | append $ancestor }}{{ $ancestor = $ancestor.Parent }}{{ end }}
+  {{ end }}
+  {{ range seq (len $chain) }}
+    {{ $position = add $position 1 }}
+    {{ $crumb := index $chain (sub (len $chain) $position) }}
+    {{ $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $position "name" (cond $crumb.IsHome $site.Title $crumb.Title) "item" $crumb.Permalink) }}
+  {{ end }}
+  {{ $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add $position 1) "name" .Title "item" .Permalink) }}
+  {{ $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $crumbs) }}
+{{ end }}
+
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}
+</script>

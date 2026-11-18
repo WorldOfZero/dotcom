@@ -48,7 +48,8 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             var tagSet = await TagConstructor.ParseTagSetFromFile(TagFile);
             var searchableTagSet = new SearchableTagSet(tagSet);
             foreach(var video in videos) {
-                video.Snippet.Tags = new List<string>(TagConstructor.ExpandTags(video.Snippet.Tags, searchableTagSet).Distinct());
+                var youtubeTags = TagConstructor.ExpandTags(video.Snippet.Tags ?? new List<string>(), searchableTagSet);
+                video.Snippet.Tags = new List<string>(youtubeTags.Concat(searchableTagSet.MatchTitle(video.Snippet.Title)).Distinct());
             }
 
             // Write files in a async batch - there is a risk here:

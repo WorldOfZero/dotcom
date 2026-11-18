@@ -1,0 +1,9 @@
+{{/* Groups pages into inferred series. Returns a scratch keyed by series key; each value is a list of {order, page}. Build with partialCached so it runs once. */}}
+{{ $index := newScratch }}
+{{ range .RegularPages }}
+  {{ $series := partial "series/key.html" . }}
+  {{ if $series.key }}
+    {{ $index.Add $series.key (slice (dict "order" $series.order "page" .)) }}
+  {{ end }}
+{{ end }}
+{{ return $index }}

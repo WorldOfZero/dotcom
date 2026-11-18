@@ -1,9 +1,9 @@
-baseURL = "//worldofzero.com/" # The URL of your site.
+baseURL = "https://worldofzero.com/" # The URL of your site. Must be absolute so canonical, sitemap and og:url are valid.
 title = "World of Zero" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
-defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
+defaultContentLanguageInSubdir = false # single language site: serve at baseURL/, not baseURL/en/
 hasCJKLanguage = false # Set `true` for Chinese/Japanese/Korean languages.
 
 summaryLength = 20 # The length of a post description on a list page.
@@ -37,7 +37,25 @@ googleAnalytics = "UA-18687431-5"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+# Only tags are used, but the zzo theme's sidebar templates require the categories and series
+# taxonomies to exist. Their (empty) list pages are noindexed in head/custom-head and left out of the sitemap.
 [taxonomies]
   category = "categories"
   tag = "tags"
   series = "series"
+
+# Weight shared tags heavily so "Related" links point at topically similar videos and posts.
+[related]
+  includeNewer = true
+  threshold = 20
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

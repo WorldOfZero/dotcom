@@ -1,0 +1,33 @@
+<link rel="me" href="https://hachyderm.io/@runewake2"/>
+{{/* The theme's head/meta emits canonical, description and og: tags. Fill in the image/twitter tags it only emits for meta_image/image params. */}}
+{{ if not (or .Params.meta_image .Params.image) }}
+  {{ $image := "" }}
+  {{ $large := false }}
+  {{ $width := 0 }}
+  {{ $height := 0 }}
+  {{ with .Params.featured_image }}
+    {{ $id := replaceRE `^.*/vi/([^/]+)/.*$` "$1" . }}
+    {{ if findRE `/vi/[^/]+/` . 1 }}
+      {{ $image = printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $id }}
+      {{ $large = true }}{{ $width = 480 }}{{ $height = 360 }}
+    {{ else }}
+      {{ $image = . | absURL }}
+      {{ $large = true }}
+    {{ end }}
+  {{ else }}
+    {{ $image = "logo.png" | absURL }}
+    {{ $width = 2000 }}{{ $height = 2000 }}
+  {{ end }}
+<meta property="og:image" content="{{ $image }}">
+<meta property="og:image:url" content="{{ $image }}">
+{{ if $width }}<meta property="og:image:width" content="{{ $width }}">
+<meta property="og:image:height" content="{{ $height }}">{{ end }}
+<meta name="twitter:card" content="{{ if $large }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ $.Param "description" }}">
+<meta name="twitter:image" content="{{ $image }}">
+{{ end }}
+{{/* Thin taxonomy pages stay out of search results: tag pages without an authored description (content/tags/<tag>/_index.md) term pages with no videos or posts yet, and term lists with no terms (categories, series). */}}
+{{ if or (and (eq .Kind "term") (or (not .Params.description) (not .Pages))) (and (eq .Kind "taxonomy") (not .Data.Terms)) }}
+<meta name="robots" content="noindex, follow">
+{{ end }}
