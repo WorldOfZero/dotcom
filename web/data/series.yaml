@@ -1,0 +1,10 @@
+# Series that are not numbered "Part N"/"Day N" in the title. A video belongs to the series when its
+# title contains any of the `match` strings (case insensitive). They are listed in publish order.
+# Numbered titles ("Episode - Series Name - Part 2", "... - Day 1") are detected automatically.
+named:
+  - name: "Asteroids VR"
+    match: ["asteroids vr", "vr asteroids", "asteroid's in virtual reality"]
+  - name: "Animated Fractals"
+    match: ["animated fractals"]
+  - name: "Quick Tips"
+    match: ["quick tip"]

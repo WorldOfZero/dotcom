@@ -252,3 +252,48 @@ tags:
     synonyms:
     - "projects"
     - "maker"
+
+  # Tags added by matching the video title, for topics YouTube video tags don't cover.
+  # keywords are case-insensitive regular expressions (see SearchableTagSet.MatchTitle).
+  - name: "physics"
+    keywords:
+    - 'physics'
+    - 'rigidbod'
+  - name: "mesh"
+    keywords:
+    - '\bmesh'
+    - 'tessellat'
+  - name: "fractals"
+    keywords:
+    - 'fractal'
+    - 'mandelbrot'
+    - 'julia set'
+  - name: "ui"
+    keywords:
+    - '\bui\b'
+    - 'user interface'
+  - name: "unity-editor"
+    keywords:
+    - 'unity.?s? editor'
+    - 'editor window'
+    - 'inspector'
+    - 'gizmo'
+  - name: "particles"
+    keywords:
+    - 'particle'
+  - name: "visual-studio"
+    keywords:
+    - 'visual studio'
+    - 'vs ?code'
+  - name: "minecraft"
+    keywords:
+    - 'minecraft'
+    - 'spigot'
+  - name: "linq"
+    keywords:
+    - '\blinq\b'
+  - name: "gamejam"
+    keywords:
+    - 'jam\b'
+    - 'jam\s?\d'
+    - 'ludum dare'

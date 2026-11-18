@@ -70,7 +70,16 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
 
     private string BuildContents(Video playlistItem)
         {
-            return template.Run(playlistItem);
+            var summary = DescriptionSummarizer.Summarize(playlistItem.Snippet.Description);
+            var page = new VideoPage
+            {
+                Id = playlistItem.Id,
+                Snippet = playlistItem.Snippet,
+                DescriptionLine = summary.Length == 0
+                    ? ""
+                    : $"description: \"{DescriptionSummarizer.EscapeYaml(summary)}\""
+            };
+            return template.Run(page);
         }
 
         // Test for a files existance, if it exists, the contents of the file is returned.

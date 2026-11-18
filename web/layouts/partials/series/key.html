@@ -1,0 +1,45 @@
+{{/* Works out which series a video belongs to. Returns a dict with name, episode, key, order, kind and num, or an empty dict.
+     1. Series listed in data/series.yaml, matched on the title and ordered by publish date.
+     2. Numbered titles: "Episode - Series Name - Part 2" or "Episode - Series Name - Day 1" (also "Episode - Day 1 - Series Name"). */}}
+{{ $page := . }}
+{{ $title := replaceRE `\s+` " " .Title }}
+{{ $lower := lower $title }}
+{{ $result := dict }}
+
+{{ range site.Data.series.named }}
+  {{ $series := . }}
+  {{ range .match }}
+    {{ if and (not $result.key) (in $lower .) }}
+      {{ $result = dict "name" $series.name "episode" $title "key" (replaceRE `[^a-z0-9]` "" (lower $series.name)) "order" $page.Date.Unix "kind" "" "num" "" }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if not $result.key }}
+  {{/* Put numbered markers in their own " - " segment: "Belt- Part 3" and "Reality! Part 2" become "... - Part N". */}}
+  {{ $normalized := replaceRE `(?i)\s*-?\s*\b((?:part|day)\s*\d)` " - $1" $title }}
+  {{ $segments := split $normalized " - " }}
+  {{ $marker := -1 }}
+  {{ range $i, $segment := $segments }}
+    {{ if and (lt $marker 0) (findRE `(?i)^(part|day)\s*\d` $segment 1) }}{{ $marker = $i }}{{ end }}
+  {{ end }}
+  {{ if ge $marker 0 }}
+    {{ $segment := index $segments $marker }}
+    {{ $name := "" }}
+    {{ $episode := "" }}
+    {{ if lt $marker (sub (len $segments) 1) }}
+      {{ $name = index $segments (add $marker 1) }}
+      {{ if gt $marker 0 }}{{ $episode = delimit (first $marker $segments) " - " }}{{ end }}
+    {{ else if gt $marker 0 }}
+      {{ $name = index $segments (sub $marker 1) }}
+      {{ if gt $marker 1 }}{{ $episode = delimit (first (sub $marker 1) $segments) " - " }}{{ end }}
+    {{ end }}
+    {{ $name = trim $name " -" }}
+    {{ if $name }}
+      {{/* The key ignores case, punctuation and spacing so "Let's Make" and "Lets Make" group together. */}}
+      {{ $num := replaceRE `(?i)^(?:part|day)\s*(\d+(?:\.\d+)?).*$` "$1" $segment }}
+      {{ $result = dict "name" $name "episode" (cond (ne $episode "") $episode $name) "key" (replaceRE `[^a-z0-9]` "" (lower $name)) "order" (float $num) "kind" (title (lower (replaceRE `(?i)^(part|day).*$` "$1" $segment))) "num" $num }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $result }}

@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
@@ -32,11 +34,16 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
 
     public class SearchableTagSet {
         private Dictionary<string, List<string>> synonymMap;
+        private List<KeyValuePair<string, Regex>> keywordPatterns = new List<KeyValuePair<string, Regex>>();
 
         public SearchableTagSet(TagSet set) {
             synonymMap = new Dictionary<string, List<string>>();
             foreach(var tag in set.Tags) {
                 AddElement(tag.Name, tag.Name);
+                foreach(var keyword in tag.Keywords ?? new List<string>()) {
+                    keywordPatterns.Add(new KeyValuePair<string, Regex>(
+                        tag.Name, new Regex(keyword, RegexOptions.IgnoreCase | RegexOptions.Compiled)));
+                }
                 if (tag.Synonyms == null) {
                     continue;
                 }
@@ -53,6 +60,14 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
             } else {
                 return new List<string>();
             }
+        }
+
+        // Tags for topics that YouTube video tags don't cover: a tag applies when any of its keyword patterns matches the title.
+        public IEnumerable<string> MatchTitle(string title) {
+            return keywordPatterns
+                .Where(pattern => pattern.Value.IsMatch(title ?? ""))
+                .Select(pattern => pattern.Key)
+                .Distinct();
         }
 
         private void AddElement(string key, string value) {
@@ -75,5 +90,7 @@ namespace WorldOfZero.DotCom.Generator.VideoExporter
     {
         public string Name { get; set; }
         public List<string> Synonyms { get; set; }
+        // Optional regular expressions matched against video titles to add this tag (see SearchableTagSet.MatchTitle)
+        public List<string> Keywords { get; set; }
     }
 }
