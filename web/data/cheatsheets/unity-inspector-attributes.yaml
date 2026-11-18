@@ -1,0 +1,26 @@
+# Rendered under the page of the same name by layouts/partials/cheatsheet.html
+title: "Unity Inspector attributes"
+intro: "Attributes go in square brackets above a class or field and change how it shows up in the Inspector."
+command:
+  - code: "[RequireComponent(typeof(Rigidbody))]"
+    note: "on a class: Unity adds a Rigidbody when the script is added and stops you removing it while the script needs it"
+  - code: "\npublic class Mover : MonoBehaviour\n{\n    "
+  - code: "[Header(\"Movement\")]"
+    note: "puts a bold label above the field in the Inspector, useful for grouping fields"
+  - code: "\n    "
+  - code: "[Range(0, 10)]"
+    note: "on a number field: shows a slider limited to this minimum and maximum"
+  - code: "\n    "
+  - code: "[Tooltip(\"Units per second\")]"
+    note: "text shown when you hover over the field's name in the Inspector"
+  - code: "\n    public float speed = 5;\n}"
+more:
+  - code: "[SerializeField]"
+    note: "Shows a private field in the Inspector without making it public."
+  - code: "[Space]"
+    note: "Adds a gap between fields in the Inspector."
+  - code: "[ContextMenu(\"Reset Speed\")]"
+    note: "On a method: adds it to the component's right-click menu so you can run it from the Inspector."
+link:
+  url: "https://docs.unity3d.com/ScriptReference/RangeAttribute.html"
+  text: "RangeAttribute in the Unity Scripting API"
