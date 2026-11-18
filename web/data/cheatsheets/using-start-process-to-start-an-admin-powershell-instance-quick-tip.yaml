@@ -1,0 +1,20 @@
+# Rendered under the page of the same name by layouts/partials/cheatsheet.html
+title: "Open an admin PowerShell from PowerShell"
+command:
+  - code: "Start-Process"
+    note: "start a new process"
+  - code: " "
+  - code: "Powershell"
+    note: "the program to start"
+  - code: " "
+  - code: "-Verb RunAs"
+    note: "run it elevated (as administrator)"
+  - code: " "
+  - code: "-WorkingDirectory ."
+    note: "start in the current directory; without it, the new shell opens in C:\\WINDOWS\\System32\\"
+more:
+  - code: "Start-Process cmd -Verb RunAs"
+    note: "Same idea for an admin Command Prompt."
+link:
+  url: "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process"
+  text: "Start-Process docs"
