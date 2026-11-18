@@ -1,0 +1,25 @@
+# Rendered under the page of the same name by layouts/partials/cheatsheet.html
+title: "Bash parameter expansion"
+intro: "Each ${...} is replaced with a transformed copy of the variable. The original is not changed."
+command:
+  - code: "file=\"notes.txt\"\necho \""
+  - code: "${file%.txt}"
+    note: "remove the shortest match of the pattern from the end, which strips the extension"
+  - code: "\"          # notes\necho \""
+  - code: "${file^^}"
+    note: "convert to uppercase (Bash 4 or newer)"
+  - code: "\"             # NOTES.TXT\necho \""
+  - code: "${file/notes/todo}"
+    note: "replace the first match of notes with todo"
+  - code: "\"    # todo.txt\necho \""
+  - code: "${missing:-fallback}"
+    note: "use fallback when the variable is unset or empty"
+  - code: "\"  # fallback"
+more:
+  - code: "${#file}"
+    note: "The length of the value in characters."
+  - code: "${file#prefix}"
+    note: "Remove the shortest match of the pattern from the start."
+link:
+  url: "https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Shell-Parameter-Expansion"
+  text: "Shell Parameter Expansion in the Bash manual"
