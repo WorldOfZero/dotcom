@@ -2,7 +2,7 @@
 title: 'Unity: Inspector Attributes'
 date: 2026-11-18
 draft: false
-description: Four Unity attributes that make your scripts easier to use in the Inspector - Range, Header, Tooltip and RequireComponent.
+description: Some attributes that can be added to Unity objects to make them render more nicely inside of the editor's Inspectors.
 tags:
 - unity3d
 - unity-editor

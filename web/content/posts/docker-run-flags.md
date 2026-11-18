@@ -2,7 +2,7 @@
 title: 'Docker: Running a Container with docker run'
 date: 2026-11-18
 draft: false
-description: The docker run flags you will use most often - removing containers on exit, an interactive terminal, port mapping and mounting a folder - in one example.
+description: Helpful docker flags to more quickly launch and run a quick container.
 tags:
 - containers
 - shell
